@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+	<title>Regular Lighter</title>
+	<link href="http://regularlighter.com/atom.xml" rel="self"/>
+	<link href="http://regularlighter.com"/>
+	<updated>2016-09-25T23:14:32+02:00</updated>
+	<id>http://regularlighter.com</id>
+	<author>
+		<name>Bartosz Wais</name>
+		<email>bartoszwais@gmail.com</email>
+	</author>
+
+	
+		<entry>
+			<title>Hello World</title>
+			<link href="http://regularlighter.com/2016/09/25/hello/"/>
+			<updated>2016-09-25T00:00:00+02:00</updated>
+			<id>http://regularlighter.com/2016/09/25/hello</id>
+			<content type="html">&lt;p&gt;Hello World!&lt;/p&gt;
+</content>
+		</entry>
+	
+
+</feed>

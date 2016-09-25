@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box; }
+
+body {
+  padding: 0;
+  margin: 0; }
+
+body > section {
+  background-color: maroon;
+  display: flex;
+  flex-direction: row; }
+
+h1, p, a {
+  color: #fff;
+  font-family: 'Open Sans',sans; }
+
+nav {
+  height: 90vh;
+  width: 10vw;
+  background-color: crimson;
+  padding: 0;
+  margin: 0; }
+  nav ul {
+    padding: 0 33px;
+    margin: 0;
+    list-style: none; }
+
+article {
+  min-width: 90vw;
+  padding: 0 25px; }
+
+footer {
+  background-color: black;
+  height: 10vh; }
+  footer ul {
+    margin: 0;
+    padding: 0;
+    text-align: center; }
+  footer li {
+    display: inline; }
