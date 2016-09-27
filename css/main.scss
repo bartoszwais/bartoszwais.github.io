@@ -14,7 +14,7 @@ body > section {
 }
 h1,p,a {
     color: #fff;
-    font-family: 'Open Sans',sans;
+    font-family: Arial,sans;
 }
 
 h1 {
@@ -23,6 +23,11 @@ h1 {
 
 p {
     font-size: 200%;
+}
+
+a {
+    text-decoration:none;
+    border-bottom: 1px solid white;
 }
 
 nav {
