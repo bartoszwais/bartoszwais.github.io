@@ -10,7 +10,7 @@ body > section {
   display: flex;
   flex-direction: row; }
 
-h1, p, a {
+h1, p, a, span {
   color: #fff;
   font-family: Arial,sans; }
 
@@ -24,16 +24,18 @@ a {
   text-decoration: none;
   border-bottom: 1px solid white; }
 
+ul {
+  list-style: none; }
+
 nav {
   height: 90vh;
   width: 10vw;
   background-color: crimson;
-  padding: 0;
+  padding: 55px 0 0 0;
   margin: 0; }
   nav ul {
     padding: 0 33px;
-    margin: 0;
-    list-style: none; }
+    margin: 0; }
 
 article {
   min-width: 60vw;
