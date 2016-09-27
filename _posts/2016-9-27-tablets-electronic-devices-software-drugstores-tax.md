@@ -1,0 +1,9 @@
+---
+layout: post
+title: Tablets - entry to promote e-medicines, e-therapy tools sold/given in drugstores.
+date: 2016-09-27
+---
+funny confidence, Polish language, plural tablet, in Polish is 'tablety', same as plural pill(drugs category), in Polish slang.
+Not sure if drug stores are selling tablets, could be treated as a tool in therapy, and be cheaper than on entertainment or business tax rate.
+cheaper for user, not for factory to produce, edited, can be cheaper for factory too.
+video games and devices could be treated same way.
