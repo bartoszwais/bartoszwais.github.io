@@ -6,22 +6,28 @@
         {% include analytics.html %}
     </head>
     <body>
-        <section>
-            <nav>
-                <ul>
-                    <li><a href="/">Home</a></li>
-	    		</ul>
-			</nav>
-			<article>
-                {{ content }}
-                {% include disqus.html %}
-			</article>
-        </section>
-        <footer>
-	    		<ul>
-	        		<li><a href="mailto:bartoszwais@googlemail.com">email</a></li>
-	        		<li><a href="https://github.com/bartoszwais">github.com/bartoszwais</a></li>
-				</ul>
-        </footer>
+    <nav>
+        <ul>
+            <li><a href="/">Home</a></li>
+            <li>
+            {% if page.previous.url %}
+                <a class="prev" href="{{page.previous.url}}">&laquo;</a>
+            {% endif %}
+            {% if page.next.url %}
+                <a class="next" href="{{page.next.url}}">&raquo;</a>
+            {% endif %}
+            </li>
+        </ul>
+    </nav>
+    <article>
+        {{ content }}
+        {% include disqus.html %}
+    </article>
+    <footer>
+        <ul>
+            <li><a href="mailto:bartoszwais@googlemail.com">email</a></li>
+            <li><a href="https://github.com/bartoszwais">github.com/bartoszwais</a></li>
+        </ul>
+    </footer>
 		</body>
 	</html>

@@ -1,14 +1,14 @@
 * {
   box-sizing: border-box; }
 
-body {
-  padding: 0;
+body, html {
+  height: 100%;
   margin: 0; }
 
-body > section {
-  background-color: maroon;
-  display: flex;
-  flex-direction: row; }
+body {
+  padding: 0;
+  margin: 0;
+  background-color: maroon; }
 
 h1, p, a, span {
   color: #fff;
@@ -24,25 +24,30 @@ a {
   text-decoration: none;
   border-bottom: 1px solid white; }
 
+a.prev, a.next {
+  text-decoration: none;
+  border: none; }
+
 ul {
   list-style: none; }
 
 nav {
-  height: 90vh;
   background-color: crimson;
-  padding: 55px 0 0 0;
-  margin: 0; }
+  padding: 55px 0 55px 0;
+  margin: 0;
+  float: left; }
   nav ul {
     padding: 0 33px;
     margin: 0; }
 
 article {
-  min-width: 60vw;
-  padding: 0 25px; }
+  width: 60vw;
+  padding: 0 25px;
+  float: left; }
 
 footer {
-  background-color: black;
-  height: 10vh; }
+  height: 10vh;
+  clear: both; }
   footer ul {
     margin: 0;
     padding: 0;
