@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/jekyll/update/2015/11/17/new-years-eve-is-awesome.html</loc>
+<lastmod>2015-11-17T23:16:01+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2016/09/27/tablets-electronic-devices-software-drugstores-tax.html</loc>
+<lastmod>2016-09-27T00:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2016/10/15/vegan-food-tax.html</loc>
+<lastmod>2016-10-15T00:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2017/04/12/regularlighter.html</loc>
+<lastmod>2017-04-12T00:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/index_red.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/about/index.html</loc>
+<lastmod>2016-09-25T19:00:45+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/cv/index.html</loc>
+<lastmod>2016-09-25T19:00:45+02:00</lastmod>
+</url>
+</urlset>
