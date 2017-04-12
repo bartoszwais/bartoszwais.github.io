@@ -4,7 +4,7 @@
 	<title>Regular Lighter</title>
 	<link href="http://regularlighter.com/atom.xml" rel="self"/>
 	<link href="http://regularlighter.com"/>
-	<updated>2017-04-12T13:05:58+02:00</updated>
+	<updated>2017-04-12T13:18:21+02:00</updated>
 	<id>http://regularlighter.com</id>
 	<author>
 		<name>Bartosz Wais</name>
@@ -14,7 +14,7 @@
 	
 		<entry>
 			<title>regularlighter.com redesign and update are coming soon</title>
-			<link href="http://regularlighter.com/2017/04/12/regularlighter/"/>
+			<link href="http://regularlighter.com/2017/04/12/regularlighter.html"/>
 			<updated>2017-04-12T00:00:00+02:00</updated>
 			<id>http://regularlighter.com/2017/04/12/regularlighter</id>
 			<content type="html">&lt;p&gt;regularlighter.com redesign and update are coming soon&lt;/p&gt;
@@ -23,7 +23,7 @@
 	
 		<entry>
 			<title>Vegan food tax, thoughts.</title>
-			<link href="http://regularlighter.com/2016/10/15/vegan-food-tax/"/>
+			<link href="http://regularlighter.com/2016/10/15/vegan-food-tax.html"/>
 			<updated>2016-10-15T00:00:00+02:00</updated>
 			<id>http://regularlighter.com/2016/10/15/vegan-food-tax</id>
 			<content type="html">&lt;p&gt;If vegan thinking, gov tax on meat, fish, eggs should be higher than on fruits &amp;amp; veggies (&amp;amp; muchrooms &amp;amp;spices).I have never checked if is in #Poland, and/or in other countries, not mentioning #EU.&lt;/p&gt;
@@ -36,7 +36,7 @@
 	
 		<entry>
 			<title>Tablets - entry to promote e-medicines, e-therapy tools sold/given in drugstores.</title>
-			<link href="http://regularlighter.com/2016/09/27/tablets-electronic-devices-software-drugstores-tax/"/>
+			<link href="http://regularlighter.com/2016/09/27/tablets-electronic-devices-software-drugstores-tax.html"/>
 			<updated>2016-09-27T00:00:00+02:00</updated>
 			<id>http://regularlighter.com/2016/09/27/tablets-electronic-devices-software-drugstores-tax</id>
 			<content type="html">&lt;p&gt;Funny coincidence, Polish language, plural tablet, in Polish is ‘tablety’, same as plural pill(drugs category), in Polish slang.&lt;/p&gt;
@@ -46,6 +46,18 @@
 &lt;p&gt;Cheaper for user, not for factory to produce, edited, can be cheaper for factory too.&lt;/p&gt;
 
 &lt;p&gt;Video games and devices could be treated same way.&lt;/p&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>Welcome to Jekyll!</title>
+			<link href="http://regularlighter.com/jekyll/update/2015/11/17/new-years-eve-is-awesome.html"/>
+			<updated>2015-11-17T23:16:01+01:00</updated>
+			<id>http://regularlighter.com/jekyll/update/2015/11/17/new-years-eve-is-awesome</id>
+			<content type="html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;bundle exec jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
 </content>
 		</entry>
 	
