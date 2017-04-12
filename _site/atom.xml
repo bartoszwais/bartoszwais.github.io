@@ -4,13 +4,22 @@
 	<title>Regular Lighter</title>
 	<link href="http://regularlighter.com/atom.xml" rel="self"/>
 	<link href="http://regularlighter.com"/>
-	<updated>2016-10-15T16:14:46+02:00</updated>
+	<updated>2017-04-12T13:05:58+02:00</updated>
 	<id>http://regularlighter.com</id>
 	<author>
 		<name>Bartosz Wais</name>
 		<email>bartoszwais@gmail.com</email>
 	</author>
 
+	
+		<entry>
+			<title>regularlighter.com redesign and update are coming soon</title>
+			<link href="http://regularlighter.com/2017/04/12/regularlighter/"/>
+			<updated>2017-04-12T00:00:00+02:00</updated>
+			<id>http://regularlighter.com/2017/04/12/regularlighter</id>
+			<content type="html">&lt;p&gt;regularlighter.com redesign and update are coming soon&lt;/p&gt;
+</content>
+		</entry>
 	
 		<entry>
 			<title>Vegan food tax, thoughts.</title>
