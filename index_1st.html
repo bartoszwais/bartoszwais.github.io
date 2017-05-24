@@ -1,0 +1,145 @@
+---
+layout: default
+---
+
+<h1><strong>Regular Lighter</strong>HTML&amp;JavaScript and CSS library</h1>
+<h1>Regularlighter.com</h1>
+<h2> Library</h2>
+<ul>
+    <li>bare,
+        <a href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">reset.css</a>, no bootstrap, vue js</li>
+    <li>bare+more,<a href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">reset.css</a> no bootstrap, vue js,jquery, chosen css framework</li>
+    <li>bare+more-on-<a href="https://www.ampproject.org/pl/">amp</a> mobile first,
+        <a href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">reset.css</a>, no <a href="http://getbootstrap.com">bootstrap</a>, <a href="vuejs.org">vue js</a>,<a href="http://jquery.com">jquery</a>, chosen css framework</li>
+    <li>bootstrap, reset.css, jquery js</li>
+    <li>bootstrap+more, jquery, vue js</li>
+    <li>add data sources from virtualizer yii2 api, and others from web scraping.</li>
+<li>in System scripts add link variable, stored in jekyll's data(?) and accessed by vue.</li>
+</ul>
+</p>
+{{ site.posts }}
+<h2 id='#gallery'>gallery</h2>
+<p>Collections of gallery, pictures and video of scheduled to be made.</p>
+
+<h3>Fifty fifty</h3>
+<p>TODO: 
+    <ul>
+        <li>tabs CSS / HTML / JS</li>
+        <li>css and js for different screen sizes, 360 is one colum.</li>
+        <li>make one item per post</li>
+    </ul></p>
+<h4>vertical-fifty-fifty gallery</h4>
+<nav>
+    <ol>
+        <li>
+            <a href="#vertical-fifty-fifty-example">Example</a>
+        </li>
+        <li>
+            <a href="#vertical-fifty-fifty-html">HTML</a>
+        </li>
+        <li>
+            <a href="#vertical-fifty-fifty-css">CSS</a>
+        </li>
+        <li>
+            <a href="#vertical-fifty-fifty-js">JS</a>
+        </li>
+    </ol>
+</nav>
+<article id="vertical-fifty-fifty" class="gallery5050">
+    <div class="wrapper">
+    <section id="vertical-fifty-fifty-example">
+        <ul class='vertical-fifty-fifty'>
+            <li>
+                <a href="#"><img src="http://placehold.it/500x500"></a>
+            </li>
+            <li>
+                <a href="#"><img src="http://placehold.it/500x500"></a>
+            </li>
+        </ul>
+    </section>
+    <section id="vertical-fifty-fifty-html">
+        {% highlight html %}
+            <ul class='vertical-fifty-fifty'>
+                <li>
+                    <a href="#"><img src="http://placehold.it/500x500"></a>
+                </li>
+                <li>
+                    <a href="#"><img src="http://placehold.it/500x500"></a>
+                </li>
+            </ul>
+        {% endhighlight %}
+    </section>
+    <section id="vertical-fifty-fifty-css">
+        {% highlight css %}
+        h1 {
+            font-size: 1.8em;
+            strong { display:block;}
+        }
+        /* gallerys */
+        /* css example */
+
+        ul {
+            padding: 0;
+            li {
+                list-style:none;
+
+                img {
+                    border:1px solid #ddd;
+                    width: 100%;
+                }
+            }
+        }
+        .hff, .horizontal-fifty-fifty {
+            padding: 0;
+            li {
+                display:inline;
+                width: 50%;
+            }
+        }
+        .s4x25, .square-4x-quarter, .vff, .vertical-fifty-fifty {
+            padding: 0;
+            li {
+                display:inline;
+                width: 50%;
+                float: left;
+            }
+        }
+        /* End of gallerys */
+        {% endhighlight %}
+    </section>
+    <section id="vertical-fifty-fifty-js">
+        <code><pre> No JS needed.</pre></code>
+    </section>
+    </div>
+</article>
+<h4>square 4x25 gallery</h4>
+<ul class='square-4x-quarter'>
+    <li>
+        <a href="#"><img src="http://placehold.it/500x500"></a>
+    </li>
+    <li>
+        <a href="#"><img src="http://placehold.it/500x500"></a>
+    </li>
+    <li>
+        <a href="#"><img src="http://placehold.it/500x500"></a>
+    </li>
+    <li>
+        <a href="#"><img src="http://placehold.it/500x500"></a>
+    </li>
+</ul>
+<h4>single gallery</h4>
+<ul>
+    <li>
+        <a href="#"><img src="http://placehold.it/500x500"></a>
+    </li>
+</ul>
+<h4>horizontal-fifty-fifty gallery</h4>
+<ul class='horizontal-fifty-fifty'>
+    <li>
+        <a href="#"><img src="http://placehold.it/500x500"></a>
+    </li>
+    <li>
+        <a href="#"><img src="http://placehold.it/500x500"></a>
+    </li>
+</ul>
+

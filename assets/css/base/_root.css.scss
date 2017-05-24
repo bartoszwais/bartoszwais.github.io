@@ -1,0 +1,97 @@
+/**
+ * Set up a decent box model on the root element
+ */
+html {
+  box-sizing: border-box;
+}
+
+/**
+ * Make all elements from the DOM inherit from the parent box-sizing
+ * Since `*` has a specificity of 0, it does not override the `html` value
+ * making all elements inheriting from the root box-sizing value
+ * See: https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/
+ */
+*, ::before, ::after {
+  box-sizing: inherit;
+}
+
+h1 {
+    font-size: 1.8em;
+    strong { display:block;}
+}
+.highlight {
+    background-color:#000;
+}
+
+/* tab */
+div.tab-frame input{ display:none;}
+div.tab-frame label{ display:block; float:left;padding:5px 10px; cursor:pointer}
+div.tab-frame input:checked + label{ background:black; color:white; cursor:default}
+div.tab-frame div.tab{ display:none; padding:5px 10px;clear:left}
+
+div.tab-frame input:nth-of-type(1):checked ~ .tab:nth-of-type(1),
+div.tab-frame input:nth-of-type(2):checked ~ .tab:nth-of-type(2),
+div.tab-frame input:nth-of-type(3):checked ~ .tab:nth-of-type(3),
+div.tab-frame input:nth-of-type(4):checked ~ .tab:nth-of-type(4){ display:block;}
+
+/* end of tab */
+/* gallerys */
+/* css example */
+
+ul {
+    padding: 0;
+    li {
+        list-style:none;
+
+        img {
+            border:1px solid #ddd;
+            width: 100%;
+        }
+    }
+}
+.hff, .horizontal-fifty-fifty {
+    padding: 0;
+    li {
+        width: 50%;
+        float:left;
+    }
+}
+.s4x25, .square-4x-quarter, .vff, .vertical-fifty-fifty {
+    padding: 0;
+    li {
+        display:inline;
+        width: 50%;
+        float: left;
+    }
+}
+/* End of gallerys */
+.gallery5050 {
+    width:100%;
+    height:1000px;
+    overflow:hidden;
+    border:5px solid red;
+    position:relative;
+    nav {
+        width:20%;
+        position:absolute;
+        z-index:1;
+        li {
+            display:inline;
+        }
+    }
+    .wrapper {
+        width:500%;
+        & > section {
+            border:5px solid green;
+            float:left;
+            width: 20%;
+            z-index:2;
+        }
+    }
+    #vertical-fifty-fifty-example {
+    }
+}
+
+.wrapper {
+    width:200%;
+}

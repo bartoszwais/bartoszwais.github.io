@@ -1,64 +1,31 @@
 ---
 layout: default
 ---
-
-<h1><strong>Regular Lighter</strong>HTML&amp;JavaScript and CSS library</h1>
-<h1>Regularlighter.com</h1>
-<h2> Library</h2>
-<ul>
-    <li>bare,
-        <a href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">reset.css</a>, no bootstrap, vue js</li>
-    <li>bare+more,<a href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">reset.css</a> no bootstrap, vue js,jquery, chosen css framework</li>
-    <li>bare+more-on-<a href="https://www.ampproject.org/pl/">amp</a> mobile first,
-        <a href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">reset.css</a>, no <a href="http://getbootstrap.com">bootstrap</a>, <a href="vuejs.org">vue js</a>,<a href="http://jquery.com">jquery</a>, chosen css framework</li>
-    <li>bootstrap, reset.css, jquery js</li>
-    <li>bootstrap+more, jquery, vue js</li>
-    <li>add data sources from virtualizer yii2 api, and others from web scraping.</li>
-<li>in System scripts add link variable, stored in jekyll's data(?) and accessed by vue.</li>
-</ul>
-</p>
-{{ site.posts }}
-<h2 id='#gallery'>gallery</h2>
-<p>Collections of gallery, pictures and video of scheduled to be made.</p>
-
-<h3>Fifty fifty</h3>
-<p>TODO: 
-    <ul>
-        <li>tabs CSS / HTML / JS</li>
-        <li>css and js for different screen sizes, 360 is one colum.</li>
-        <li>make one item per post</li>
-    </ul></p>
-<h4>vertical-fifty-fifty gallery</h4>
-<ul class='vertical-fifty-fifty'>
-    <li>
-        <a href="#"><img src="http://placehold.it/500x500"></a>
-    </li>
-    <li>
-        <a href="#"><img src="http://placehold.it/500x500"></a>
-    </li>
-</ul>
-<h4>square 4x25 gallery</h4>
-<ul class='square-4x-quarter'>
-    <li>
-        <a href="#"><img src="http://placehold.it/500x500"></a>
-    </li>
-    <li>
-        <a href="#"><img src="http://placehold.it/500x500"></a>
-    </li>
-    <li>
-        <a href="#"><img src="http://placehold.it/500x500"></a>
-    </li>
-    <li>
-        <a href="#"><img src="http://placehold.it/500x500"></a>
-    </li>
-</ul>
-<h4>single gallery</h4>
-<ul>
-    <li>
-        <a href="#"><img src="http://placehold.it/500x500"></a>
-    </li>
-</ul>
 <h4>horizontal-fifty-fifty gallery</h4>
+<div class="tab-frame">
+  <input type="radio" checked name="tab" id="tab1">
+  <label for="tab1">Example</label>
+    
+  <input type="radio" name="tab" id="tab2">
+  <label for="tab2">HTML</label>
+  
+  <input type="radio" name="tab" id="tab3">
+  <label for="tab3">CSS</label>
+  <input type="radio" name="tab" id="tab4">
+  <label for="tab4">JS</label>
+ 
+  <div class="tab">
+    <ul class='horizontal-fifty-fifty'>
+        <li>
+            <a href="#"><img src="http://placehold.it/500x500"></a>
+        </li>
+        <li>
+            <a href="#"><img src="http://placehold.it/500x500"></a>
+        </li>
+    </ul>
+  </div>
+  <div class="tab">
+      {% highlight html %}
 <ul class='horizontal-fifty-fifty'>
     <li>
         <a href="#"><img src="http://placehold.it/500x500"></a>
@@ -67,4 +34,35 @@ layout: default
         <a href="#"><img src="http://placehold.it/500x500"></a>
     </li>
 </ul>
+      {% endhighlight %}
+  </div>
+  <div class="tab">
+      {% highlight css %}
+ul {
+    padding: 0;
+    li {
+        list-style:none;
 
+        img {
+            border:1px solid #ddd;
+            width: 100%;
+        }
+    }
+}
+.hff, .horizontal-fifty-fifty {
+    padding: 0;
+    li {
+        display:inline;
+        width: 50%;
+    }
+}
+      {% endhighlight %}
+
+  </div>
+  <div class="tab">
+      {% highlight js %}
+
+      // no js needed
+      {% endhighlight %}
+  </div>
+</div>

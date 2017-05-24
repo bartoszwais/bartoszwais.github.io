@@ -28,125 +28,67 @@
   <body>
     <div class="container">
         <main class="main" aria-label="Content">
-          <h1><strong>Regular Lighter</strong>HTML&amp;JavaScript and CSS library</h1>
-<h1>Regularlighter.com</h1>
-<h2> Library</h2>
-<ul>
-    <li>bare,
-        <a href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">reset.css</a>, no bootstrap, vue js</li>
-    <li>bare+more,<a href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">reset.css</a> no bootstrap, vue js,jquery, chosen css framework</li>
-    <li>bare+more-on-<a href="https://www.ampproject.org/pl/">amp</a> mobile first,
-        <a href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">reset.css</a>, no <a href="http://getbootstrap.com">bootstrap</a>, <a href="vuejs.org">vue js</a>,<a href="http://jquery.com">jquery</a>, chosen css framework</li>
-    <li>bootstrap, reset.css, jquery js</li>
-    <li>bootstrap+more, jquery, vue js</li>
-    <li>add data sources from virtualizer yii2 api, and others from web scraping.</li>
-<li>in System scripts add link variable, stored in jekyll's data(?) and accessed by vue.</li>
-</ul>
-</p>
-<p>regularlighter.com redesign and update are coming soon</p>
-<p>If vegan thinking, gov tax on meat, fish, eggs should be higher than on fruits &amp; veggies (&amp; muchrooms &amp;spices).I have never checked if is in #Poland, and/or in other countries, not mentioning #EU.</p>
+          <h4>horizontal-fifty-fifty gallery</h4>
+<div class="tab-frame">
+  <input type="radio" checked name="tab" id="tab1">
+  <label for="tab1">Example</label>
+    
+  <input type="radio" name="tab" id="tab2">
+  <label for="tab2">HTML</label>
+  
+  <input type="radio" name="tab" id="tab3">
+  <label for="tab3">CSS</label>
+  <input type="radio" name="tab" id="tab4">
+  <label for="tab4">JS</label>
+ 
+  <div class="tab">
+    <ul class='horizontal-fifty-fifty'>
+        <li>
+            <a href="#"><img src="http://placehold.it/500x500"></a>
+        </li>
+        <li>
+            <a href="#"><img src="http://placehold.it/500x500"></a>
+        </li>
+    </ul>
+  </div>
+  <div class="tab">
+      <figure class="highlight"><pre><code class="language-html" data-lang="html"><span class="nt">&lt;ul</span> <span class="na">class=</span><span class="s">'horizontal-fifty-fifty'</span><span class="nt">&gt;</span>
+    <span class="nt">&lt;li&gt;</span>
+        <span class="nt">&lt;a</span> <span class="na">href=</span><span class="s">"#"</span><span class="nt">&gt;&lt;img</span> <span class="na">src=</span><span class="s">"http://placehold.it/500x500"</span><span class="nt">&gt;&lt;/a&gt;</span>
+    <span class="nt">&lt;/li&gt;</span>
+    <span class="nt">&lt;li&gt;</span>
+        <span class="nt">&lt;a</span> <span class="na">href=</span><span class="s">"#"</span><span class="nt">&gt;&lt;img</span> <span class="na">src=</span><span class="s">"http://placehold.it/500x500"</span><span class="nt">&gt;&lt;/a&gt;</span>
+    <span class="nt">&lt;/li&gt;</span>
+<span class="nt">&lt;/ul&gt;</span>
+      </code></pre></figure>
+  </div>
+  <div class="tab">
+      <figure class="highlight"><pre><code class="language-css" data-lang="css"><span class="nt">ul</span> <span class="p">{</span>
+    <span class="nl">padding</span><span class="p">:</span> <span class="m">0</span><span class="p">;</span>
+    <span class="err">li</span> <span class="err">{</span>
+        <span class="nl">list-style</span><span class="p">:</span><span class="nb">none</span><span class="p">;</span>
 
-<p>Neither checked relation between vegan and pro abortion.</p>
+        <span class="err">img</span> <span class="err">{</span>
+            <span class="nl">border</span><span class="p">:</span><span class="m">1px</span> <span class="nb">solid</span> <span class="m">#ddd</span><span class="p">;</span>
+            <span class="nl">width</span><span class="p">:</span> <span class="m">100%</span><span class="p">;</span>
+        <span class="p">}</span>
+    <span class="err">}</span>
+<span class="err">}</span>
+<span class="nc">.hff</span><span class="o">,</span> <span class="nc">.horizontal-fifty-fifty</span> <span class="p">{</span>
+    <span class="nl">padding</span><span class="p">:</span> <span class="m">0</span><span class="p">;</span>
+    <span class="err">li</span> <span class="err">{</span>
+        <span class="nl">display</span><span class="p">:</span><span class="nb">inline</span><span class="p">;</span>
+        <span class="nl">width</span><span class="p">:</span> <span class="m">50%</span><span class="p">;</span>
+    <span class="p">}</span>
+<span class="err">}</span>
+      </code></pre></figure>
 
-<p>Additional gov tax on meat could help forrest/sea and agriculture or directly reduce price on selected products(negative tax).</p>
-<p>Funny coincidence, Polish language, plural tablet, in Polish is ‘tablety’, same as plural pill(drugs category), in Polish slang.</p>
-
-<p>Not sure if drug stores are selling tablets, could be treated as a tool in therapy, and be cheaper than on entertainment or business tax rate.</p>
-
-<p>Cheaper for user, not for factory to produce, edited, can be cheaper for factory too.</p>
-
-<p>Video games and devices could be treated same way.</p>
-<!DOCTYPE html>
-<html lang="en">
-
-  <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <title>Welcome to Jekyll!</title>
-  <meta name="description" content="You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different wa...">
-
-  <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">disabled due to use of bootstrap's normalize -->
-
-  <!-- start js: reset, bootstrap 4, vertical-rhytm lines. -->
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
-<script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
-  <link rel="stylesheet" href="//basehold.it/24">
-<!-- end of js: reset, bootstrap 4, vertical-rhytm lines. -->
-  <link rel="stylesheet" href="/assets/css/main.css">
-  <link rel="canonical" href="http://localhost:4000/jekyll/update/2015/11/17/new-years-eve-is-awesome.html">
-
-  <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Regular Lighter" />
-</head>
-
-
-  <body>
-    <div class="container">
-        <main class="main" aria-label="Content">
-          <p>You’ll find this post in your <code class="highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="highlighter-rouge">bundle exec jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
-
-<p>To add new posts, simply add a file in the <code class="highlighter-rouge">_posts</code> directory that follows the convention <code class="highlighter-rouge">YYYY-MM-DD-name-of-post.ext</code> and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
-
-
-        </main>
-    </div>
-  </body>
-
-</html>
-
-<h2 id='#gallery'>gallery</h2>
-<p>Collections of gallery, pictures and video of scheduled to be made.</p>
-
-<h3>Fifty fifty</h3>
-<p>TODO: 
-    <ul>
-        <li>tabs CSS / HTML / JS</li>
-        <li>css and js for different screen sizes, 360 is one colum.</li>
-        <li>make one item per post</li>
-    </ul></p>
-<h4>vertical-fifty-fifty gallery</h4>
-<ul class='vertical-fifty-fifty'>
-    <li>
-        <a href="#"><img src="http://placehold.it/500x500"></a>
-    </li>
-    <li>
-        <a href="#"><img src="http://placehold.it/500x500"></a>
-    </li>
-</ul>
-<h4>square 4x25 gallery</h4>
-<ul class='square-4x-quarter'>
-    <li>
-        <a href="#"><img src="http://placehold.it/500x500"></a>
-    </li>
-    <li>
-        <a href="#"><img src="http://placehold.it/500x500"></a>
-    </li>
-    <li>
-        <a href="#"><img src="http://placehold.it/500x500"></a>
-    </li>
-    <li>
-        <a href="#"><img src="http://placehold.it/500x500"></a>
-    </li>
-</ul>
-<h4>single gallery</h4>
-<ul>
-    <li>
-        <a href="#"><img src="http://placehold.it/500x500"></a>
-    </li>
-</ul>
-<h4>horizontal-fifty-fifty gallery</h4>
-<ul class='horizontal-fifty-fifty'>
-    <li>
-        <a href="#"><img src="http://placehold.it/500x500"></a>
-    </li>
-    <li>
-        <a href="#"><img src="http://placehold.it/500x500"></a>
-    </li>
-</ul>
-
+  </div>
+  <div class="tab">
+      <figure class="highlight"><pre><code class="language-js" data-lang="js">      <span class="c1">// no js needed</span>
+      </code></pre></figure>
+  </div>
+</div>
 
         </main>
     </div>
