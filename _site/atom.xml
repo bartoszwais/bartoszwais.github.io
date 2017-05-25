@@ -4,13 +4,41 @@
 	<title>Regular Lighter</title>
 	<link href="http://regularlighter.com/atom.xml" rel="self"/>
 	<link href="http://regularlighter.com"/>
-	<updated>2017-05-25T23:12:58+02:00</updated>
+	<updated>2017-05-25T23:16:19+02:00</updated>
 	<id>http://regularlighter.com</id>
 	<author>
 		<name>Bartosz Wais</name>
 		<email>bartoszwais@gmail.com</email>
 	</author>
 
+	
+		<entry>
+			<title>Są tu jakieś projekty?</title>
+			<link href="http://regularlighter.com/2017/05/25/sa-tu-jakies-projekty.html"/>
+			<updated>2017-05-25T00:00:00+02:00</updated>
+			<id>http://regularlighter.com/2017/05/25/sa-tu-jakies-projekty</id>
+			<content type="html">&lt;p&gt;Są tu jakieś projekty?&lt;/p&gt;
+
+&lt;amp-img width=&quot;600&quot; height=&quot;500&quot; layout=&quot;responsive&quot; src=&quot;http://lorempixel.com/600/500/&quot;&gt;&lt;/amp-img&gt;
+
+&lt;p&gt;proponuję: 1. Stworzenie listy polskich i anglojęzycznych stron ze zleceniami, 2. Określenie stacku technologicznego jakim dysponujemy. 3. Wybranie grupy docelowej klientów 4. Poszukiwanie zleceń w wybranym obszarze&lt;/p&gt;
+
+&lt;p&gt;Tak mi przyszło do głowy, może dlatego że w pracy to maglujemy, hosting, w chmurze, dedykowane i współdzielone, oferować to po cenie zakupu, albo nawet poniżej kosztów, żeby przyciągnąć klientów. Zrobić ofertę i dorzućić do naszych “usług”, po pewnym czasie można naliczać według normalnych, rynkowych cen.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;administracje, zarządzanie też bym dodał.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;planuje przetestować chmurę https://unicloud.pl//..&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;amp-img width=&quot;600&quot; height=&quot;300&quot; layout=&quot;responsive&quot; src=&quot;http://lorempixel.com/600/300/&quot;&gt;&lt;/amp-img&gt;
+
+&lt;p&gt;mailchimp-a może by używać do e-mail newslettera, budowalibyśmy bazę e-mail potencjalnych klientów i wysłali newslettera.. z ofertą i artykułami raz w miesiącu na początek 
+https://mailchimp.com/pricing/&lt;/p&gt;
+</content>
+		</entry>
 	
 		<entry>
 			<title>My New Post</title>
