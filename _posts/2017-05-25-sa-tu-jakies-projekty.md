@@ -7,7 +7,11 @@ Są tu jakieś projekty?
 
 <amp-img width="600" height="500" layout="responsive" src="http://lorempixel.com/600/500/"></amp-img>
 
-proponuję: 1. Stworzenie listy polskich i anglojęzycznych stron ze zleceniami, 2. Określenie stacku technologicznego jakim dysponujemy. 3. Wybranie grupy docelowej klientów 4. Poszukiwanie zleceń w wybranym obszarze
+### Proponuję:
+1. Stworzenie listy polskich i anglojęzycznych stron ze zleceniami,
+2. Określenie stacku technologicznego jakim dysponujemy.
+3. Wybranie grupy docelowej klientów 
+4. Poszukiwanie zleceń w wybranym obszarze
 
 Tak mi przyszło do głowy, może dlatego że w pracy to maglujemy, hosting, w chmurze, dedykowane i współdzielone, oferować to po cenie zakupu, albo nawet poniżej kosztów, żeby przyciągnąć klientów. Zrobić ofertę i dorzućić do naszych "usług", po pewnym czasie można naliczać według normalnych, rynkowych cen.
 

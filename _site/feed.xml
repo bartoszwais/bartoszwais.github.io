@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 25 May 2017 23:16:19 +0200</pubDate>
-    <lastBuildDate>Thu, 25 May 2017 23:16:19 +0200</lastBuildDate>
+    <pubDate>Thu, 25 May 2017 23:24:13 +0200</pubDate>
+    <lastBuildDate>Thu, 25 May 2017 23:24:13 +0200</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -16,7 +16,13 @@
 
 &lt;amp-img width=&quot;600&quot; height=&quot;500&quot; layout=&quot;responsive&quot; src=&quot;http://lorempixel.com/600/500/&quot;&gt;&lt;/amp-img&gt;
 
-&lt;p&gt;proponuję: 1. Stworzenie listy polskich i anglojęzycznych stron ze zleceniami, 2. Określenie stacku technologicznego jakim dysponujemy. 3. Wybranie grupy docelowej klientów 4. Poszukiwanie zleceń w wybranym obszarze&lt;/p&gt;
+&lt;h3 id=&quot;proponuję&quot;&gt;Proponuję:&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Stworzenie listy polskich i anglojęzycznych stron ze zleceniami,&lt;/li&gt;
+  &lt;li&gt;Określenie stacku technologicznego jakim dysponujemy.&lt;/li&gt;
+  &lt;li&gt;Wybranie grupy docelowej klientów&lt;/li&gt;
+  &lt;li&gt;Poszukiwanie zleceń w wybranym obszarze&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;p&gt;Tak mi przyszło do głowy, może dlatego że w pracy to maglujemy, hosting, w chmurze, dedykowane i współdzielone, oferować to po cenie zakupu, albo nawet poniżej kosztów, żeby przyciągnąć klientów. Zrobić ofertę i dorzućić do naszych “usług”, po pewnym czasie można naliczać według normalnych, rynkowych cen.&lt;/p&gt;
 
