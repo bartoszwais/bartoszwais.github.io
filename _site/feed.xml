@@ -1,14 +1,74 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://regularlighter.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://regularlighter.com/" rel="alternate" type="text/html" /><updated>2017-05-25T20:17:57+02:00</updated><id>http://regularlighter.com/</id><title type="html">Regular Lighter</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</subtitle><entry><title type="html">regularlighter.com redesign and update are coming soon</title><link href="http://regularlighter.com/2017/04/12/regularlighter.html" rel="alternate" type="text/html" title="regularlighter.com redesign and update are coming soon" /><published>2017-04-12T00:00:00+02:00</published><updated>2017-04-12T00:00:00+02:00</updated><id>http://regularlighter.com/2017/04/12/regularlighter</id><content type="html" xml:base="http://regularlighter.com/2017/04/12/regularlighter.html">&lt;p&gt;regularlighter.com redesign and update are coming soon&lt;/p&gt;</content><author><name></name></author><summary type="html">regularlighter.com redesign and update are coming soon</summary></entry><entry><title type="html">Vegan food tax, thoughts.</title><link href="http://regularlighter.com/2016/10/15/vegan-food-tax.html" rel="alternate" type="text/html" title="Vegan food tax, thoughts." /><published>2016-10-15T00:00:00+02:00</published><updated>2016-10-15T00:00:00+02:00</updated><id>http://regularlighter.com/2016/10/15/vegan-food-tax</id><content type="html" xml:base="http://regularlighter.com/2016/10/15/vegan-food-tax.html">&lt;p&gt;If vegan thinking, gov tax on meat, fish, eggs should be higher than on fruits &amp;amp; veggies (&amp;amp; muchrooms &amp;amp;spices).I have never checked if is in #Poland, and/or in other countries, not mentioning #EU.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Regular Lighter</title>
+    <description>Web Development services.
+</description>
+    <link>http://regularlighter.com/</link>
+    <atom:link href="http://regularlighter.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 25 May 2017 23:12:58 +0200</pubDate>
+    <lastBuildDate>Thu, 25 May 2017 23:12:58 +0200</lastBuildDate>
+    <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>My New Post</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit!&lt;/p&gt;
 
-&lt;p&gt;Neither checked relation between vegan and pro abortion.&lt;/p&gt;
+&lt;amp-img width=&quot;600&quot; height=&quot;500&quot; layout=&quot;responsive&quot; src=&quot;http://lorempixel.com/600/500/transport&quot;&gt;&lt;/amp-img&gt;
 
-&lt;p&gt;Additional gov tax on meat could help forrest/sea and agriculture or directly reduce price on selected products(negative tax).&lt;/p&gt;</content><author><name></name></author><summary type="html">If vegan thinking, gov tax on meat, fish, eggs should be higher than on fruits &amp;amp; veggies (&amp;amp; muchrooms &amp;amp;spices).I have never checked if is in #Poland, and/or in other countries, not mentioning #EU.</summary></entry><entry><title type="html">Tablets - entry to promote e-medicines, e-therapy tools sold/given in drugstores.</title><link href="http://regularlighter.com/2016/09/27/tablets-electronic-devices-software-drugstores-tax.html" rel="alternate" type="text/html" title="Tablets - entry to promote e-medicines, e-therapy tools sold/given in drugstores." /><published>2016-09-27T00:00:00+02:00</published><updated>2016-09-27T00:00:00+02:00</updated><id>http://regularlighter.com/2016/09/27/tablets-electronic-devices-software-drugstores-tax</id><content type="html" xml:base="http://regularlighter.com/2016/09/27/tablets-electronic-devices-software-drugstores-tax.html">&lt;p&gt;Funny coincidence, Polish language, plural tablet, in Polish is ‘tablety’, same as plural pill(drugs category), in Polish slang.&lt;/p&gt;
+&lt;p&gt;Nulla dapibus vestibulum ligula in sodales. Phasellus eu metus quam. Sed id varius diam. Morbi pellentesque lorem vitae ex commodo, sed dapibus ex dignissim. Etiam facilisis pellentesque gravida. Sed tempus diam sed odio tempor, tristique elementum erat condimentum. Ut volutpat dui ex, a auctor dolor pretium eget.&lt;/p&gt;
 
-&lt;p&gt;Not sure if drug stores are selling tablets, could be treated as a tool in therapy, and be cheaper than on entertainment or business tax rate.&lt;/p&gt;
+&lt;p&gt;Vivamus nec mauris suscipit enim viverra tristique ut eget risus. Vestibulum ullamcorper at sem eu sodales. Praesent felis tellus, condimentum vitae purus id, consectetur interdum urna. Pellentesque laoreet non arcu volutpat euismod. Suspendisse sed enim non ex interdum sodales. Quisque vitae vestibulum turpis. Aenean nec est dolor.&lt;/p&gt;
 
-&lt;p&gt;Cheaper for user, not for factory to produce, edited, can be cheaper for factory too.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Pellentesque quis mi at erat iaculis cursus. Phasellus ligula neque, pulvinar sed malesuada id, feugiat ac magna. Proin sed scelerisque metus. Pellentesque mi augue, egestas nec ante a, faucibus ullamcorper enim. Sed nisi felis, rutrum imperdiet aliquam nec, placerat vel odio. Nulla quis urna ut risus aliquam tempor.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;Video games and devices could be treated same way.&lt;/p&gt;</content><author><name></name></author><summary type="html">Funny coincidence, Polish language, plural tablet, in Polish is ‘tablety’, same as plural pill(drugs category), in Polish slang.</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://regularlighter.com/jekyll/update/2015/11/17/new-years-eve-is-awesome.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2015-11-17T23:16:01+01:00</published><updated>2015-11-17T23:16:01+01:00</updated><id>http://regularlighter.com/jekyll/update/2015/11/17/new-years-eve-is-awesome</id><content type="html" xml:base="http://regularlighter.com/jekyll/update/2015/11/17/new-years-eve-is-awesome.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;bundle exec jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+&lt;amp-img width=&quot;600&quot; height=&quot;300&quot; layout=&quot;responsive&quot; src=&quot;http://lorempixel.com/600/300/transport&quot;&gt;&lt;/amp-img&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run bundle exec jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
+&lt;p&gt;Nulla mi risus, lobortis quis lectus vel, gravida eleifend lacus. Proin mattis odio elit, nec vehicula diam varius vitae. Nunc a ipsum at justo rhoncus mattis. Proin auctor lorem quis libero viverra aliquam. Suspendisse quis tristique sapien. Integer eu felis vel orci dignissim suscipit pharetra vitae nisl. Ut viverra sed enim quis pretium. Etiam auctor a ante sed pharetra.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 13 Mar 2016 00:00:00 +0100</pubDate>
+        <link>http://regularlighter.com/2016/03/13/my-new-post.html</link>
+        <guid isPermaLink="true">http://regularlighter.com/2016/03/13/my-new-post.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Ea eam nibh persecuti, partem habemus nominavi</title>
+        <description>&lt;p&gt;At labitur probatus eum, qui modo idque partem ne, ea has oratio sanctus cotidieque. Dicta persecuti sit ex. Discere facilis recteque sit no, in eripuit volumus adversarium vim. Ad sed meis nulla accusata. Ex posse accusam maluisset mei, id vix ignota cetero inimicus.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Nec amet pericula dissentiet…&lt;/p&gt;
+
+  &lt;p&gt;Nam liber tritani ei, urbanitas tincidunt usu et. Odio voluptua gubergren at cum. An porro mucius tibique nam, cu usu everti dignissim assueverit. Docendi patrioque constituto te sit. Qui lorem soluta ea, commune deserunt sed id. Accusam commune cotidieque his ea.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Pro hinc copiosae an, ad ius salutandi expetendis. Quo suavitate intellegat forensibus an. Sonet meliore consetetur te sea, in eam decore utroque, dicat verear et sit. Pro aperiam pertinax splendide id, IUS STET ELEIFEND INTELLEGAM ID.&lt;/p&gt;
+
+&lt;amp-img width=&quot;600&quot; height=&quot;300&quot; layout=&quot;responsive&quot; src=&quot;http://lorempixel.com/600/300/people&quot;&gt;&lt;/amp-img&gt;
+
+&lt;p&gt;Ea ullamcorper intellegebat pri!&lt;/p&gt;
+
+&lt;h3 id=&quot;vix-cu-alienum-evertitur&quot;&gt;Vix cu alienum evertitur&lt;/h3&gt;
+
+&lt;p&gt;Mea suas vituperatoribus et, virtute corpora quaestio cum ut. Ne solet nostrum complectitur pri, vis ut inani populo. Ad eligendi vituperata sadipscing pro, ad mea modo meis philosophia, an eos consul impedit qualisque. Eruditi reprimique id eum, in tincidunt percipitur vis.&lt;/p&gt;
+
+&lt;amp-youtube data-videoid=&quot;lBTCB7yLs8Y&quot; layout=&quot;responsive&quot; width=&quot;480&quot; height=&quot;270&quot;&gt;&lt;/amp-youtube&gt;
+
+&lt;p&gt;Ne ius nominavi verterem. Principes voluptaria pro at. Sint mediocrem cum ea, his purto dicat scaevola ad. Per quem magna gubergren id, pri in noluisse salutatus imperdiet. In postea consequat percipitur vis, nam postea commodo lobortis an, ut atqui antiopam eloquentiam eum.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Erat officiis probatus eam ea, nibh legere insolens ad sit. Nec alii dicam ad, cibo regione per no. Verear invenire ut usu, nec mazim euripidis in. Molestie placerat id quo, quo dissentias complectitur ex. Ex probatus principes efficiantur pro, possit perfecto ut eum. Vix ei summo perpetua, enim adhuc vix ei, sed in homero delicata periculis. Praesent intellegat qui ne.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Tue, 08 Mar 2016 00:00:00 +0100</pubDate>
+        <link>http://regularlighter.com/2016/03/08/example-post.html</link>
+        <guid isPermaLink="true">http://regularlighter.com/2016/03/08/example-post.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
