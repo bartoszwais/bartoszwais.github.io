@@ -1,14 +1,13 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: page.lang | default: 'en' }}">
-
+<html ⚡ lang="en">
   {% include head.html %}
-
   <body>
-    <div class="container">
-        <main class="main" aria-label="Content">
-          {{ content }}
-        </main>
-    </div>
-  </body>
+    {% include header.html %}
 
+    {{ content }}
+
+    {% comment %}
+        {% include analytics.html %}
+    {% endcomment %}
+  </body>
 </html>
