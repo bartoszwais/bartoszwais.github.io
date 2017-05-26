@@ -6,23 +6,15 @@
 </description>
     <link>http://regularlighter.com/</link>
     <atom:link href="http://regularlighter.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 26 May 2017 11:54:03 +0200</pubDate>
-    <lastBuildDate>Fri, 26 May 2017 11:54:03 +0200</lastBuildDate>
+    <pubDate>Fri, 26 May 2017 12:41:38 +0200</pubDate>
+    <lastBuildDate>Fri, 26 May 2017 12:41:38 +0200</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
-        <title>Są tu jakieś projekty?</title>
-        <description>&lt;p&gt;Są tu jakieś projekty?&lt;/p&gt;
+        <title>Projekt testowy</title>
+        <description>&lt;p&gt;Projekt testowy.&lt;/p&gt;
 
 &lt;amp-img width=&quot;600&quot; height=&quot;500&quot; layout=&quot;responsive&quot; src=&quot;http://lorempixel.com/600/500/&quot;&gt;&lt;/amp-img&gt;
-
-&lt;h3 id=&quot;proponuję&quot;&gt;Proponuję:&lt;/h3&gt;
-&lt;ol&gt;
-  &lt;li&gt;Stworzenie listy polskich i anglojęzycznych stron ze zleceniami,&lt;/li&gt;
-  &lt;li&gt;Określenie stacku technologicznego jakim dysponujemy.&lt;/li&gt;
-  &lt;li&gt;Wybranie grupy docelowej klientów&lt;/li&gt;
-  &lt;li&gt;Poszukiwanie zleceń w wybranym obszarze&lt;/li&gt;
-&lt;/ol&gt;
 
 &lt;p&gt;Tak mi przyszło do głowy, może dlatego że w pracy to maglujemy, hosting, w chmurze, dedykowane i współdzielone, oferować to po cenie zakupu, albo nawet poniżej kosztów, żeby przyciągnąć klientów. Zrobić ofertę i dorzućić do naszych “usług”, po pewnym czasie można naliczać według normalnych, rynkowych cen.&lt;/p&gt;
 
@@ -35,6 +27,37 @@
 &lt;/blockquote&gt;
 
 &lt;amp-img width=&quot;600&quot; height=&quot;300&quot; layout=&quot;responsive&quot; src=&quot;http://lorempixel.com/600/300/&quot;&gt;&lt;/amp-img&gt;
+
+&lt;p&gt;mailchimp-a może by używać do e-mail newslettera, budowalibyśmy bazę e-mail potencjalnych klientów i wysłali newslettera.. z ofertą i artykułami raz w miesiącu na początek 
+https://mailchimp.com/pricing/&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 26 May 2017 00:00:00 +0200</pubDate>
+        <link>http://regularlighter.com/2017/05/26/projekt-testowy.html</link>
+        <guid isPermaLink="true">http://regularlighter.com/2017/05/26/projekt-testowy.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Są tu jakieś projekty?</title>
+        <description>&lt;p&gt;Są tu jakieś projekty?&lt;/p&gt;
+
+&lt;amp-img width=&quot;600&quot; height=&quot;500&quot; layout=&quot;responsive&quot; src=&quot;http://lorempixel.com/600/500/internet&quot;&gt;&lt;/amp-img&gt;
+
+&lt;p&gt;proponuję: 1. Stworzenie listy polskich i anglojęzycznych stron ze zleceniami, 2. Określenie stacku technologicznego jakim dysponujemy. 3. Wybranie grupy docelowej klientów 4. Poszukiwanie zleceń w wybranym obszarze&lt;/p&gt;
+
+&lt;p&gt;Tak mi przyszło do głowy, może dlatego że w pracy to maglujemy, hosting, w chmurze, dedykowane i współdzielone, oferować to po cenie zakupu, albo nawet poniżej kosztów, żeby przyciągnąć klientów. Zrobić ofertę i dorzućić do naszych “usług”, po pewnym czasie można naliczać według normalnych, rynkowych cen.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;administracje, zarządzanie też bym dodał.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;planuje przetestować chmurę https://unicloud.pl//..&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;amp-img width=&quot;600&quot; height=&quot;300&quot; layout=&quot;responsive&quot; src=&quot;http://lorempixel.com/600/300/web&quot;&gt;&lt;/amp-img&gt;
 
 &lt;p&gt;mailchimp-a może by używać do e-mail newslettera, budowalibyśmy bazę e-mail potencjalnych klientów i wysłali newslettera.. z ofertą i artykułami raz w miesiącu na początek 
 https://mailchimp.com/pricing/&lt;/p&gt;
