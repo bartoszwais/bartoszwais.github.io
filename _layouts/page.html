@@ -2,6 +2,12 @@
 layout: default
 ---
 <main class="content" role="main">
+    {% for image in site.static_files %}
+        {% if image.path contains 'photos/short_torch' %}
+        <amp-img width="600" height="500" layout="responsive" src="{{ site.baseurl }}{{ image.path }}"></amp-img>
+        {% endif %}
+    {% endfor %}
+
   <article class="post">
     <div class="post-meta">
       <h1 class="post-title">{{ page.title }}</h1>

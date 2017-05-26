@@ -4,12 +4,6 @@
   <body>
     {% include header.html %}
 
-    {% for image in site.static_files %}
-        {% if image.path contains 'photos/short_torch' %}
-        <amp-img width="600" height="500" layout="responsive" src="{{ site.baseurl }}{{ image.path }}"></amp-img>
-        {% endif %}
-    {% endfor %}
-
     {{ content }}
 
     {% include analytics.html %}
