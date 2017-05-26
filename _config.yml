@@ -23,7 +23,7 @@ twitter_username: regularlighter
 github_username:  regularlighter
 
 # Google Analytics
-analytics_id: "84736243"
+analytics_id: "UA-84736243-1"
 
 # Build settings
 markdown: kramdown
