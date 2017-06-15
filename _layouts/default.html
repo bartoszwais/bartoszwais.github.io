@@ -5,6 +5,7 @@
     {% include header.html %}
 
       <main class="content" role="main">
+          <amp-youtube data-videoid="gaABnATXQbY" layout="responsive" width="480" height="270"></amp-youtube>
         {% for image in site.static_files %}
             {% if image.path contains 'photos/short_torch' %}
             <amp-img width="500" height="500" layout="responsive" src="{{ site.baseurl }}{{ image.path }}"></amp-img>

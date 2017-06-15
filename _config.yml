@@ -7,17 +7,17 @@
 
 # Site settings
 title: Regular Lighter 
-email: your-email@domain.com
+email: not_yet@regularlighter.com
 description: >
-    Web Development services.
+    Regular Lighter, laser engraved lighters, engrave your art or message.
 logo: "/assets/images/logo.jpg"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://regularlighter.com" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
-name: 'Your Name'
+name: 'Regular Lighter'
 bio: >
-    Hosting, Administration, Project Management, SEO, Web development. 
+    Regular Lighter, laser engraved lighters, engrave your art or message. 
 author_image: "/assets/images/author.jpg"
 twitter_username: regularlighter
 github_username:  regularlighter
