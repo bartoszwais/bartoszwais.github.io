@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Tabacco &amp; Cigs 
-permalink: /tabacco-and-cigs/
+title: Tobacco &amp; Cigs 
+permalink: /tobacco-and-cigs/
 ---
 
 <amp-img width="600" height="300" layout="responsive" src="http://lorempixel.com/600/300/sports"></amp-img>
