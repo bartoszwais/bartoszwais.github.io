@@ -10,14 +10,14 @@ title: Regular Lighter
 email: not_yet@regularlighter.com
 description: >
     Regular Lighter, laser engraved lighters, engrave your art or message.
-logo: "/assets/images/logo.jpg"
+logo: "/assets/images/rl-logo.png"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://regularlighter.com" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
 name: 'Regular Lighter'
 bio: >
-    Regular Lighter, laser engraved lighters, engrave your art or message. 
+    regularlighter.com variety of lighters, tobacco and cigs 2017. 
 author_image: "/assets/images/author.jpg"
 twitter_username: regularlighter
 github_username:  regularlighter
