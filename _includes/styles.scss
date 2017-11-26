@@ -72,9 +72,7 @@ body {
 
   .page-links {
       display: block;
-      position: absolute;
-      top: 10px;
-      right: $rs;
+      float:right;
       font-weight: 200;
       font-style: normal;
       font-size: 18px;
@@ -89,6 +87,11 @@ body {
       }
   }
 
+}
+form.paypal {
+    clear: both;
+    float:right;
+    margin-top: 8px;
 }
 
 .blog-header {
