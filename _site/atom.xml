@@ -4,7 +4,7 @@
 	<title>Regular Lighter</title>
 	<link href="http://regularlighter.com/atom.xml" rel="self"/>
 	<link href="http://regularlighter.com"/>
-	<updated>2017-11-26T14:16:53+01:00</updated>
+	<updated>2017-11-27T15:23:46+01:00</updated>
 	<id>http://regularlighter.com</id>
 	<author>
 		<name>Bartosz Wais</name>
@@ -13,113 +13,182 @@
 
 	
 		<entry>
-			<title>Projekt testowy</title>
-			<link href="http://regularlighter.com/2017/05/26/projekt-testowy.html"/>
-			<updated>2017-05-26T00:00:00+02:00</updated>
-			<id>http://regularlighter.com/2017/05/26/projekt-testowy</id>
-			<content type="html">&lt;p&gt;Projekt testowy.&lt;/p&gt;
-
-&lt;amp-img width=&quot;600&quot; height=&quot;500&quot; layout=&quot;responsive&quot; src=&quot;http://lorempixel.com/600/500/&quot;&gt;&lt;/amp-img&gt;
-
-&lt;p&gt;Tak mi przyszło do głowy, może dlatego że w pracy to maglujemy, hosting, w chmurze, dedykowane i współdzielone, oferować to po cenie zakupu, albo nawet poniżej kosztów, żeby przyciągnąć klientów. Zrobić ofertę i dorzućić do naszych “usług”, po pewnym czasie można naliczać według normalnych, rynkowych cen.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;administracje, zarządzanie też bym dodał.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;planuje przetestować chmurę https://unicloud.pl//..&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;amp-img width=&quot;600&quot; height=&quot;300&quot; layout=&quot;responsive&quot; src=&quot;http://lorempixel.com/600/300/&quot;&gt;&lt;/amp-img&gt;
-
-&lt;p&gt;mailchimp-a może by używać do e-mail newslettera, budowalibyśmy bazę e-mail potencjalnych klientów i wysłali newslettera.. z ofertą i artykułami raz w miesiącu na początek 
-https://mailchimp.com/pricing/&lt;/p&gt;
-
+			<title>Web</title>
+			<link href="http://regularlighter.com/web/"/>
+			<updated>2017-11-27T00:00:00+01:00</updated>
+			<id>http://regularlighter.com/web</id>
+			<content type="html">
 </content>
 		</entry>
 	
 		<entry>
-			<title>Są tu jakieś projekty?</title>
-			<link href="http://regularlighter.com/2017/05/25/sa-tu-jakies-projekty.html"/>
-			<updated>2017-05-25T00:00:00+02:00</updated>
-			<id>http://regularlighter.com/2017/05/25/sa-tu-jakies-projekty</id>
-			<content type="html">&lt;p&gt;Są tu jakieś projekty?&lt;/p&gt;
-
-&lt;amp-img width=&quot;600&quot; height=&quot;500&quot; layout=&quot;responsive&quot; src=&quot;http://lorempixel.com/600/500/internet&quot;&gt;&lt;/amp-img&gt;
-
-&lt;p&gt;proponuję: 1. Stworzenie listy polskich i anglojęzycznych stron ze zleceniami, 2. Określenie stacku technologicznego jakim dysponujemy. 3. Wybranie grupy docelowej klientów 4. Poszukiwanie zleceń w wybranym obszarze&lt;/p&gt;
-
-&lt;p&gt;Tak mi przyszło do głowy, może dlatego że w pracy to maglujemy, hosting, w chmurze, dedykowane i współdzielone, oferować to po cenie zakupu, albo nawet poniżej kosztów, żeby przyciągnąć klientów. Zrobić ofertę i dorzućić do naszych “usług”, po pewnym czasie można naliczać według normalnych, rynkowych cen.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;administracje, zarządzanie też bym dodał.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;planuje przetestować chmurę https://unicloud.pl//..&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;amp-img width=&quot;600&quot; height=&quot;300&quot; layout=&quot;responsive&quot; src=&quot;http://lorempixel.com/600/300/web&quot;&gt;&lt;/amp-img&gt;
-
-&lt;p&gt;mailchimp-a może by używać do e-mail newslettera, budowalibyśmy bazę e-mail potencjalnych klientów i wysłali newslettera.. z ofertą i artykułami raz w miesiącu na początek 
-https://mailchimp.com/pricing/&lt;/p&gt;
+			<title>Unknown</title>
+			<link href="http://regularlighter.com/unknown/"/>
+			<updated>2017-11-27T00:00:00+01:00</updated>
+			<id>http://regularlighter.com/unknown</id>
+			<content type="html">
 </content>
 		</entry>
 	
 		<entry>
-			<title>My New Post</title>
-			<link href="http://regularlighter.com/2016/03/13/my-new-post.html"/>
-			<updated>2016-03-13T00:00:00+01:00</updated>
-			<id>http://regularlighter.com/2016/03/13/my-new-post</id>
-			<content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit!&lt;/p&gt;
-
-&lt;amp-img width=&quot;600&quot; height=&quot;500&quot; layout=&quot;responsive&quot; src=&quot;http://lorempixel.com/600/500/transport&quot;&gt;&lt;/amp-img&gt;
-
-&lt;p&gt;Nulla dapibus vestibulum ligula in sodales. Phasellus eu metus quam. Sed id varius diam. Morbi pellentesque lorem vitae ex commodo, sed dapibus ex dignissim. Etiam facilisis pellentesque gravida. Sed tempus diam sed odio tempor, tristique elementum erat condimentum. Ut volutpat dui ex, a auctor dolor pretium eget.&lt;/p&gt;
-
-&lt;p&gt;Vivamus nec mauris suscipit enim viverra tristique ut eget risus. Vestibulum ullamcorper at sem eu sodales. Praesent felis tellus, condimentum vitae purus id, consectetur interdum urna. Pellentesque laoreet non arcu volutpat euismod. Suspendisse sed enim non ex interdum sodales. Quisque vitae vestibulum turpis. Aenean nec est dolor.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Pellentesque quis mi at erat iaculis cursus. Phasellus ligula neque, pulvinar sed malesuada id, feugiat ac magna. Proin sed scelerisque metus. Pellentesque mi augue, egestas nec ante a, faucibus ullamcorper enim. Sed nisi felis, rutrum imperdiet aliquam nec, placerat vel odio. Nulla quis urna ut risus aliquam tempor.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;amp-img width=&quot;600&quot; height=&quot;300&quot; layout=&quot;responsive&quot; src=&quot;http://lorempixel.com/600/300/transport&quot;&gt;&lt;/amp-img&gt;
-
-&lt;p&gt;Nulla mi risus, lobortis quis lectus vel, gravida eleifend lacus. Proin mattis odio elit, nec vehicula diam varius vitae. Nunc a ipsum at justo rhoncus mattis. Proin auctor lorem quis libero viverra aliquam. Suspendisse quis tristique sapien. Integer eu felis vel orci dignissim suscipit pharetra vitae nisl. Ut viverra sed enim quis pretium. Etiam auctor a ante sed pharetra.&lt;/p&gt;
+			<title>Short Torch Logo</title>
+			<link href="http://regularlighter.com/short-torch-logo/"/>
+			<updated>2017-11-27T00:00:00+01:00</updated>
+			<id>http://regularlighter.com/short-torch-logo</id>
+			<content type="html">
 </content>
 		</entry>
 	
 		<entry>
-			<title>Ea eam nibh persecuti, partem habemus nominavi</title>
-			<link href="http://regularlighter.com/2016/03/08/example-post.html"/>
-			<updated>2016-03-08T00:00:00+01:00</updated>
-			<id>http://regularlighter.com/2016/03/08/example-post</id>
-			<content type="html">&lt;p&gt;At labitur probatus eum, qui modo idque partem ne, ea has oratio sanctus cotidieque. Dicta persecuti sit ex. Discere facilis recteque sit no, in eripuit volumus adversarium vim. Ad sed meis nulla accusata. Ex posse accusam maluisset mei, id vix ignota cetero inimicus.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Nec amet pericula dissentiet…&lt;/p&gt;
-
-  &lt;p&gt;Nam liber tritani ei, urbanitas tincidunt usu et. Odio voluptua gubergren at cum. An porro mucius tibique nam, cu usu everti dignissim assueverit. Docendi patrioque constituto te sit. Qui lorem soluta ea, commune deserunt sed id. Accusam commune cotidieque his ea.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Pro hinc copiosae an, ad ius salutandi expetendis. Quo suavitate intellegat forensibus an. Sonet meliore consetetur te sea, in eam decore utroque, dicat verear et sit. Pro aperiam pertinax splendide id, IUS STET ELEIFEND INTELLEGAM ID.&lt;/p&gt;
-
-&lt;amp-img width=&quot;600&quot; height=&quot;300&quot; layout=&quot;responsive&quot; src=&quot;http://lorempixel.com/600/300/people&quot;&gt;&lt;/amp-img&gt;
-
-&lt;p&gt;Ea ullamcorper intellegebat pri!&lt;/p&gt;
-
-&lt;h3 id=&quot;vix-cu-alienum-evertitur&quot;&gt;Vix cu alienum evertitur&lt;/h3&gt;
-
-&lt;p&gt;Mea suas vituperatoribus et, virtute corpora quaestio cum ut. Ne solet nostrum complectitur pri, vis ut inani populo. Ad eligendi vituperata sadipscing pro, ad mea modo meis philosophia, an eos consul impedit qualisque. Eruditi reprimique id eum, in tincidunt percipitur vis.&lt;/p&gt;
-
-&lt;amp-youtube data-videoid=&quot;lBTCB7yLs8Y&quot; layout=&quot;responsive&quot; width=&quot;480&quot; height=&quot;270&quot;&gt;&lt;/amp-youtube&gt;
-
-&lt;p&gt;Ne ius nominavi verterem. Principes voluptaria pro at. Sint mediocrem cum ea, his purto dicat scaevola ad. Per quem magna gubergren id, pri in noluisse salutatus imperdiet. In postea consequat percipitur vis, nam postea commodo lobortis an, ut atqui antiopam eloquentiam eum.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Erat officiis probatus eam ea, nibh legere insolens ad sit. Nec alii dicam ad, cibo regione per no. Verear invenire ut usu, nec mazim euripidis in. Molestie placerat id quo, quo dissentias complectitur ex. Ex probatus principes efficiantur pro, possit perfecto ut eum. Vix ei summo perpetua, enim adhuc vix ei, sed in homero delicata periculis. Praesent intellegat qui ne.&lt;/p&gt;
-&lt;/blockquote&gt;
+			<title>Owl</title>
+			<link href="http://regularlighter.com/owl/"/>
+			<updated>2017-11-27T00:00:00+01:00</updated>
+			<id>http://regularlighter.com/owl</id>
+			<content type="html">
+</content>
+		</entry>
+	
+		<entry>
+			<title>Owl ver2</title>
+			<link href="http://regularlighter.com/owl-ver2/"/>
+			<updated>2017-11-27T00:00:00+01:00</updated>
+			<id>http://regularlighter.com/owl-ver2</id>
+			<content type="html">
+</content>
+		</entry>
+	
+		<entry>
+			<title>LV</title>
+			<link href="http://regularlighter.com/lv/"/>
+			<updated>2017-11-27T00:00:00+01:00</updated>
+			<id>http://regularlighter.com/lv</id>
+			<content type="html">
+</content>
+		</entry>
+	
+		<entry>
+			<title>Jets and Giants</title>
+			<link href="http://regularlighter.com/jets-and-giants/"/>
+			<updated>2017-11-27T00:00:00+01:00</updated>
+			<id>http://regularlighter.com/jets-and-giants</id>
+			<content type="html">
+</content>
+		</entry>
+	
+		<entry>
+			<title>Indian</title>
+			<link href="http://regularlighter.com/indian/"/>
+			<updated>2017-11-27T00:00:00+01:00</updated>
+			<id>http://regularlighter.com/indian</id>
+			<content type="html">
+</content>
+		</entry>
+	
+		<entry>
+			<title>Hello Kitty</title>
+			<link href="http://regularlighter.com/hello-kitty/"/>
+			<updated>2017-11-27T00:00:00+01:00</updated>
+			<id>http://regularlighter.com/hello-kitty</id>
+			<content type="html">
+</content>
+		</entry>
+	
+		<entry>
+			<title>Ganesh</title>
+			<link href="http://regularlighter.com/ganesh/"/>
+			<updated>2017-11-27T00:00:00+01:00</updated>
+			<id>http://regularlighter.com/ganesh</id>
+			<content type="html">
+</content>
+		</entry>
+	
+		<entry>
+			<title>Dog</title>
+			<link href="http://regularlighter.com/dog/"/>
+			<updated>2017-11-27T00:00:00+01:00</updated>
+			<id>http://regularlighter.com/dog</id>
+			<content type="html">
+</content>
+		</entry>
+	
+		<entry>
+			<title>Decorated</title>
+			<link href="http://regularlighter.com/decorated/"/>
+			<updated>2017-11-27T00:00:00+01:00</updated>
+			<id>http://regularlighter.com/decorated</id>
+			<content type="html">
+</content>
+		</entry>
+	
+		<entry>
+			<title>Decorated X2</title>
+			<link href="http://regularlighter.com/decorated-x2/"/>
+			<updated>2017-11-27T00:00:00+01:00</updated>
+			<id>http://regularlighter.com/decorated-x2</id>
+			<content type="html">
+</content>
+		</entry>
+	
+		<entry>
+			<title>Calvin</title>
+			<link href="http://regularlighter.com/calvin/"/>
+			<updated>2017-11-27T00:00:00+01:00</updated>
+			<id>http://regularlighter.com/calvin</id>
+			<content type="html">
+</content>
+		</entry>
+	
+		<entry>
+			<title>Calvin X3</title>
+			<link href="http://regularlighter.com/calvin-x3/"/>
+			<updated>2017-11-27T00:00:00+01:00</updated>
+			<id>http://regularlighter.com/calvin-x3</id>
+			<content type="html">
+</content>
+		</entry>
+	
+		<entry>
+			<title>Brainfeeder</title>
+			<link href="http://regularlighter.com/brainfeeder/"/>
+			<updated>2017-11-27T00:00:00+01:00</updated>
+			<id>http://regularlighter.com/brainfeeder</id>
+			<content type="html">
+</content>
+		</entry>
+	
+		<entry>
+			<title>Big Head Man</title>
+			<link href="http://regularlighter.com/big-head-man/"/>
+			<updated>2017-11-27T00:00:00+01:00</updated>
+			<id>http://regularlighter.com/big-head-man</id>
+			<content type="html">
+</content>
+		</entry>
+	
+		<entry>
+			<title>Bats</title>
+			<link href="http://regularlighter.com/bats/"/>
+			<updated>2017-11-27T00:00:00+01:00</updated>
+			<id>http://regularlighter.com/bats</id>
+			<content type="html">
+</content>
+		</entry>
+	
+		<entry>
+			<title>Bahbaa</title>
+			<link href="http://regularlighter.com/bahbaa/"/>
+			<updated>2017-11-27T00:00:00+01:00</updated>
+			<id>http://regularlighter.com/bahbaa</id>
+			<content type="html">
+</content>
+		</entry>
+	
+		<entry>
+			<title>Arabic</title>
+			<link href="http://regularlighter.com/arabic/"/>
+			<updated>2017-11-27T00:00:00+01:00</updated>
+			<id>http://regularlighter.com/arabic</id>
+			<content type="html">
 </content>
 		</entry>
 	

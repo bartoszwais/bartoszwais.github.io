@@ -1,31 +1,32 @@
 ---
 layout: default
 ---
-
-<main class="content" role="main">
-
-  <header class="blog-header">
-      <h1 class="blog-title">{{ site.title }}</h1>
-      <h2 class="blog-description">{{ site.description }}</h2>
-  </header>
-
-  <div class="cf frame">
-    {% for post in paginator.posts %}
-      <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
-        <div class="article-item">
-          <header class="post-header">
-            <h2 class="post-title" itemprop="name"><a href="{{ site.baseurl }}{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
-          </header>
-          <section class="post-excerpt" itemprop="description">
-            <p>{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
-          </section>
-          <div class="post-meta">
-            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_long_string }}</time>
-          </div>
-        </div>
-      </article>
-    {% endfor %}
-  </div>
+<header>
+  <h1>{{ site.title }}</h1>
+  <h2>{{ site.description }}</h2>
+</header>
+{% for post in paginator.posts %}
+<article>
+        <a href="{{ site.baseurl }}{{ post.url }}">
+            <img src="/assets/images/{{ post.maker | replace: " ", "_" }}/{{ post.image }}" width='300' />
+        </a>
+    <section class='info'>
+        <h1>Series name: <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+        <ul>
+            <li><strong>maker:</strong> {{ post.maker }}</li>
+            <li><strong>color:</strong> {{ post.color }}</li>
+            <li><strong>price:</strong> {{ post.price }}</li>
+        </ul>
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" class='paypal'>
+            <input type="hidden" name="cmd" value="_s-xclick">
+            <input type="hidden" name="hosted_button_id" value="RCD8JQQ2ADPWJ">
+            <input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
+            <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+        </form>
+        
+    </section>
+</article>
+{% endfor %}
 
   <nav class="pagination" role="navigation">
     {% if paginator.next_page %}
