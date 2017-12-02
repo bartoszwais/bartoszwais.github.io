@@ -47,7 +47,7 @@ body {
   width: 600px;
   margin: 1em auto; }
 
-header + section {
+header + section, footer {
   margin: 1em 0; }
 
 article {
