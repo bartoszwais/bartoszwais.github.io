@@ -1,0 +1,20 @@
+{% if paginator.total_pages > 1 %}
+    <nav class="pagination" role="navigation">
+    {% if paginator.next_page %}
+      <a class="newer-posts" href="{{ site.baseurl }}/page{{paginator.next_page}}">&larr; next 9</a>
+    {% else %}
+      <a class="newer-posts disabled">&larr; next 9</a>
+    {% endif %}
+    <span class="page-number">/ 9s {{ paginator.page }} of {{ paginator.total_pages }} /</span>
+    {% if paginator.previous_page %}
+      {% if paginator.page == 2 %}
+        <a class="older-posts" href="{{ site.baseurl }}/">previous 9 &rarr;</a>
+      {% else %}
+        <a class="older-posts" href="{{ site.baseurl }}/page{{paginator.previous_page}}">previous 9 &rarr;</a>
+      {% endif %}
+    {% else %}
+      <a class="older-posts disabled">previous 9 &rarr;</a>
+    {% endif %}
+  </nav>
+{% endif %} 
+
