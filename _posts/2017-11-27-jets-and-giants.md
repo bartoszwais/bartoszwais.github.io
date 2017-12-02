@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jets and Giants
+title: Jets And Giants
 maker: short torch
 color: green, blue
 image: green-blue-jets-giants.jpg

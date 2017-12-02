@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<article class='{{ page.title }}'>
+<article class='{{ post.title | replace: " ","" }}'>
         <a href="{{ site.baseurl }}{{ page.url }}">
             <img src="/assets/images/{{ page.maker | replace: " ", "_" }}/{{ page.image }}" width='300' />
         </a>
