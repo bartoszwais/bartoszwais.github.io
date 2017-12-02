@@ -47,7 +47,7 @@ body {
   width: 600px;
   margin: 1em auto; }
 
-header + section, footer {
+header + section, nav.pagination, footer {
   margin: 1em 0; }
 
 article {
@@ -62,3 +62,6 @@ article {
     box-sizing: border-box; }
     article .info form {
       margin-top: 2em; }
+
+nav.pagination a {
+  text-decoration: none; }
