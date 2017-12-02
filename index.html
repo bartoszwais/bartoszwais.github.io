@@ -2,7 +2,7 @@
 layout: default
 ---
 {% for post in paginator.posts %}
-<article>
+<article class='{{ post.title }}'>
         <a href="{{ site.baseurl }}{{ post.url }}">
             <img src="/assets/images/{{ post.maker | replace: " ", "_" }}/{{ post.image }}" width='300' />
         </a>
