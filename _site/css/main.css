@@ -65,3 +65,20 @@ article {
 
 nav.pagination a {
   text-decoration: none; }
+
+@media screen and (max-width: 600px) {
+  body {
+    width: 300px; }
+
+  article .info {
+    margin-bottom: 2em;
+    padding: 0; }
+    article .info h1 {
+      text-align: center;
+      margin: 1em 0; }
+    article .info ul {
+      margin: 0;
+      float: left; }
+    article .info form {
+      margin: 0;
+      float: right; } }
