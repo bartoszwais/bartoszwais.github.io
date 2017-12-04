@@ -15,7 +15,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
   display: block; }
 
 body {
-  line-height: 1; }
+  line-height: 1.2; }
 
 ol, ul {
   list-style: none; }
@@ -36,6 +36,11 @@ table {
   border-spacing: 0; }
 
 /* end of reset css */
+a {
+  color: #330000; }
+  a:hover {
+    color: crimson; }
+
 .disabled {
   opacity: 0.3; }
 
@@ -50,7 +55,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; }
 
-header + section, nav.pagination, footer {
+header section, nav.pagination, footer {
   margin: 1em 0; }
 
 article {
@@ -83,5 +88,5 @@ nav.pagination a {
       margin: 0;
       float: left; }
     article .info form {
-      margin: 0;
+      margin: 1em 0 0 0;
       float: right; } }
