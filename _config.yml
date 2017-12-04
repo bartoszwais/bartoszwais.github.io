@@ -9,7 +9,7 @@
 title: Regular Lighter +48 515 777 883 
 email: not_yet@regularlighter.com
 description: >
-    regularlighter.com variety of lighters, tobacco and cigs 2017. 
+    regularlighter.com variety of lighters, tobacco and cigs. 
 logo: "/assets/images/logo.png"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://regularlighter.com" # the base hostname & protocol for your site
@@ -18,7 +18,7 @@ paginate_path: "/page:num/"
 
 name: 'Regular Lighter'
 bio: >
-    regularlighter.com variety of lighters, tobacco and cigs 2017. 
+    regularlighter.com variety of lighters, tobacco and cigs. 
 author_image: "/assets/images/author.jpg"
 twitter_username: regularlighter
 github_username:  regularlighter
