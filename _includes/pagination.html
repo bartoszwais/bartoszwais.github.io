@@ -1,7 +1,8 @@
 {% if paginator.total_pages > 1 %}
     <nav class="pagination" role="navigation">
+        <h3>{{ site.baseurl }}/collectionN.{{paginator.page}}</h3>
     {% if paginator.next_page %}
-      <a class="newer-posts" href="{{ site.baseurl }}/collectionN{{paginator.next_page}}">&larr; next 9</a>
+      <a class="newer-posts" href="{{ site.baseurl }}/collectionN.{{paginator.next_page}}">&larr; next 9</a>
     {% else %}
       <a class="newer-posts disabled">&larr; next 9</a>
     {% endif %}
@@ -10,7 +11,7 @@
       {% if paginator.page == 2 %}
         <a class="older-posts" href="{{ site.baseurl }}/">previous 9 &rarr;</a>
       {% else %}
-        <a class="older-posts" href="{{ site.baseurl }}/collectionN{{paginator.previous_page}}">previous 9 &rarr;</a>
+        <a class="older-posts" href="{{ site.baseurl }}/collectionN.{{paginator.previous_page}}">previous 9 &rarr;</a>
       {% endif %}
     {% else %}
       <a class="older-posts disabled">previous 9 &rarr;</a>
