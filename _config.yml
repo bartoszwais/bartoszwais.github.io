@@ -14,7 +14,7 @@ logo: "/assets/images/logo.png"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://regularlighter.com" # the base hostname & protocol for your site
 paginate:	9 # The number of posts to show per page on your homepage
-paginate_path: "/page:num/"
+paginate_path: "/collection:num/"
 
 name: 'Regular Lighter'
 bio: >
