@@ -56,7 +56,8 @@ body {
   -moz-osx-font-smoothing: grayscale; }
 
 header section, nav.pagination, footer {
-  margin: 1em 0; }
+  clear: both;
+  padding: 1em 0; }
 
 article {
   float: left; }
