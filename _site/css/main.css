@@ -36,6 +36,9 @@ table {
   border-spacing: 0; }
 
 /* end of reset css */
+#init, #start {
+  outline: none; }
+
 a {
   color: #330000; }
   a:hover {
