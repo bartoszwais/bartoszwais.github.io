@@ -59,7 +59,7 @@ strong {
 }
 body {
     text-align:center;
-    width:600px;
+    width:100%;
     margin:1em auto;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
@@ -107,6 +107,14 @@ nav.pagination a {
         form {
             margin:1em 0 0 0;
             float:right;
+        }
+    }
+    article.shorttorch {
+        a img {
+            width:300px;
+        }
+        form {
+            margin-top: 0;
         }
     }
 }
