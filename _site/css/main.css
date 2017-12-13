@@ -74,6 +74,10 @@ article {
     box-sizing: border-box; }
     article .info form {
       margin-top: 2em; }
+    article .info h1 {
+      margin-bottom: 0.66em; }
+      article .info h1 a {
+        line-height: 1.4em; }
   article.etsy img, article.ebay img, article.shorttorch img {
     width: 300px; }
 
