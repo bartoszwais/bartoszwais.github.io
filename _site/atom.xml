@@ -4,7 +4,7 @@
 	<title>Regular Lighter</title>
 	<link href="http://regularlighter.com/atom.xml" rel="self"/>
 	<link href="http://regularlighter.com"/>
-	<updated>2017-12-13T20:27:18+01:00</updated>
+	<updated>2017-12-13T21:38:14+01:00</updated>
 	<id>http://regularlighter.com</id>
 	<author>
 		<name>Bartosz Wais</name>
@@ -40,6 +40,15 @@
 		</entry>
 	
 		<entry>
+			<title>Zippo pErixShop psychodelic</title>
+			<link href="http://regularlighter.com/pErixShop-psychodelic/"/>
+			<updated>2017-12-13T00:00:00+01:00</updated>
+			<id>http://regularlighter.com/pErixShop-psychodelic</id>
+			<content type="html">
+</content>
+		</entry>
+	
+		<entry>
 			<title>Bic Collectibles</title>
 			<link href="http://regularlighter.com/bic-collectibles/"/>
 			<updated>2017-12-13T00:00:00+01:00</updated>
@@ -62,6 +71,15 @@
 			<link href="http://regularlighter.com/Rick-and-Morty-bic-sticker/"/>
 			<updated>2017-12-13T00:00:00+01:00</updated>
 			<id>http://regularlighter.com/Rick-and-Morty-bic-sticker</id>
+			<content type="html">
+</content>
+		</entry>
+	
+		<entry>
+			<title>Zippo Ufficiale di Artiglieria di Linea</title>
+			<link href="http://regularlighter.com/Artiglieria-di-Linea/"/>
+			<updated>2017-12-13T00:00:00+01:00</updated>
+			<id>http://regularlighter.com/Artiglieria-di-Linea</id>
 			<content type="html">
 </content>
 		</entry>
