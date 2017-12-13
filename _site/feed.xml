@@ -4,10 +4,10 @@
     <title>Regular Lighter +48 515 777 883</title>
     <description>regularlighter.com variety of lighters, tobacco and cigs. 
 </description>
-    <link>http://regularlighter.com/</link>
-    <atom:link href="http://regularlighter.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 13 Dec 2017 20:23:00 +0100</pubDate>
-    <lastBuildDate>Wed, 13 Dec 2017 20:23:00 +0100</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 13 Dec 2017 20:27:18 +0100</pubDate>
+    <lastBuildDate>Wed, 13 Dec 2017 20:27:18 +0100</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -15,8 +15,8 @@
         <description>
 </description>
         <pubDate>Wed, 13 Dec 2017 00:00:00 +0100</pubDate>
-        <link>http://regularlighter.com/zippo-lot-with-case/</link>
-        <guid isPermaLink="true">http://regularlighter.com/zippo-lot-with-case/</guid>
+        <link>http://localhost:4000/zippo-lot-with-case/</link>
+        <guid isPermaLink="true">http://localhost:4000/zippo-lot-with-case/</guid>
         
         
       </item>
@@ -26,8 +26,8 @@
         <description>
 </description>
         <pubDate>Wed, 13 Dec 2017 00:00:00 +0100</pubDate>
-        <link>http://regularlighter.com/st-dupont-punch-habanera/</link>
-        <guid isPermaLink="true">http://regularlighter.com/st-dupont-punch-habanera/</guid>
+        <link>http://localhost:4000/st-dupont-punch-habanera/</link>
+        <guid isPermaLink="true">http://localhost:4000/st-dupont-punch-habanera/</guid>
         
         
       </item>
@@ -37,8 +37,8 @@
         <description>
 </description>
         <pubDate>Wed, 13 Dec 2017 00:00:00 +0100</pubDate>
-        <link>http://regularlighter.com/st-dupont-diamonds-line/</link>
-        <guid isPermaLink="true">http://regularlighter.com/st-dupont-diamonds-line/</guid>
+        <link>http://localhost:4000/st-dupont-diamonds-line/</link>
+        <guid isPermaLink="true">http://localhost:4000/st-dupont-diamonds-line/</guid>
         
         
       </item>
@@ -48,8 +48,8 @@
         <description>
 </description>
         <pubDate>Wed, 13 Dec 2017 00:00:00 +0100</pubDate>
-        <link>http://regularlighter.com/bic-collectibles/</link>
-        <guid isPermaLink="true">http://regularlighter.com/bic-collectibles/</guid>
+        <link>http://localhost:4000/bic-collectibles/</link>
+        <guid isPermaLink="true">http://localhost:4000/bic-collectibles/</guid>
         
         
       </item>
@@ -59,8 +59,8 @@
         <description>
 </description>
         <pubDate>Wed, 13 Dec 2017 00:00:00 +0100</pubDate>
-        <link>http://regularlighter.com/Rick-and-Morty-silver-white/</link>
-        <guid isPermaLink="true">http://regularlighter.com/Rick-and-Morty-silver-white/</guid>
+        <link>http://localhost:4000/Rick-and-Morty-silver-white/</link>
+        <guid isPermaLink="true">http://localhost:4000/Rick-and-Morty-silver-white/</guid>
         
         
       </item>
@@ -70,8 +70,8 @@
         <description>
 </description>
         <pubDate>Wed, 13 Dec 2017 00:00:00 +0100</pubDate>
-        <link>http://regularlighter.com/Rick-and-Morty-bic-sticker/</link>
-        <guid isPermaLink="true">http://regularlighter.com/Rick-and-Morty-bic-sticker/</guid>
+        <link>http://localhost:4000/Rick-and-Morty-bic-sticker/</link>
+        <guid isPermaLink="true">http://localhost:4000/Rick-and-Morty-bic-sticker/</guid>
         
         
       </item>
@@ -81,8 +81,8 @@
         <description>
 </description>
         <pubDate>Mon, 27 Nov 2017 00:00:00 +0100</pubDate>
-        <link>http://regularlighter.com/web/</link>
-        <guid isPermaLink="true">http://regularlighter.com/web/</guid>
+        <link>http://localhost:4000/web/</link>
+        <guid isPermaLink="true">http://localhost:4000/web/</guid>
         
         
       </item>
@@ -92,8 +92,8 @@
         <description>
 </description>
         <pubDate>Mon, 27 Nov 2017 00:00:00 +0100</pubDate>
-        <link>http://regularlighter.com/unknown/</link>
-        <guid isPermaLink="true">http://regularlighter.com/unknown/</guid>
+        <link>http://localhost:4000/unknown/</link>
+        <guid isPermaLink="true">http://localhost:4000/unknown/</guid>
         
         
       </item>
@@ -103,8 +103,8 @@
         <description>
 </description>
         <pubDate>Mon, 27 Nov 2017 00:00:00 +0100</pubDate>
-        <link>http://regularlighter.com/short-torch-logo/</link>
-        <guid isPermaLink="true">http://regularlighter.com/short-torch-logo/</guid>
+        <link>http://localhost:4000/short-torch-logo/</link>
+        <guid isPermaLink="true">http://localhost:4000/short-torch-logo/</guid>
         
         
       </item>
@@ -114,8 +114,8 @@
         <description>
 </description>
         <pubDate>Mon, 27 Nov 2017 00:00:00 +0100</pubDate>
-        <link>http://regularlighter.com/owl/</link>
-        <guid isPermaLink="true">http://regularlighter.com/owl/</guid>
+        <link>http://localhost:4000/owl/</link>
+        <guid isPermaLink="true">http://localhost:4000/owl/</guid>
         
         
       </item>
