@@ -74,7 +74,7 @@ article {
     box-sizing: border-box; }
     article .info form {
       margin-top: 2em; }
-  article.shorttorch img {
+  article.ebay img, article.shorttorch img {
     width: 300px; }
 
 nav.pagination h3 {
