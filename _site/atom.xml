@@ -4,7 +4,7 @@
 	<title>Regular Lighter</title>
 	<link href="http://regularlighter.com/atom.xml" rel="self"/>
 	<link href="http://regularlighter.com"/>
-	<updated>2017-12-13T17:11:52+01:00</updated>
+	<updated>2017-12-13T18:22:31+01:00</updated>
 	<id>http://regularlighter.com</id>
 	<author>
 		<name>Bartosz Wais</name>
@@ -22,10 +22,46 @@
 		</entry>
 	
 		<entry>
+			<title>ST Dupont Punch Habanera</title>
+			<link href="http://regularlighter.com/st-dupont-punch-habanera/"/>
+			<updated>2017-12-13T00:00:00+01:00</updated>
+			<id>http://regularlighter.com/st-dupont-punch-habanera</id>
+			<content type="html">
+</content>
+		</entry>
+	
+		<entry>
 			<title>ST DUPONT 60 DIAMONDS LINE</title>
 			<link href="http://regularlighter.com/st-dupont-diamonds-line/"/>
 			<updated>2017-12-13T00:00:00+01:00</updated>
 			<id>http://regularlighter.com/st-dupont-diamonds-line</id>
+			<content type="html">
+</content>
+		</entry>
+	
+		<entry>
+			<title>Bic Collectibles</title>
+			<link href="http://regularlighter.com/bic-collectibles/"/>
+			<updated>2017-12-13T00:00:00+01:00</updated>
+			<id>http://regularlighter.com/bic-collectibles</id>
+			<content type="html">
+</content>
+		</entry>
+	
+		<entry>
+			<title>Rick and Morty Lighter Windproof Fliptop</title>
+			<link href="http://regularlighter.com/Rick-and-Morty-silver-white/"/>
+			<updated>2017-12-13T00:00:00+01:00</updated>
+			<id>http://regularlighter.com/Rick-and-Morty-silver-white</id>
+			<content type="html">
+</content>
+		</entry>
+	
+		<entry>
+			<title>Rick and-Morty bic vinyl sticker</title>
+			<link href="http://regularlighter.com/Rick-and-Morty-bic-sticker/"/>
+			<updated>2017-12-13T00:00:00+01:00</updated>
+			<id>http://regularlighter.com/Rick-and-Morty-bic-sticker</id>
 			<content type="html">
 </content>
 		</entry>
