@@ -104,7 +104,8 @@ nav ul a, .info h1 a {
   border-bottom: 2px solid;
   text-decoration: none;
   padding-bottom: 2px;
-  text-transform: uppercase; }
+  text-transform: uppercase;
+  font-weight: bold; }
 
 @media screen and (max-width: 600px) {
   body {
