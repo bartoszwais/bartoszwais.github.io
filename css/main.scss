@@ -104,20 +104,6 @@ nav.pagination {
         font-size:1.8em;
         color: #330000;
     }
-    a {
-        font-weight: bold;
-        text-decoration: none;
-        font-size: 273%;
-        background-color: red;
-        color: white;
-        padding: 8px;
-        line-height: 2em;
-        font-family: sans-serif;
-        border: 3px solid #eee;
-        &.disabled {
-            background-color: grey;
-        }
-    }
 
 }
 
