@@ -94,7 +94,7 @@ nav.pagination a {
   padding: 8px;
   line-height: 2em;
   font-family: sans-serif;
-  border: 1px solid #eee; }
+  border: 3px solid #eee; }
   nav.pagination a.disabled {
     background-color: grey; }
 
