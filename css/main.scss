@@ -104,6 +104,17 @@ nav.pagination {
         font-size:1.8em;
         color: #330000;
     }
+    .btn {
+        background-color:#330000;
+        color:#fff;
+        text-decoration:none;
+        padding: 1em;
+        line-height: 4em;
+        font-weight:bold;
+        &:hover {
+            color: gold;
+        }
+    }
 
 }
 

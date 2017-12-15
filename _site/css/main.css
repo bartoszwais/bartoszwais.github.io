@@ -85,6 +85,15 @@ nav.pagination h3 {
   font-weight: bold;
   font-size: 1.8em;
   color: #330000; }
+nav.pagination .btn {
+  background-color: #330000;
+  color: #fff;
+  text-decoration: none;
+  padding: 1em;
+  line-height: 4em;
+  font-weight: bold; }
+  nav.pagination .btn:hover {
+    color: gold; }
 
 nav ul a, .info h1 a {
   color: #330000;
