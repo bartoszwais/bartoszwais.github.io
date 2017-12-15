@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ST-DUPONT-TOURNAIRE-CATACOMBES
+title: ST DUPONT TOURNAIRE CATACOMBES
 maker: ebay
 color: gold
 image: ST-DUPONT-TOURNAIRE-CATACOMBES.jpg
