@@ -4,7 +4,7 @@
 	<title>Regular Lighter</title>
 	<link href="http://regularlighter.com/atom.xml" rel="self"/>
 	<link href="http://regularlighter.com"/>
-	<updated>2017-12-15T20:23:14+01:00</updated>
+	<updated>2017-12-15T20:30:58+01:00</updated>
 	<id>http://regularlighter.com</id>
 	<author>
 		<name>Bartosz Wais</name>
@@ -26,6 +26,15 @@
 			<link href="http://regularlighter.com/ST-DUPONT-Prestige-Cuba-Libre/"/>
 			<updated>2017-12-15T00:00:00+01:00</updated>
 			<id>http://regularlighter.com/ST-DUPONT-Prestige-Cuba-Libre</id>
+			<content type="html">
+</content>
+		</entry>
+	
+		<entry>
+			<title>Clipper 4 pcs Lion Weed</title>
+			<link href="http://regularlighter.com/Clipper-4-Pcs-Lion-Weed/"/>
+			<updated>2017-12-15T00:00:00+01:00</updated>
+			<id>http://regularlighter.com/Clipper-4-Pcs-Lion-Weed</id>
 			<content type="html">
 </content>
 		</entry>
