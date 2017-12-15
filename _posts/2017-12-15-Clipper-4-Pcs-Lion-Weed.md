@@ -1,0 +1,8 @@
+---
+layout: post
+title: Clipper 4 pcs Lion Weed
+maker: ebay
+color: jamiaca
+image: Clipper-4-Pcs-Lion-Weed.jpg
+price: 140.00 AUD
+---
