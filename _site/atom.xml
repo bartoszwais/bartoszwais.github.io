@@ -4,13 +4,31 @@
 	<title>Regular Lighter</title>
 	<link href="http://regularlighter.com/atom.xml" rel="self"/>
 	<link href="http://regularlighter.com"/>
-	<updated>2017-12-15T20:34:18+01:00</updated>
+	<updated>2017-12-16T14:18:42+01:00</updated>
 	<id>http://regularlighter.com</id>
 	<author>
 		<name>Bartosz Wais</name>
 		<email>bartoszwais@gmail.com</email>
 	</author>
 
+	
+		<entry>
+			<title>Zippo lot with case</title>
+			<link href="http://regularlighter.com/Great-Pack-of-8-Rare-Claudio-Mazzi-zippo-with-case/"/>
+			<updated>2017-12-16T00:00:00+01:00</updated>
+			<id>http://regularlighter.com/Great-Pack-of-8-Rare-Claudio-Mazzi-zippo-with-case</id>
+			<content type="html">
+</content>
+		</entry>
+	
+		<entry>
+			<title>Claudio Mazzi Pack of 8 zippo with case</title>
+			<link href="http://regularlighter.com/Claudio-Mazzi-Pack-of-8-zippo-with-case/"/>
+			<updated>2017-12-16T00:00:00+01:00</updated>
+			<id>http://regularlighter.com/Claudio-Mazzi-Pack-of-8-zippo-with-case</id>
+			<content type="html">
+</content>
+		</entry>
 	
 		<entry>
 			<title>ST DUPONT TOURNAIRE CATACOMBES</title>
