@@ -4,13 +4,22 @@
 	<title>Regular Lighter</title>
 	<link href="http://regularlighter.com/atom.xml" rel="self"/>
 	<link href="http://regularlighter.com"/>
-	<updated>2017-12-17T15:25:29+01:00</updated>
+	<updated>2017-12-17T15:59:37+01:00</updated>
 	<id>http://regularlighter.com</id>
 	<author>
 		<name>Bartosz Wais</name>
 		<email>bartoszwais@gmail.com</email>
 	</author>
 
+	
+		<entry>
+			<title>Mario plumber windproof fliptop</title>
+			<link href="http://regularlighter.com/mario-plumber-windproof/"/>
+			<updated>2017-12-17T00:00:00+01:00</updated>
+			<id>http://regularlighter.com/mario-plumber-windproof</id>
+			<content type="html">
+</content>
+		</entry>
 	
 		<entry>
 			<title>Zippo Sterling Silver floral handcraft</title>
