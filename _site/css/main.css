@@ -115,7 +115,10 @@ nav ul a, .info h1 a {
   padding: 0.4em 2em;
   font-size: 1em;
   margin-bottom: 1em;
-  text-align: center; }
+  text-align: center;
+  background-image: url("/assets/images/searchicon.png");
+  background-position: 10px 12px;
+  background-repeat: no-repeat; }
 
 #results-container li {
   background: #eee;

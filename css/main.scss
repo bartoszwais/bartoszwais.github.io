@@ -142,6 +142,9 @@ nav ul a, .info h1 a {
         font-size: 1em;
         margin-bottom: 1em;
         text-align: center;
+        background-image: url('/assets/images/searchicon.png');
+        background-position: 10px 12px;
+        background-repeat: no-repeat;
     }
 }
 #results-container {
