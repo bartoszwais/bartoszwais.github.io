@@ -62,6 +62,8 @@ body {
     padding: 1em 1em;
     border-radius: 7px;
     border: 1px solid #ccc; }
+  body.post #content {
+    margin-top: 1em; }
 
 header section, nav.pagination, footer {
   clear: both;
