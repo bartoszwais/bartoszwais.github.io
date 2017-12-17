@@ -57,6 +57,9 @@ body {
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; }
+  body > header {
+    background: #efefef;
+    padding: 1em 1em; }
 
 header section, nav.pagination, footer {
   clear: both;
@@ -112,15 +115,13 @@ nav ul a, .info h1 a {
 
 #results-container li {
   background: #eee;
-  padding: 0.1em 1em;
+  padding: 0.1em 2em;
   line-height: 1.6em;
-  list-style: decimal;
-  width: 300px;
+  list-style: inside decimal;
+  width: 100%;
   text-align: left;
-  margin: 0 auto;
-  border-radius: 48px;
-  margin-bottom: 5px;
-  box-sizing: border-box; }
+  box-sizing: border-box;
+  margin: 0.6em 0; }
 
 @media screen and (max-width: 600px) {
   body {
