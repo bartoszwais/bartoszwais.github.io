@@ -67,6 +67,7 @@ body {
     & > header {
         background: #efefef;
         padding: 1em 1em;
+        border-radius: 7px;
     }
 }
 header section, nav.pagination, footer {
@@ -149,6 +150,7 @@ nav ul a, .info h1 a {
         text-align: left;
         box-sizing: border-box;
         margin: 0.6em 0;
+        border-radius: 4px;
     }
 }
 @media screen and (max-width: 600px) {
