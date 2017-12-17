@@ -3,3 +3,12 @@
         <a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS Subscribe</a>
 <a href="mailto:{{ site.email}}">{{ site.name }}</a> &copy; {{ site.time | date: '%Y' }}</p>
 </footer>
+<script>
+SimpleJekyllSearch({
+  searchInput: document.getElementById('search-input'),
+  resultsContainer: document.getElementById('results-container'),
+  searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+  json: '/search.json'
+})
+</script>
+

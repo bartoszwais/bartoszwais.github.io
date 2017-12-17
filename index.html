@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<ul id="results-container"></ul>
 {% include pagination.html %}
 {% for post in paginator.posts %}
 <article class='{{ post.maker | replace: " ","" }} {{ post.title | replace: " ","" }}'>

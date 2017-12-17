@@ -126,6 +126,29 @@ nav ul a, .info h1 a {
     text-transform: uppercase;
     font-weight: bold;
 }
+#search-container {
+    input {
+        line-height: 2em;
+        padding: 0.4em 2em;
+        font-size: 1em;
+        margin-bottom: 1em;
+        text-align: center;
+    }
+}
+#results-container {
+    li {
+        background: #eee;
+        padding: 0.1em 2em;
+        line-height: 1.6em;
+        list-style: decimal;
+        width: 300px;
+        text-align: left;
+        margin: 0 auto;
+        border-radius: 48px;
+        margin-bottom: 5px;
+        box-sizing:border-box;
+    }
+}
 @media screen and (max-width: 600px) {
     body {
         width:300px;

@@ -44,6 +44,10 @@
             
           
             
+          
+            
+          
+            
             <li><a href="/tobacco-and-cigs/">Tobacco &amp; Cigs</a></li>
             
           
@@ -59,6 +63,14 @@
         <h2>regularlighter.com variety of lighters, tobacco and cigs. 
 </h2>
     </section>
+  <!-- Html Elements for Search -->
+    <div id="search-container">
+      <input type="text" id="search-input" placeholder="Search for products">
+    </div>
+  
+
+
+<!-- Configuration -->
 </header>
 
 
@@ -90,6 +102,15 @@
         <a class="subscribe" href="/feed.xml">RSS Subscribe</a>
 <a href="mailto:not_yet@regularlighter.com">Regular Lighter</a> &copy; 2017</p>
 </footer>
+<script>
+SimpleJekyllSearch({
+  searchInput: document.getElementById('search-input'),
+  resultsContainer: document.getElementById('results-container'),
+  searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+  json: '/search.json'
+})
+</script>
+
 
 
       </section>
