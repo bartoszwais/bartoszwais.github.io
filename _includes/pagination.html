@@ -1,7 +1,6 @@
 {% if paginator.total_pages > 1 %}
     <nav class="pagination" role="navigation">
         <h3>{{ site.baseurl }}/collectionN.{{paginator.page}}</h3>
-    <span class="page-number">/ 9s {{ paginator.page }} of {{ paginator.total_pages }} /</span>
     {% if paginator.previous_page %}
       {% if paginator.page == 2 %}
         <a class="btn" href="{{ site.baseurl }}/">&larr; previous 9</a>
@@ -11,6 +10,7 @@
     {% else %}
       <a class="btn disabled">previous 9 &rarr;</a>
     {% endif %}
+    <span class="page-number">/ 9s {{ paginator.page }} of {{ paginator.total_pages }} /</span>
     {% if paginator.next_page %}
       <a class="btn" href="{{ site.baseurl }}/collectionN.{{paginator.next_page}}">next 9 &rarr;</a>
     {% else %}
