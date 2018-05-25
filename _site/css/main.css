@@ -107,6 +107,8 @@ nav.pagination .btn {
   font-weight: bold; }
   nav.pagination .btn:hover {
     color: gold; }
+nav.pagination .page-number {
+  display: block; }
 
 nav ul a, .info h1 a {
   color: #330000;
