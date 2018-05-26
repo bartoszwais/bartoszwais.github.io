@@ -155,6 +155,9 @@ nav ul a, .info h1 a {
       margin: 1em 0 0 0;
       float: right; }
 
+  #search-container input {
+    padding: 0.4em 1em; }
+
   /*article.shorttorch {
       a img {
           width:300px;
