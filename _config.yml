@@ -30,6 +30,10 @@ analytics_id: "UA-84736243-1"
 markdown: kramdown
 permalink: /:categories/:title/
 
+# PayPal settings
+paypal_email: bartoszwais@googlemail.com
+paypal_currency: AUD
+
 kramdown:
   parse_block_html: true
 

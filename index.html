@@ -13,9 +13,9 @@ layout: default
         <ul>
             <li><strong>maker:</strong> {{ post.maker }}</li>
             <li><strong>color:</strong> {{ post.color }}</li>
-            <li><strong>price:</strong> {{ post.price }}</li>
+            <li><strong>price:</strong> {{ post.price | money_with_currency }}</li>
         </ul>
-        {% include paypal_buy.html %}
+        {% include paypal_add_to_cart.html %}
     </section>
 </article>
 {% endfor %}
