@@ -42,3 +42,5 @@ sass:
 
 gems:
   - jekyll-paginate
+
+#jekyll admin
