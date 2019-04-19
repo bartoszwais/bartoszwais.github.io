@@ -2,6 +2,18 @@
   
     {
     
+      "title"    : "Asian Zippo",
+      "url"      : "/asian-zippo/",
+      "maker"    : "pintrest",
+      "color"    : "steel",
+      "category" : "",
+      "tags"     : "",
+      "date"     : "2019-04-19 00:00:00 +0200"
+      
+    } ,
+  
+    {
+    
       "title"    : "Mario plumber windproof fliptop",
       "url"      : "/mario-plumber-windproof/",
       "maker"    : "etsy",
