@@ -4,7 +4,7 @@
 <input type="hidden" name="add" value="1">
 <input type="hidden" name="item_name" value="{% if post.title == nil %}{{ page.title }}{% endif %}{{ post.title }}">
 <input type="hidden" name="quantity" value="1">
-<input type="hidden" name="amount" value="{% if post.price == nil %}{{ post.price | replace: ' AUD','' }}{% endif %}{{ page.price | replace: ' AUD','' }}">
+<input type="hidden" name="amount" value="{% if post.price != nil %}{{ post.price | replace: ' AUD','' }}{% endif %}{{ page.price | replace: ' AUD','' }}">
 <input type="hidden" name="no_shipping" value="2">
 <input type="hidden" name="currency_code" value="{{ site.paypal_currency }}">
 <input type="hidden" name="shopping_url" value="{{ site.url }}">
