@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Asian Zippo 
-maker: pintrest 
+maker: pinterest 
 color: steel
 image: asian-zippo.jpg
 price: 99 AUD
