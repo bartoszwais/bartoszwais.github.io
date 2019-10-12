@@ -4,13 +4,22 @@
 	<title>Regular Lighter</title>
 	<link href="http://regularlighter.com/atom.xml" rel="self"/>
 	<link href="http://regularlighter.com"/>
-	<updated>2019-07-31T16:18:04+02:00</updated>
+	<updated>2019-10-12T21:39:18+02:00</updated>
 	<id>http://regularlighter.com</id>
 	<author>
 		<name>Bartosz Wais</name>
 		<email>bartoszwais@gmail.com</email>
 	</author>
 
+	
+		<entry>
+			<title>Vietnam Zippo</title>
+			<link href="http://regularlighter.com/vietnam-zippo/"/>
+			<updated>2019-10-12T00:00:00+02:00</updated>
+			<id>http://regularlighter.com/vietnam-zippo</id>
+			<content type="html">
+</content>
+		</entry>
 	
 		<entry>
 			<title>bic bitch stole my lighter</title>
