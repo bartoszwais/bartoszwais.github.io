@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Airborn Zippo 
+title: Airborne Zippo 
 maker: pinterest 
 color: steel
-image: airborn-zippo.jpg
+image: airborne-zippo.jpg
 price: 45 AUD
 ---
