@@ -14,8 +14,32 @@
   
     {
     
-      "title"    : "Airborn Zippo",
-      "url"      : "/airborn-zippo/",
+      "title"    : "Think Green Clipper",
+      "url"      : "/think-green-clipper/",
+      "maker"    : "pinterest",
+      "color"    : "green",
+      "category" : "",
+      "tags"     : "",
+      "date"     : "2019-10-12 00:00:00 +0200"
+      
+    } ,
+  
+    {
+    
+      "title"    : "Mary Jane Clipper",
+      "url"      : "/mary-jane-clipper/",
+      "maker"    : "pinterest",
+      "color"    : "white",
+      "category" : "",
+      "tags"     : "",
+      "date"     : "2019-10-12 00:00:00 +0200"
+      
+    } ,
+  
+    {
+    
+      "title"    : "Airborne Zippo",
+      "url"      : "/airborne-zippo/",
       "maker"    : "pinterest",
       "color"    : "steel",
       "category" : "",

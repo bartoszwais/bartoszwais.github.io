@@ -4,7 +4,7 @@
 	<title>Regular Lighter</title>
 	<link href="http://regularlighter.com/atom.xml" rel="self"/>
 	<link href="http://regularlighter.com"/>
-	<updated>2019-10-12T21:44:23+02:00</updated>
+	<updated>2019-10-12T22:04:33+02:00</updated>
 	<id>http://regularlighter.com</id>
 	<author>
 		<name>Bartosz Wais</name>
@@ -22,10 +22,28 @@
 		</entry>
 	
 		<entry>
-			<title>Airborn Zippo</title>
-			<link href="http://regularlighter.com/airborn-zippo/"/>
+			<title>Think Green Clipper</title>
+			<link href="http://regularlighter.com/think-green-clipper/"/>
 			<updated>2019-10-12T00:00:00+02:00</updated>
-			<id>http://regularlighter.com/airborn-zippo</id>
+			<id>http://regularlighter.com/think-green-clipper</id>
+			<content type="html">
+</content>
+		</entry>
+	
+		<entry>
+			<title>Mary Jane Clipper</title>
+			<link href="http://regularlighter.com/mary-jane-clipper/"/>
+			<updated>2019-10-12T00:00:00+02:00</updated>
+			<id>http://regularlighter.com/mary-jane-clipper</id>
+			<content type="html">
+</content>
+		</entry>
+	
+		<entry>
+			<title>Airborne Zippo</title>
+			<link href="http://regularlighter.com/airborne-zippo/"/>
+			<updated>2019-10-12T00:00:00+02:00</updated>
+			<id>http://regularlighter.com/airborne-zippo</id>
 			<content type="html">
 </content>
 		</entry>
