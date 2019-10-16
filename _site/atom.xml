@@ -4,13 +4,22 @@
 	<title>Regular Lighter</title>
 	<link href="http://regularlighter.com/atom.xml" rel="self"/>
 	<link href="http://regularlighter.com"/>
-	<updated>2019-10-12T22:04:33+02:00</updated>
+	<updated>2019-10-16T21:54:54+02:00</updated>
 	<id>http://regularlighter.com</id>
 	<author>
 		<name>Bartosz Wais</name>
 		<email>bartoszwais@gmail.com</email>
 	</author>
 
+	
+		<entry>
+			<title>Random Zippo 2pack</title>
+			<link href="http://regularlighter.com/random-2pack/"/>
+			<updated>2019-10-16T00:00:00+02:00</updated>
+			<id>http://regularlighter.com/random-2pack</id>
+			<content type="html">
+</content>
+		</entry>
 	
 		<entry>
 			<title>Vietnam Zippo</title>
@@ -22,19 +31,19 @@
 		</entry>
 	
 		<entry>
-			<title>Think Green Clipper</title>
-			<link href="http://regularlighter.com/think-green-clipper/"/>
+			<title>Mary Jane Clipper</title>
+			<link href="http://regularlighter.com/mary-jane-clipper/"/>
 			<updated>2019-10-12T00:00:00+02:00</updated>
-			<id>http://regularlighter.com/think-green-clipper</id>
+			<id>http://regularlighter.com/mary-jane-clipper</id>
 			<content type="html">
 </content>
 		</entry>
 	
 		<entry>
-			<title>Mary Jane Clipper</title>
-			<link href="http://regularlighter.com/mary-jane-clipper/"/>
+			<title>Think Green Clipper</title>
+			<link href="http://regularlighter.com/mary-jane-clipper-copy/"/>
 			<updated>2019-10-12T00:00:00+02:00</updated>
-			<id>http://regularlighter.com/mary-jane-clipper</id>
+			<id>http://regularlighter.com/mary-jane-clipper copy</id>
 			<content type="html">
 </content>
 		</entry>
