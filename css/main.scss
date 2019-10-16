@@ -58,10 +58,10 @@ strong {
     font-weight: bold;
 }
 #info {
-    font-size: 28px;
     border: 2px solid red;
     color: red;
     margin: 2em;
+    padding:0.5em;
 }
 body {
     text-align:center;
@@ -105,6 +105,10 @@ article {
             a {
             line-height: 1.4em;
             }
+        }
+        p {
+          clear: both;
+          display: block;
         }
     }
     &.pinterest, &.etsy, &.ebay, &.shorttorch, &.random {
