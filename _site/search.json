@@ -2,6 +2,18 @@
   
     {
     
+      "title"    : "Clipper Pearl",
+      "url"      : "/pearl-clipper/",
+      "maker"    : "pinterest",
+      "color"    : "pearl",
+      "category" : "",
+      "tags"     : "",
+      "date"     : "2019-10-24 00:00:00 +0200"
+      
+    } ,
+  
+    {
+    
       "title"    : "Random Zippo 2pack",
       "url"      : "/random-2pack/",
       "maker"    : "random",

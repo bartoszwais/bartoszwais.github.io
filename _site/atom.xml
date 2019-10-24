@@ -4,13 +4,22 @@
 	<title>Regular Lighter</title>
 	<link href="http://regularlighter.com/atom.xml" rel="self"/>
 	<link href="http://regularlighter.com"/>
-	<updated>2019-10-16T23:18:27+02:00</updated>
+	<updated>2019-10-24T17:20:25+02:00</updated>
 	<id>http://regularlighter.com</id>
 	<author>
 		<name>Bartosz Wais</name>
 		<email>bartoszwais@gmail.com</email>
 	</author>
 
+	
+		<entry>
+			<title>Clipper Pearl</title>
+			<link href="http://regularlighter.com/pearl-clipper/"/>
+			<updated>2019-10-24T00:00:00+02:00</updated>
+			<id>http://regularlighter.com/pearl-clipper</id>
+			<content type="html">
+</content>
+		</entry>
 	
 		<entry>
 			<title>Random Zippo 2pack</title>
