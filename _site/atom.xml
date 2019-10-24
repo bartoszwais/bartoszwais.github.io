@@ -4,7 +4,7 @@
 	<title>Regular Lighter</title>
 	<link href="http://regularlighter.com/atom.xml" rel="self"/>
 	<link href="http://regularlighter.com"/>
-	<updated>2019-10-24T17:20:25+02:00</updated>
+	<updated>2019-10-24T17:26:46+02:00</updated>
 	<id>http://regularlighter.com</id>
 	<author>
 		<name>Bartosz Wais</name>
@@ -17,6 +17,15 @@
 			<link href="http://regularlighter.com/pearl-clipper/"/>
 			<updated>2019-10-24T00:00:00+02:00</updated>
 			<id>http://regularlighter.com/pearl-clipper</id>
+			<content type="html">
+</content>
+		</entry>
+	
+		<entry>
+			<title>Clipper Crystal</title>
+			<link href="http://regularlighter.com/crystal-clipper/"/>
+			<updated>2019-10-24T00:00:00+02:00</updated>
+			<id>http://regularlighter.com/crystal-clipper</id>
 			<content type="html">
 </content>
 		</entry>
