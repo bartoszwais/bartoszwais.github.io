@@ -88,6 +88,8 @@ article {
     box-sizing: border-box; }
     article .info form {
       margin-top: 2em; }
+      article .info form input {
+        outline: none; }
     article .info h1 {
       margin-bottom: 0.66em; }
       article .info h1 a {
