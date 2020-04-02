@@ -4,5 +4,5 @@ title: Mario plumber windproof fliptop
 maker: etsy
 color: steel
 image: mario-plumber-windproof.jpg
-price: 19 AUD
+price: 19 USD
 ---

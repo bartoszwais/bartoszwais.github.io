@@ -31,8 +31,8 @@ markdown: kramdown
 permalink: /:categories/:title/
 
 # PayPal settings
-paypal_email: bartoszwais@googlemail.com
-paypal_currency: AUD
+paypal_email: regularlighter@yahoo.com
+paypal_currency: USD
 
 kramdown:
   parse_block_html: true
