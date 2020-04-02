@@ -1,47 +1,27 @@
-# Welcome to Amplified for Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-title: Regular Lighter +48 511 137 877 
-email: not_yet@regularlighter.com
-description: >
-    regularlighter.com variety of lighters, tobacco and cigs. 
-logo: "/assets/images/logo.png"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://regularlighter.com" # the base hostname & protocol for your site
-paginate:	99 # The number of posts to show per page on your homepage
-paginate_path: "/collectionN.:num/"
-
-name: 'Regular Lighter'
-bio: >
-    regularlighter.com variety of lighters, tobacco and cigs. 
-author_image: "/assets/images/author.jpg"
+title: Regular Lighter +48 511 137 877
+#email: not_yet@regularlighter.com
+description: |
+  regularlighter.com variety of lighters, tobacco and cigs. 
+logo: /assets/images/logo.png
+baseurl: ''
+url: 'https://regularlighter.com'
+paginate: 99
+paginate_path: '/collectionN.:num/'
+name: Regular Lighter
+bio: |
+  regularlighter.com variety of lighters, tobacco and cigs. 
+author_image: /assets/images/author.jpg
 twitter_username: regularlighter
-github_username:  regularlighter
-
-# Google Analytics
-analytics_id: "UA-84736243-1"
-
-# Build settings
+github_username: regularlighter
+analytics_id: UA-84736243-1
 markdown: kramdown
-permalink: /:categories/:title/
-
-# PayPal settings
+permalink: '/:categories/:title/'
 paypal_email: regularlighter@yahoo.com
 paypal_currency: USD
-
 kramdown:
   parse_block_html: true
-
 sass:
-    sass_dir: css
-
+  sass_dir: css
 gems:
   - jekyll-paginate
   - jekyll-admin
-
-#jekyll admin
