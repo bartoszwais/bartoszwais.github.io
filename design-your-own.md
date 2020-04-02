@@ -1,5 +1,5 @@
 ---
-title: design your own
+title: Design your own
 layout: page
 permalink: "/design-your-own/"
 ---
