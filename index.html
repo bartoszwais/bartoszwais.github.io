@@ -5,7 +5,7 @@ layout: default
 {% include pagination.html %}
 {% for post in paginator.posts %}
 <article class='{{ post.maker | replace: " ","" }} {{ post.title | replace: " ","" }}'>
-        <a href="{{ site.baseurl }}{{ post.url }}">
+        <a href="{{ site.baseurl }}">
             <img src="/assets/images/{{ post.maker | replace: " ", "_" }}/{{ post.image }}" />
         </a>
     <section class='info'>
