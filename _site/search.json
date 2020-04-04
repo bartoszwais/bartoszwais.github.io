@@ -3,10 +3,10 @@
     {
     
       "title"    : "Clipper Pearl",
-      "url"      : "/pearl-clipper/",
+      "url"      : "/pinterest/pearl-clipper/",
       "maker"    : "pinterest",
       "color"    : "pearl",
-      "category" : "",
+      "category" : "pinterest",
       "tags"     : "",
       "date"     : "2019-10-24 00:00:00 +0200"
       
@@ -15,10 +15,10 @@
     {
     
       "title"    : "Clipper Crystal",
-      "url"      : "/crystal-clipper/",
+      "url"      : "/pinterest/crystal-clipper/",
       "maker"    : "pinterest",
       "color"    : "crystal",
-      "category" : "",
+      "category" : "pinterest",
       "tags"     : "",
       "date"     : "2019-10-24 00:00:00 +0200"
       
@@ -27,10 +27,10 @@
     {
     
       "title"    : "Random Zippo 2pack",
-      "url"      : "/random-2pack/",
+      "url"      : "/random/random-2pack/",
       "maker"    : "random",
       "color"    : "steel",
-      "category" : "",
+      "category" : "random",
       "tags"     : "",
       "date"     : "2019-10-16 00:00:00 +0200"
       
@@ -39,10 +39,10 @@
     {
     
       "title"    : "Vietnam Zippo",
-      "url"      : "/vietnam-zippo/",
+      "url"      : "/pinterest/vietnam-zippo/",
       "maker"    : "pinterest",
       "color"    : "steel",
-      "category" : "",
+      "category" : "pinterest",
       "tags"     : "",
       "date"     : "2019-10-12 00:00:00 +0200"
       
@@ -51,10 +51,10 @@
     {
     
       "title"    : "Think Green Clipper",
-      "url"      : "/think-green-clipper/",
+      "url"      : "/pinterest/think-green-clipper/",
       "maker"    : "pinterest",
       "color"    : "green",
-      "category" : "",
+      "category" : "pinterest",
       "tags"     : "",
       "date"     : "2019-10-12 00:00:00 +0200"
       
@@ -63,10 +63,10 @@
     {
     
       "title"    : "Mary Jane Clipper",
-      "url"      : "/mary-jane-clipper/",
+      "url"      : "/pinterest/mary-jane-clipper/",
       "maker"    : "pinterest",
       "color"    : "white",
-      "category" : "",
+      "category" : "pinterest",
       "tags"     : "",
       "date"     : "2019-10-12 00:00:00 +0200"
       
@@ -75,10 +75,10 @@
     {
     
       "title"    : "Airborne Zippo",
-      "url"      : "/airborne-zippo/",
+      "url"      : "/pinterest/airborne-zippo/",
       "maker"    : "pinterest",
       "color"    : "steel",
-      "category" : "",
+      "category" : "pinterest",
       "tags"     : "",
       "date"     : "2019-10-12 00:00:00 +0200"
       
@@ -87,10 +87,10 @@
     {
     
       "title"    : "bic bitch stole my lighter",
-      "url"      : "/bic-bitch-stole-my-lighter/",
+      "url"      : "/pinterest/bic-bitch-stole-my-lighter/",
       "maker"    : "pinterest",
       "color"    : "white",
-      "category" : "",
+      "category" : "pinterest",
       "tags"     : "",
       "date"     : "2019-04-19 00:00:00 +0200"
       
@@ -99,10 +99,10 @@
     {
     
       "title"    : "Asian Zippo",
-      "url"      : "/asian-zippo/",
+      "url"      : "/pinterest/asian-zippo/",
       "maker"    : "pinterest",
       "color"    : "steel",
-      "category" : "",
+      "category" : "pinterest",
       "tags"     : "",
       "date"     : "2019-04-19 00:00:00 +0200"
       
@@ -111,10 +111,10 @@
     {
     
       "title"    : "Mario plumber windproof fliptop",
-      "url"      : "/mario-plumber-windproof/",
+      "url"      : "/etsy/mario-plumber-windproof/",
       "maker"    : "etsy",
       "color"    : "steel",
-      "category" : "",
+      "category" : "etsy",
       "tags"     : "",
       "date"     : "2017-12-17 00:00:00 +0100"
       
@@ -123,10 +123,10 @@
     {
     
       "title"    : "Zippo Sterling Silver floral handcraft",
-      "url"      : "/Zippo-Sterling-Silver-floral-handcraft/",
+      "url"      : "/ebay/Zippo-Sterling-Silver-floral-handcraft/",
       "maker"    : "ebay",
       "color"    : "silver",
-      "category" : "",
+      "category" : "ebay",
       "tags"     : "",
       "date"     : "2017-12-16 00:00:00 +0100"
       
@@ -135,10 +135,10 @@
     {
     
       "title"    : "Claudio Mazzi Pack of 8 zippo with case",
-      "url"      : "/Claudio-Mazzi-Pack-of-8-zippo-with-case/",
+      "url"      : "/ebay/Claudio-Mazzi-Pack-of-8-zippo-with-case/",
       "maker"    : "ebay",
       "color"    : "steel",
-      "category" : "",
+      "category" : "ebay",
       "tags"     : "",
       "date"     : "2017-12-16 00:00:00 +0100"
       
@@ -147,10 +147,10 @@
     {
     
       "title"    : "ST DUPONT TOURNAIRE CATACOMBES",
-      "url"      : "/ST-DUPONT-TOURNAIRE-CATACOMBES/",
+      "url"      : "/ebay/ST-DUPONT-TOURNAIRE-CATACOMBES/",
       "maker"    : "ebay",
       "color"    : "gold",
-      "category" : "",
+      "category" : "ebay",
       "tags"     : "",
       "date"     : "2017-12-15 00:00:00 +0100"
       
@@ -159,10 +159,10 @@
     {
     
       "title"    : "ST Dupont Prestige Cuba Libre",
-      "url"      : "/ST-DUPONT-Prestige-Cuba-Libre/",
+      "url"      : "/ebay/ST-DUPONT-Prestige-Cuba-Libre/",
       "maker"    : "ebay",
       "color"    : "gold",
-      "category" : "",
+      "category" : "ebay",
       "tags"     : "",
       "date"     : "2017-12-15 00:00:00 +0100"
       
@@ -171,10 +171,10 @@
     {
     
       "title"    : "Clipper 4 pcs Lion Weed",
-      "url"      : "/Clipper-4-Pcs-Lion-Weed/",
+      "url"      : "/ebay/Clipper-4-Pcs-Lion-Weed/",
       "maker"    : "ebay",
       "color"    : "Jamaica",
-      "category" : "",
+      "category" : "ebay",
       "tags"     : "",
       "date"     : "2017-12-15 00:00:00 +0100"
       
@@ -183,10 +183,10 @@
     {
     
       "title"    : "Zippo lot with case",
-      "url"      : "/zippo-lot-with-case/",
+      "url"      : "/ebay/zippo-lot-with-case/",
       "maker"    : "ebay",
       "color"    : "mix",
-      "category" : "",
+      "category" : "ebay",
       "tags"     : "",
       "date"     : "2017-12-13 00:00:00 +0100"
       
@@ -195,10 +195,10 @@
     {
     
       "title"    : "ST Dupont Punch Habanera",
-      "url"      : "/st-dupont-punch-habanera/",
+      "url"      : "/ebay/st-dupont-punch-habanera/",
       "maker"    : "ebay",
       "color"    : "check image",
-      "category" : "",
+      "category" : "ebay",
       "tags"     : "",
       "date"     : "2017-12-13 00:00:00 +0100"
       
@@ -207,10 +207,10 @@
     {
     
       "title"    : "ST DUPONT 60 DIAMONDS LINE",
-      "url"      : "/st-dupont-diamonds-line/",
+      "url"      : "/ebay/st-dupont-diamonds-line/",
       "maker"    : "ebay",
       "color"    : "platinium",
-      "category" : "",
+      "category" : "ebay",
       "tags"     : "",
       "date"     : "2017-12-13 00:00:00 +0100"
       
@@ -219,10 +219,10 @@
     {
     
       "title"    : "Zippo pErixShop psychodelic",
-      "url"      : "/pErixShop-psychodelic/",
+      "url"      : "/etsy/pErixShop-psychodelic/",
       "maker"    : "etsy",
       "color"    : "steel",
-      "category" : "",
+      "category" : "etsy",
       "tags"     : "",
       "date"     : "2017-12-13 00:00:00 +0100"
       
@@ -231,10 +231,10 @@
     {
     
       "title"    : "Bic Collectibles",
-      "url"      : "/bic-collectibles/",
+      "url"      : "/etsy/bic-collectibles/",
       "maker"    : "etsy",
       "color"    : "mix",
-      "category" : "",
+      "category" : "etsy",
       "tags"     : "",
       "date"     : "2017-12-13 00:00:00 +0100"
       
@@ -243,10 +243,10 @@
     {
     
       "title"    : "Rick and Morty Lighter Windproof Fliptop",
-      "url"      : "/Rick-and-Morty-silver-white/",
+      "url"      : "/etsy/Rick-and-Morty-silver-white/",
       "maker"    : "etsy",
       "color"    : "silver white",
-      "category" : "",
+      "category" : "etsy",
       "tags"     : "",
       "date"     : "2017-12-13 00:00:00 +0100"
       
@@ -255,10 +255,10 @@
     {
     
       "title"    : "Rick and-Morty bic vinyl sticker",
-      "url"      : "/Rick-and-Morty-bic-sticker/",
+      "url"      : "/etsy/Rick-and-Morty-bic-sticker/",
       "maker"    : "etsy",
       "color"    : "bic sticker",
-      "category" : "",
+      "category" : "etsy",
       "tags"     : "",
       "date"     : "2017-12-13 00:00:00 +0100"
       
@@ -267,10 +267,10 @@
     {
     
       "title"    : "Zippo Ufficiale di Artiglieria di Linea",
-      "url"      : "/Artiglieria-di-Linea/",
+      "url"      : "/etsy/Artiglieria-di-Linea/",
       "maker"    : "etsy",
       "color"    : "Zippo",
-      "category" : "",
+      "category" : "etsy",
       "tags"     : "",
       "date"     : "2017-12-13 00:00:00 +0100"
       
@@ -279,10 +279,10 @@
     {
     
       "title"    : "Web",
-      "url"      : "/web/",
+      "url"      : "/shorttorch/web/",
       "maker"    : "short torch",
       "color"    : "white",
-      "category" : "",
+      "category" : "shorttorch",
       "tags"     : "",
       "date"     : "2017-11-27 00:00:00 +0100"
       
@@ -291,10 +291,10 @@
     {
     
       "title"    : "Unknown",
-      "url"      : "/unknown/",
+      "url"      : "/shorttorch/unknown/",
       "maker"    : "short torch",
       "color"    : "black",
-      "category" : "",
+      "category" : "shorttorch",
       "tags"     : "",
       "date"     : "2017-11-27 00:00:00 +0100"
       
@@ -303,10 +303,10 @@
     {
     
       "title"    : "Short Torch Logo",
-      "url"      : "/short-torch-logo/",
+      "url"      : "/shorttorch/short-torch-logo/",
       "maker"    : "short torch",
       "color"    : "red",
-      "category" : "",
+      "category" : "shorttorch",
       "tags"     : "",
       "date"     : "2017-11-27 00:00:00 +0100"
       
@@ -315,10 +315,10 @@
     {
     
       "title"    : "Owl",
-      "url"      : "/owl/",
+      "url"      : "/shorttorch/owl/",
       "maker"    : "short torch",
       "color"    : "black",
-      "category" : "",
+      "category" : "shorttorch",
       "tags"     : "",
       "date"     : "2017-11-27 00:00:00 +0100"
       
@@ -327,10 +327,10 @@
     {
     
       "title"    : "Owl ver2",
-      "url"      : "/owl-ver2/",
+      "url"      : "/shorttorch/owl-ver2/",
       "maker"    : "short torch",
       "color"    : "white",
-      "category" : "",
+      "category" : "shorttorch",
       "tags"     : "",
       "date"     : "2017-11-27 00:00:00 +0100"
       
@@ -339,10 +339,10 @@
     {
     
       "title"    : "LV",
-      "url"      : "/lv/",
+      "url"      : "/shorttorch/lv/",
       "maker"    : "short torch",
       "color"    : "brown",
-      "category" : "",
+      "category" : "shorttorch",
       "tags"     : "",
       "date"     : "2017-11-27 00:00:00 +0100"
       
@@ -351,10 +351,10 @@
     {
     
       "title"    : "Jets And Giants",
-      "url"      : "/jets-and-giants/",
+      "url"      : "/shorttorch/jets-and-giants/",
       "maker"    : "short torch",
       "color"    : "green, blue",
-      "category" : "",
+      "category" : "shorttorch",
       "tags"     : "",
       "date"     : "2017-11-27 00:00:00 +0100"
       
@@ -363,10 +363,10 @@
     {
     
       "title"    : "Indian",
-      "url"      : "/indian/",
+      "url"      : "/shorttorch/indian/",
       "maker"    : "short torch",
       "color"    : "orange",
-      "category" : "",
+      "category" : "shorttorch",
       "tags"     : "",
       "date"     : "2017-11-27 00:00:00 +0100"
       
@@ -375,10 +375,10 @@
     {
     
       "title"    : "Hello Kitty",
-      "url"      : "/hello-kitty/",
+      "url"      : "/shorttorch/hello-kitty/",
       "maker"    : "short torch",
       "color"    : "black",
-      "category" : "",
+      "category" : "shorttorch",
       "tags"     : "",
       "date"     : "2017-11-27 00:00:00 +0100"
       
@@ -387,10 +387,10 @@
     {
     
       "title"    : "Ganesh",
-      "url"      : "/ganesh/",
+      "url"      : "/shorttorch/ganesh/",
       "maker"    : "short torch",
       "color"    : "blue",
-      "category" : "",
+      "category" : "shorttorch",
       "tags"     : "",
       "date"     : "2017-11-27 00:00:00 +0100"
       
@@ -399,10 +399,10 @@
     {
     
       "title"    : "Dog",
-      "url"      : "/dog/",
+      "url"      : "/shorttorch/dog/",
       "maker"    : "short torch",
       "color"    : "blue",
-      "category" : "",
+      "category" : "shorttorch",
       "tags"     : "",
       "date"     : "2017-11-27 00:00:00 +0100"
       
@@ -411,10 +411,10 @@
     {
     
       "title"    : "Decorated",
-      "url"      : "/decorated/",
+      "url"      : "/shorttorch/decorated/",
       "maker"    : "short torch",
       "color"    : "green",
-      "category" : "",
+      "category" : "shorttorch",
       "tags"     : "",
       "date"     : "2017-11-27 00:00:00 +0100"
       
@@ -423,10 +423,10 @@
     {
     
       "title"    : "Decorated X2",
-      "url"      : "/decorated-x2/",
+      "url"      : "/shorttorch/decorated-x2/",
       "maker"    : "short torch",
       "color"    : "red, yellow",
-      "category" : "",
+      "category" : "shorttorch",
       "tags"     : "",
       "date"     : "2017-11-27 00:00:00 +0100"
       
@@ -435,10 +435,10 @@
     {
     
       "title"    : "Calvin",
-      "url"      : "/calvin/",
+      "url"      : "/shorttorch/calvin/",
       "maker"    : "short torch",
       "color"    : "black",
-      "category" : "",
+      "category" : "shorttorch",
       "tags"     : "",
       "date"     : "2017-11-27 00:00:00 +0100"
       
@@ -447,10 +447,10 @@
     {
     
       "title"    : "Calvin X3",
-      "url"      : "/calvin-x3/",
+      "url"      : "/shorttorch/calvin-x3/",
       "maker"    : "short torch",
       "color"    : "black",
-      "category" : "",
+      "category" : "shorttorch",
       "tags"     : "",
       "date"     : "2017-11-27 00:00:00 +0100"
       
@@ -459,10 +459,10 @@
     {
     
       "title"    : "Brainfeeder",
-      "url"      : "/brainfeeder/",
+      "url"      : "/shorttorch/brainfeeder/",
       "maker"    : "short torch",
       "color"    : "yellow",
-      "category" : "",
+      "category" : "shorttorch",
       "tags"     : "",
       "date"     : "2017-11-27 00:00:00 +0100"
       
@@ -471,10 +471,10 @@
     {
     
       "title"    : "Big Head Man",
-      "url"      : "/big-head-man/",
+      "url"      : "/shorttorch/big-head-man/",
       "maker"    : "short torch",
       "color"    : "orange",
-      "category" : "",
+      "category" : "shorttorch",
       "tags"     : "",
       "date"     : "2017-11-27 00:00:00 +0100"
       
@@ -483,10 +483,10 @@
     {
     
       "title"    : "Bats",
-      "url"      : "/bats/",
+      "url"      : "/shorttorch/bats/",
       "maker"    : "short torch",
       "color"    : "red",
-      "category" : "",
+      "category" : "shorttorch",
       "tags"     : "",
       "date"     : "2017-11-27 00:00:00 +0100"
       
@@ -495,10 +495,10 @@
     {
     
       "title"    : "Bahbaa",
-      "url"      : "/bahbaa/",
+      "url"      : "/shorttorch/bahbaa/",
       "maker"    : "short torch",
       "color"    : "blue",
-      "category" : "",
+      "category" : "shorttorch",
       "tags"     : "",
       "date"     : "2017-11-27 00:00:00 +0100"
       
@@ -507,10 +507,10 @@
     {
     
       "title"    : "Arabic",
-      "url"      : "/arabic/",
+      "url"      : "/shorttorch/arabic/",
       "maker"    : "short torch",
       "color"    : "yellow",
-      "category" : "",
+      "category" : "shorttorch",
       "tags"     : "",
       "date"     : "2017-11-27 00:00:00 +0100"
       

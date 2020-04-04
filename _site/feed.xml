@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/atom.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 04 Apr 2020 16:33:10 +0200</pubDate>
-    <lastBuildDate>Sat, 04 Apr 2020 16:33:10 +0200</lastBuildDate>
+    <pubDate>Sat, 04 Apr 2020 17:04:00 +0200</pubDate>
+    <lastBuildDate>Sat, 04 Apr 2020 17:04:00 +0200</lastBuildDate>
     <generator>Regular Lighter 0.0.1</generator>
     
       <item>
@@ -15,9 +15,11 @@
         <description>
 </description>
         <pubDate>Thu, 24 Oct 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/pearl-clipper/</link>
-        <guid isPermaLink="true">http://localhost:4000/pearl-clipper/</guid>
+        <link>http://localhost:4000/pinterest/pearl-clipper/</link>
+        <guid isPermaLink="true">http://localhost:4000/pinterest/pearl-clipper/</guid>
         
+        
+        <category>pinterest</category>
         
       </item>
     
@@ -26,9 +28,11 @@
         <description>
 </description>
         <pubDate>Thu, 24 Oct 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/crystal-clipper/</link>
-        <guid isPermaLink="true">http://localhost:4000/crystal-clipper/</guid>
+        <link>http://localhost:4000/pinterest/crystal-clipper/</link>
+        <guid isPermaLink="true">http://localhost:4000/pinterest/crystal-clipper/</guid>
         
+        
+        <category>pinterest</category>
         
       </item>
     
@@ -37,9 +41,11 @@
         <description>
 </description>
         <pubDate>Wed, 16 Oct 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/random-2pack/</link>
-        <guid isPermaLink="true">http://localhost:4000/random-2pack/</guid>
+        <link>http://localhost:4000/random/random-2pack/</link>
+        <guid isPermaLink="true">http://localhost:4000/random/random-2pack/</guid>
         
+        
+        <category>random</category>
         
       </item>
     
@@ -48,9 +54,11 @@
         <description>
 </description>
         <pubDate>Sat, 12 Oct 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/vietnam-zippo/</link>
-        <guid isPermaLink="true">http://localhost:4000/vietnam-zippo/</guid>
+        <link>http://localhost:4000/pinterest/vietnam-zippo/</link>
+        <guid isPermaLink="true">http://localhost:4000/pinterest/vietnam-zippo/</guid>
         
+        
+        <category>pinterest</category>
         
       </item>
     
@@ -59,9 +67,11 @@
         <description>
 </description>
         <pubDate>Sat, 12 Oct 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/think-green-clipper/</link>
-        <guid isPermaLink="true">http://localhost:4000/think-green-clipper/</guid>
+        <link>http://localhost:4000/pinterest/think-green-clipper/</link>
+        <guid isPermaLink="true">http://localhost:4000/pinterest/think-green-clipper/</guid>
         
+        
+        <category>pinterest</category>
         
       </item>
     
@@ -70,9 +80,11 @@
         <description>
 </description>
         <pubDate>Sat, 12 Oct 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/mary-jane-clipper/</link>
-        <guid isPermaLink="true">http://localhost:4000/mary-jane-clipper/</guid>
+        <link>http://localhost:4000/pinterest/mary-jane-clipper/</link>
+        <guid isPermaLink="true">http://localhost:4000/pinterest/mary-jane-clipper/</guid>
         
+        
+        <category>pinterest</category>
         
       </item>
     
@@ -81,9 +93,11 @@
         <description>
 </description>
         <pubDate>Sat, 12 Oct 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/airborne-zippo/</link>
-        <guid isPermaLink="true">http://localhost:4000/airborne-zippo/</guid>
+        <link>http://localhost:4000/pinterest/airborne-zippo/</link>
+        <guid isPermaLink="true">http://localhost:4000/pinterest/airborne-zippo/</guid>
         
+        
+        <category>pinterest</category>
         
       </item>
     
@@ -92,9 +106,11 @@
         <description>
 </description>
         <pubDate>Fri, 19 Apr 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/bic-bitch-stole-my-lighter/</link>
-        <guid isPermaLink="true">http://localhost:4000/bic-bitch-stole-my-lighter/</guid>
+        <link>http://localhost:4000/pinterest/bic-bitch-stole-my-lighter/</link>
+        <guid isPermaLink="true">http://localhost:4000/pinterest/bic-bitch-stole-my-lighter/</guid>
         
+        
+        <category>pinterest</category>
         
       </item>
     
@@ -103,9 +119,11 @@
         <description>
 </description>
         <pubDate>Fri, 19 Apr 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/asian-zippo/</link>
-        <guid isPermaLink="true">http://localhost:4000/asian-zippo/</guid>
+        <link>http://localhost:4000/pinterest/asian-zippo/</link>
+        <guid isPermaLink="true">http://localhost:4000/pinterest/asian-zippo/</guid>
         
+        
+        <category>pinterest</category>
         
       </item>
     
@@ -114,9 +132,11 @@
         <description>
 </description>
         <pubDate>Sun, 17 Dec 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/mario-plumber-windproof/</link>
-        <guid isPermaLink="true">http://localhost:4000/mario-plumber-windproof/</guid>
+        <link>http://localhost:4000/etsy/mario-plumber-windproof/</link>
+        <guid isPermaLink="true">http://localhost:4000/etsy/mario-plumber-windproof/</guid>
         
+        
+        <category>etsy</category>
         
       </item>
     
