@@ -5,10 +5,10 @@ layout: null
 <feed xmlns="http://www.w3.org/2005/Atom">
 
 	<title>Regular Lighter</title>
-	<link href="http://regularlighter.com/atom.xml" rel="self"/>
-	<link href="http://regularlighter.com"/>
+	<link href="https://regularlighter.com/atom.xml" rel="self"/>
+	<link href="https://regularlighter.com"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
-	<id>http://regularlighter.com</id>
+	<id>https://regularlighter.com</id>
 	<author>
 		<name>Bartosz Wais</name>
 		<email>bartoszwais@googlemail.com</email>
@@ -17,7 +17,7 @@ layout: null
 	{% for post in site.posts %}
 		<entry>
 			<title>{{ post.title }}</title>
-			<link href="http://regularlighter.com{{ post.url }}"/>
+			<link href="https://regularlighter.com{{ post.url }}"/>
 			<updated>{{ post.date | date_to_xmlschema }}</updated>
 			<id>http://regularlighter.com{{ post.id }}</id>
 			<content type="html">{{ post.content | xml_escape }}</content>
