@@ -4,7 +4,7 @@ layout: default
 <ul id="results-container"></ul>
 <article class='{{ page.maker | replace: " ","" }} {{ page.title | replace: " ","" }}'>
         <a href="{{ site.baseurl }}{{ page.url }}">
-            <img src="/assets/images/{{ page.maker | replace: " ", "_" }}/{{ page.image }}" width='300' />
+            <img src="/assets/images/{{ page.maker | replace: " ", "_" }}/{{ page.image }}" width='300' alt="{{site.title}} {{post.title}}" />
         </a>
     <section class='info'>
         <h1><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h1>
