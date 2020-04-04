@@ -120,7 +120,9 @@ nav ul a, .info h1 a {
   border-bottom: 2px solid;
   text-decoration: none;
   font-weight: bold;
-  text-transform: uppercase; }
+  text-transform: uppercase;
+  font-family: monospace;
+  font-size: 1.3em; }
 
 #search-container input {
   line-height: 2em;
