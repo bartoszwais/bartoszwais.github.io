@@ -4,13 +4,22 @@
 	<title>Regular Lighter</title>
 	<link href="https://regularlighter.com/atom.xml" rel="self"/>
 	<link href="https://regularlighter.com"/>
-	<updated>2020-04-04T18:37:05+02:00</updated>
+	<updated>2020-04-06T17:21:29+02:00</updated>
 	<id>https://regularlighter.com</id>
 	<author>
 		<name>Bartosz Wais</name>
 		<email>bartoszwais@googlemail.com</email>
 	</author>
 
+	
+		<entry>
+			<title>bic black classic gold</title>
+			<link href="https://regularlighter.com/random/bic-black-classic-gold/"/>
+			<updated>2020-04-06T00:00:00+02:00</updated>
+			<id>http://regularlighter.com/random/bic-black-classic-gold</id>
+			<content type="html">
+</content>
+		</entry>
 	
 		<entry>
 			<title>Clipper Pearl</title>
