@@ -180,3 +180,15 @@ nav ul a, .info h1 a {
 
 .fb-like {
   margin-top: 20px; }
+
+.page #content {
+  text-align: left; }
+  .page #content h1, .page #content footer {
+    text-align: center; }
+  .page #content h1, .page #content h2 {
+    font-weight: bold;
+    margin-bottom: 1em; }
+  .page #content p, .page #content ul {
+    margin-bottom: 1em; }
+  .page #content ul {
+    list-style-type: decimal; }

@@ -219,4 +219,22 @@ nav ul a, .info h1 a {
 .fb-like {    
     margin-top: 20px;
 }
+.page #content {
+    text-align: left;
+    h1, footer { text-align: center;}
+    
+    h1, h2 { 
+        font-weight: bold;
+        margin-bottom:1em;
+
+    }
+
+    p,ul {
+        margin-bottom:1em;        
+    }
+    ul {
+        list-style-type: decimal;
+    }
+
+}
 
