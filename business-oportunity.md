@@ -9,7 +9,7 @@ If you are business owner or individual interested in earning money please read 
 Please note this document is just an early draft version.
 
 ## Our product description
-Each Regular Lighter&reg; has to meet certain critieria to be displayed on regularlighter.com website.
+Each Regular Lighter&reg; has to meet certain criteria to be displayed on regularlighter.com website.
 - Has to have artwork engraved by hand or laser, CO2, or fibre, or any other tool, we care about final effect not your toolset.
 - It is your responsibility to provide us artwork name.
 - Paint,colours can be used.
