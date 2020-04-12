@@ -187,8 +187,11 @@ nav ul a, .info h1 a {
     text-align: center; }
   .page #content h1, .page #content h2 {
     font-weight: bold;
-    margin-bottom: 1em; }
+    margin-bottom: 1em;
+    padding-top: 1em; }
   .page #content p, .page #content ul {
     margin-bottom: 1em; }
   .page #content ul {
     list-style-type: decimal; }
+    .page #content ul li {
+      margin-bottom: 1em; }

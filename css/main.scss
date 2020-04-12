@@ -226,6 +226,7 @@ nav ul a, .info h1 a {
     h1, h2 { 
         font-weight: bold;
         margin-bottom:1em;
+        padding-top: 1em;
 
     }
 
@@ -234,6 +235,9 @@ nav ul a, .info h1 a {
     }
     ul {
         list-style-type: decimal;
+        li {
+            margin-bottom:1em;
+        }
     }
 
 }
