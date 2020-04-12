@@ -183,6 +183,8 @@ nav ul a, .info h1 a {
 
 .page #content {
   text-align: left; }
+  .page #content article {
+    font-size: 1.3em; }
   .page #content h1, .page #content footer {
     text-align: center; }
   .page #content h1, .page #content h2 {
