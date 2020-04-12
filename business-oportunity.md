@@ -33,7 +33,7 @@ Each Regular Lighter&reg; has to meet certain critieria to be displayed on regul
 - During first year: engraved/marked lighter with No. CDXX has to be sent to us in pack with 19 other marked lighters with same/similar artwork and unique numbers. 
 - During every other year we expect to receive from you 20 lighters with same/similar artwork.
 - Please send us lighters in pack of 20, we do not accept less or more.
-- You are responsible for storing data about each lighter, we may ask you for annual raport about your production.
+- You are responsible for storing data about each lighter, we may ask you for annual report about your production.
 
 ## IMPORTANT NOTE
 Please keep in mind this is early version of our policy, if having questions, before starting investments, please write to us on [regularlighter@yahoo.com](mailto:regularlighter@yahoo.com) address.
