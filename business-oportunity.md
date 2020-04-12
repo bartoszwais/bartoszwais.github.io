@@ -12,7 +12,7 @@ Please note this document is just an early draft version.
 Each Regular Lighter&reg; has to meet certain criteria to be displayed on regularlighter.com website.
 - Has to have artwork engraved by hand or laser, CO2, or fibre, or any other tool, we care about final effect not your toolset.
 - It is your responsibility to provide us artwork name.
-- Paint,colours can be used.
+- Paint, colours can be used.
 - Has to have unique number, ask your laser provider for ROMAN numbers automatic counter.
 - Unique number can be on the same side as artwork or on the other side, number should be readable without strain by average user.
 - Our default lighter is classic BIC&reg;.
