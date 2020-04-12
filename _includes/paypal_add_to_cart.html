@@ -3,7 +3,7 @@
 <input type="hidden" name="business" value="regularlighter@yahoo.com">
 <input type="hidden" name="cmd" value="_cart">
 <input type="hidden" name="add" value="1">
-<input type="hidden" name="item_name" value="{% if post.title == nil %}{{ page.title }}{% endif %}{{ post.title }} {% if post.currency != nil %}{{ post.currency }}{% endif %}{{ page.currency }}">
+<input type="hidden" name="item_name" value=" {% if post.currency != nil %}{{ post.currency }}{% endif %}{{ page.currency }} * {% if post.title == nil %}{{ page.title }}{% endif %}{{ post.title }}">
 <input type="hidden" name="quantity" value="1">
 <input type="hidden" name="amount" value="{% if post.price != nil %}{{ post.price }}{% endif %}{{ page.price }}">
 <input type="hidden" name="no_shipping" value="2">
