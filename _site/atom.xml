@@ -4,7 +4,7 @@
 	<title>Regular Lighter</title>
 	<link href="https://regularlighter.com/atom.xml" rel="self"/>
 	<link href="https://regularlighter.com"/>
-	<updated>2020-04-12T18:02:07+02:00</updated>
+	<updated>2020-04-12T18:05:16+02:00</updated>
 	<id>https://regularlighter.com</id>
 	<author>
 		<name>Bartosz Wais</name>
@@ -13,7 +13,7 @@
 
 	
 		<entry>
-			<title>Bats</title>
+			<title>Bats GBP</title>
 			<link href="https://regularlighter.com/shorttorch/bats-GBP/"/>
 			<updated>2020-04-12T00:00:00+02:00</updated>
 			<id>http://regularlighter.com/shorttorch/bats-GBP</id>
@@ -22,7 +22,7 @@
 		</entry>
 	
 		<entry>
-			<title>Arabic</title>
+			<title>Arabic EURO</title>
 			<link href="https://regularlighter.com/shorttorch/arabic-EURO/"/>
 			<updated>2020-04-12T00:00:00+02:00</updated>
 			<id>http://regularlighter.com/shorttorch/arabic-EURO</id>

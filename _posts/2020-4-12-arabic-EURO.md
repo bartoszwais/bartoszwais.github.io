@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Arabic
+title: Arabic EURO
 maker: short torch
 category: shorttorch
 color: yellow
