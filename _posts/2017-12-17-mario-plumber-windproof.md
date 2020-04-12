@@ -5,5 +5,6 @@ maker: etsy
 category: etsy
 color: steel
 image: mario-plumber-windproof.jpg
-price: 19 USD
+price: 19
+currency: USD
 ---

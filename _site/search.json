@@ -2,6 +2,30 @@
   
     {
     
+      "title"    : "Bats",
+      "url"      : "/shorttorch/bats-GBP/",
+      "maker"    : "short torch",
+      "color"    : "red",
+      "category" : "shorttorch",
+      "tags"     : "",
+      "date"     : "2020-04-12 00:00:00 +0200"
+      
+    } ,
+  
+    {
+    
+      "title"    : "Arabic",
+      "url"      : "/shorttorch/arabic-EURO/",
+      "maker"    : "short torch",
+      "color"    : "yellow",
+      "category" : "shorttorch",
+      "tags"     : "",
+      "date"     : "2020-04-12 00:00:00 +0200"
+      
+    } ,
+  
+    {
+    
       "title"    : "bic black classic gold",
       "url"      : "/random/bic-black-classic-gold/",
       "maker"    : "random",

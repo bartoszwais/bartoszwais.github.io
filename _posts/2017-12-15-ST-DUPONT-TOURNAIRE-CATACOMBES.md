@@ -5,5 +5,6 @@ maker: ebay
 category: ebay
 color: gold
 image: ST-DUPONT-TOURNAIRE-CATACOMBES.jpg
-price: 17000.00 USD
+price: 17000.00
+currency: USD
 ---

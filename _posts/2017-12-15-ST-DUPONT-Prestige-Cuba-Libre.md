@@ -5,5 +5,6 @@ maker: ebay
 category: ebay
 color: gold
 image: ST-Dupont-Prestige-Cuba-Libre.jpg
-price: 8000.00 USD
+price: 8000.00
+currency: USD
 ---

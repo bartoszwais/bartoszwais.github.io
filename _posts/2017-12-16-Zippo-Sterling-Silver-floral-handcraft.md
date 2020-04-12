@@ -5,5 +5,6 @@ maker: ebay
 category: ebay
 color: silver
 image: Zippo-Sterling-Silver-floral-handcraft.jpg
-price: 633.00 USD
+price: 633.00
+currency: USD
 ---

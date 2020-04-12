@@ -5,5 +5,6 @@ maker: ebay
 category: ebay
 color: Jamaica
 image: Clipper-4-Pcs-Lion-Weed.jpg
-price: 140.00 USD
+price: 140.00 
+currency: USD
 ---

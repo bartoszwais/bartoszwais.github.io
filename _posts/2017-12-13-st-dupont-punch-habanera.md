@@ -5,5 +5,6 @@ maker: ebay
 category: ebay
 color: check image
 image: st-dupont-punch-habanera.jpg
-price: 7000.00 USD
+price: 7000.00
+currency: USD
 ---

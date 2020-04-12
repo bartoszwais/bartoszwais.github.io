@@ -5,5 +5,6 @@ maker: etsy
 category: etsy
 color: steel
 image: pErixShop-psychodelic.jpg
-price: 220 USD
+price: 220
+currency: USD
 ---

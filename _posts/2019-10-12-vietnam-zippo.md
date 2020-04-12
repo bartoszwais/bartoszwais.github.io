@@ -5,5 +5,6 @@ maker: pinterest
 category: pinterest 
 color: steel
 image: vietnam-zippo.jpg
-price: 120 USD
+price: 120
+currency: USD
 ---

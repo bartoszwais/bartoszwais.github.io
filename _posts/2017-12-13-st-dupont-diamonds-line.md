@@ -5,5 +5,6 @@ maker: ebay
 category: ebay
 color: platinium
 image: st-dupont-60-diamonds-line.jpg
-price: 120000.00 USD
+price: 120000.00
+currency: USD
 ---

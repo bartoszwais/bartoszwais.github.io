@@ -5,5 +5,6 @@ maker: pinterest
 category: pinterest 
 color: steel
 image: airborne-zippo.jpg
-price: 45 USD
+price: 45
+currency: USD
 ---
