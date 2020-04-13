@@ -8,6 +8,10 @@ permalink: "/business-oportunity/"
 If you are business owner or individual interested in earning money please read this page.
 Please note this document is just an early draft version.
 
+If interested in promoting your business on our organic weed page, please send us email, current address is: [regularlighter@yahoo.com](mailto:regularlighter@yahoo.com).
+
+This page is dedicated to Regular Lighter&reg; product only.
+
 ## Our product description
 Each Regular Lighter&reg; has to meet certain criteria to be displayed on regularlighter.com website.
 - Has to have artwork engraved by hand or laser, CO2, or fibre, or any other tool, we care about final effect not your toolset.
