@@ -53,7 +53,7 @@ dolor sit amet, consectetur adipiscing elit. Aenean aliquam massa a est porta
  pretium tortor. Mauris vitae varius sem. Praesent faucibus nec felis et dictum.
  Vestibulum lorem velit, laoreet nec vestibulum in, varius nec enim.
 
-## Australia, Oceania and NZ
+## Oceania, Australia and New Zealand
 Etiam sapien dolor, mattis vel feugiat nec, egestas eget risus. Lorem ipsum
 dolor sit amet, consectetur adipiscing elit. Aenean aliquam massa a est porta
 vehicula. Cras eu gravida massa. Integer non sem ac mi ultrices posuere a
