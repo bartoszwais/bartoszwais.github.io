@@ -35,6 +35,7 @@ Each Regular Lighter&reg; has to meet certain criteria to be displayed on regula
 - During every other year we expect to receive from you 20 lighters with same/similar artwork.
 - Please send us lighters in pack of 20, we do not accept less or more.
 - You are responsible for storing data about each lighter, we may ask you for annual report about your production.
+- Internet orders processed by Regular Lighter® website are to be sent in 8 packs to individual clients or businesses.
 
 ## IMPORTANT NOTE
 Please keep in mind this is early version of our policy, if having questions, before starting investments, please write to us on [regularlighter@yahoo.com](mailto:regularlighter@yahoo.com) address.
