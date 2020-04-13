@@ -8,6 +8,7 @@ permalink: "/can-a-bic/"
 - Organic means natural, main ingredients are sunny weather, humidity, water and soil.
 - Organic weed can be used for pain relief.
 - Because of current international laws, we advise labeling goods as medical or humanitarian aid.
+- Based on our outdoor growing experience, it is good to use pots for soil, pots with removable bottoms, and keep them above bending line.
 
 ## Canary Islands
 Aliquam vestibulum purus enim. Sed rhoncus interdum erat id consequat. Nulla
