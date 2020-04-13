@@ -5,11 +5,9 @@ permalink: "/can-a-bic/"
 ---
 
 ## What is organic
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac augue libero.
-Fusce ac tempor dolor. Ut est dui, gravida a consequat aliquet, fermentum
-sodales risus. Suspendisse eu arcu id mi ornare facilisis non id nisl. Maecenas
-nec congue arcu, non semper neque. Proin mollis nisl diam, eu ultrices diam
-facilisis et. Integer fringilla lorem quis semper venenatis.
+- Organic means natural, main ingridients are sunny weather, humidity, water and soil.
+- Organic weed can be used for pain relief.
+- Because of current international laws, we advise labeling goods as medical or humanitarian aid.
 
 ## Canary Islands
 Aliquam vestibulum purus enim. Sed rhoncus interdum erat id consequat. Nulla
