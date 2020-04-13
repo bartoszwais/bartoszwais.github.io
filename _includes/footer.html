@@ -1,8 +1,10 @@
 <footer>
-    <p>
-        <a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS Subscribe</a>
-        <a class="email" href="mailto:{{ site.paypal_email}}"> @{{ site.name }}</a> &copy; 2012&ndash;{{ site.time | date: '%Y' }}</p>
-        <a href="{{ "https://fb.com/regularlighter"}}">facebook</a>
+    <ul>
+      <li><a class="email" href="mailto:{{ site.paypal_email}}">e-mail us</a></li>
+      <li><a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS Subscribe</a></li>
+      <li><a id="facebook" href="https://fb.com/regularlighter">RL fb page</a></li>
+      <li><a id="twitter" href="https://twitter.com/regularlighter">RL twitter feed</a></li>
+    </ul>
 </footer>
 <script>
 SimpleJekyllSearch({

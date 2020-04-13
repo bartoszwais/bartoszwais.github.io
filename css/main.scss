@@ -246,9 +246,13 @@ nav ul a, .info h1 a {
             margin-bottom:1em;
         }
     }
-
 }
-.email { 
-    text-decoration:none;
+footer {
+    a {
+        padding: 0.7em;
+        text-transform: uppercase;
+        font-family: arial;
+        font-weight: bold;
+    }
 }
 
