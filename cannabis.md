@@ -5,7 +5,7 @@ permalink: "/can-a-bic/"
 ---
 
 ## What is organic
-- Organic means natural, main ingridients are sunny weather, humidity, water and soil.
+- Organic means natural, main ingredients are sunny weather, humidity, water and soil.
 - Organic weed can be used for pain relief.
 - Because of current international laws, we advise labeling goods as medical or humanitarian aid.
 
