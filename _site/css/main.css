@@ -185,6 +185,9 @@ nav ul a, .info h1 a {
   text-align: left; }
   .page #content article {
     font-size: 1.3em; }
+    .page #content article a {
+      border-bottom: 2px solid;
+      text-decoration: none; }
   .page #content h1, .page #content footer {
     text-align: center; }
   .page #content h1, .page #content h2 {

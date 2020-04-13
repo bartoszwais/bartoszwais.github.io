@@ -223,6 +223,10 @@ nav ul a, .info h1 a {
     text-align: left;
     article {
         font-size: 1.3em;
+        a {
+           border-bottom: 2px solid;
+            text-decoration: none;
+    }
     }
     h1, footer { text-align: center;}
     
