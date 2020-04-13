@@ -226,8 +226,17 @@ nav ul a, .info h1 a {
         a {
            border-bottom: 2px solid;
             text-decoration: none;
+        }
+        p,ul {
+            margin-bottom:1em;        
+        }
+        ul {
+           list-style-type: decimal;
+        li {
+            margin-bottom:1em;
+        }
     }
-    }
+}
     h1, footer { text-align: center;}
     
     h1, h2 { 
@@ -237,15 +246,7 @@ nav ul a, .info h1 a {
 
     }
 
-    p,ul {
-        margin-bottom:1em;        
-    }
-    ul {
-        list-style-type: decimal;
-        li {
-            margin-bottom:1em;
-        }
-    }
+
 }
 footer {
     a {
