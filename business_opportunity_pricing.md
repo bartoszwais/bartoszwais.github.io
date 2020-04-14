@@ -9,7 +9,7 @@ We set pricing strategy, minimum official selling price is 20 USD/EURO/British P
 
 Below is calculation excerpt for 10001 pieces, with initial cost 100 000 USD/EURO/GBP.
 
-Due to ROMAN numbers limitation, we suggest custom coding, e.g for 9999 case it should be 99MCMXCI.
+Due to ROMAN numbers limitation, we suggest custom coding, e.g for 9999 case it should be 9MCMXCI.
 For uncertain situations, number should be vertically aligned, not horizontally.
 
 1 I: 100000.0
