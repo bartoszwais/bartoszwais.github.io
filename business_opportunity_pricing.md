@@ -8411,6 +8411,8 @@ For uncertain situations, number should be vertically aligned, not horizontally.
 4199 MMMMCXCIX: 23.815194093831863
  
 4200 MMMMCC: 23.80952380952381
+
+5000 MMMMM: 20.0
  
 9999 MMMMMMMMMCMXCIX: 10.001000100010002
  
