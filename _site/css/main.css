@@ -207,8 +207,8 @@ footer a {
   font-family: arial;
   font-weight: bold; }
 
-.page p {
+.page.suggested-order p {
   text-align: center; }
-  .page p span {
+  .page.suggested-order p span {
     padding: 0 1em;
     font-size: 0.5em; }
