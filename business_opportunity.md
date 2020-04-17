@@ -1,7 +1,7 @@
 ---
 title: Opportunity for your business
 layout: page
-permalink: "/business-oportunity/"
+permalink: "/business-opportunity/"
 ---
 
 ## Business opportunity
