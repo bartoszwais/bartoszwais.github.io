@@ -206,3 +206,8 @@ footer a {
   text-transform: uppercase;
   font-family: arial;
   font-weight: bold; }
+
+.page p {
+  text-align: center; }
+  .page p span {
+    padding: 0 1em; }
