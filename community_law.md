@@ -4,7 +4,7 @@ layout: page
 permalink: "/community/law"
 ---
 
-1. Each new maker has to be accepted by existing ones, creator of Regular Lighter&reg; product has exclusive right for final decision.
+1. Each new maker needs to be accepted by existing ones, creator of Regular Lighter&reg; product has exclusive right for final decision.
 
 
 ## IMPORTANT NOTE
