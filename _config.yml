@@ -1,7 +1,7 @@
 title: Regular Lighter&reg; +48 511 137 877
 #email: not_yet@regularlighter.com
 description: |
-  regularlighter.com variety of lighters, tobacco and cigs. 
+  regularlighter.com variety of lighters, tobacco and ciggies. 
 logo: /assets/images/logo.png
 baseurl: ''
 url: 'https://regularlighter.com'
@@ -9,7 +9,7 @@ paginate: 99
 paginate_path: '/collectionN.:num/'
 name: Regular Lighter&reg;
 bio: |
-  regularlighter.com variety of lighters, tobacco and cigs. 
+  regularlighter.com variety of lighters, tobacco and ciggies. 
 author_image: /assets/images/author.jpg
 twitter_username: regularlighter
 github_username: regularlighter
