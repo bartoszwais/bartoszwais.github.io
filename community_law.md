@@ -1,7 +1,7 @@
 ---
-title: Community regulations
+title: Community law
 layout: page
-permalink: "/community/regulations"
+permalink: "/community/law"
 ---
 
 1. Each new maker has to be accepted by existing ones, creator of Regular Lighter&reg; product has exclusive right for final decision.
