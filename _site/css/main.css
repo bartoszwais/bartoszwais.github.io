@@ -190,9 +190,9 @@ nav ul a, .info h1 a {
       text-decoration: none; }
     .page #content article p, .page #content article ul {
       margin-bottom: 1em; }
-    .page #content article ul {
+    .page #content article ul, .page #content article ol {
       list-style-type: decimal; }
-      .page #content article ul li {
+      .page #content article ul li, .page #content article ol li {
         margin-bottom: 1em; }
   .page #content h1, .page #content footer {
     text-align: center; }
