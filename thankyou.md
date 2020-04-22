@@ -2,6 +2,7 @@
 layout: page
 title: Thank You 
 exclude: true
+permalink: "/thanks"
 
 ---
 We are processing your order. 
