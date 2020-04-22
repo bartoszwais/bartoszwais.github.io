@@ -2,6 +2,7 @@
     please don't buy development demo only
 </div>
 <header>
+  {% include paypal_donate.html %}
     <a href="{{ site.url }}#end" id="start">
         <img src="{{ site.baseurl }}{{ site.logo }}" width="48" height="48"  alt="{{ site.title }}" />
     </a>
@@ -23,6 +24,5 @@
     <div id="search-container">
       <input type="text" id="search-input" placeholder="Search for products">
     </div>
-{% include paypal_donate.html %}
 </header>
 
