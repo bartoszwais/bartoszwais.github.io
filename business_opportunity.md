@@ -34,7 +34,7 @@ Each Regular Lighter&reg; has to meet certain criteria to be displayed on regula
 
 
 ## Your responsibilities
-- You are responsible for storing your lighters.
+- You are responsible for [storing your lighters](order).
 - During first year: engraved/marked lighter with No. CDXX has to be sent to us in pack with 19 other marked lighters with same/similar artwork and unique numbers. 
 - During every other year we expect to receive from you 20 lighters with same/similar artwork.
 - Please send us lighters in pack of 20, we do not accept less or more.
