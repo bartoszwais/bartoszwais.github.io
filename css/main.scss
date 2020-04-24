@@ -179,7 +179,7 @@ nav ul a, .info h1 a {
 }
 @media screen and (max-width: 600px) {
     body {
-        width:300px;
+        min-width:300px;
     }
     article .info {
         margin-bottom: 2em;
