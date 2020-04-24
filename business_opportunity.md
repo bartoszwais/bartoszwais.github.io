@@ -17,7 +17,7 @@ Each Regular Lighter&reg; has to meet certain criteria to be displayed on regula
 - Has to have artwork engraved by hand or laser, CO2, or fibre, or any other tool, we care about final effect not your toolset.
 - It is your responsibility to provide us artwork name.
 - Paint, colours can be used.
-- Has to have unique number, ask your laser provider for ROMAN numbers automatic counter.
+- Has to have unique number, ask your laser provider for ROMAN numbers automatic counter. Due to ROMAN numbers limitation, we suggest custom coding, e.g for 9999 case it should be 9MCMXCI. For uncertain situations, number should be vertically aligned, not horizontally.
 - Unique number can be on the same side as artwork or on the other side, number should be readable without strain by average user.
 - Our default lighter is classic BIC&reg;.
 - Main subject of artworks are cities, locations. Some other subjects may be accepted into our catalog and distribution points, processing period may be longer and refused.
