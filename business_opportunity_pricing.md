@@ -1,7 +1,7 @@
 ---
 title: Pricing strategy
 layout: page
-permalink: "/business-opportunity/pricing"
+permalink: "/business/pricing"
 ---
 
 ## Pricing strategy [draft]
