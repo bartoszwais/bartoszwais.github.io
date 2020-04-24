@@ -36,6 +36,9 @@ table {
   border-spacing: 0; }
 
 /* end of reset css */
+body {
+  padding: 0 2em; }
+
 #end, #start {
   outline: none; }
 
@@ -152,7 +155,7 @@ nav ul a, .info h1 a {
 
   article .info {
     margin-bottom: 2em;
-    padding: 0; }
+    padding: 0 0 0 1em; }
     article .info h1 {
       text-align: center;
       margin: 1em 0; }
