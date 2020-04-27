@@ -6,9 +6,22 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/atom.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 26 Apr 2020 22:43:43 +0200</pubDate>
-    <lastBuildDate>Sun, 26 Apr 2020 22:43:43 +0200</lastBuildDate>
+    <pubDate>Mon, 27 Apr 2020 05:06:14 +0200</pubDate>
+    <lastBuildDate>Mon, 27 Apr 2020 05:06:14 +0200</lastBuildDate>
     <generator>Regular Lighter 0.0.1</generator>
+    
+      <item>
+        <title>Santa Cruz</title>
+        <description>
+</description>
+        <pubDate>Mon, 27 Apr 2020 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/example/santa-cruz/</link>
+        <guid isPermaLink="true">http://localhost:4000/example/santa-cruz/</guid>
+        
+        
+        <category>example</category>
+        
+      </item>
     
       <item>
         <title>Bats GBP</title>
@@ -121,19 +134,6 @@
         <pubDate>Sat, 12 Oct 2019 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/pinterest/mary-jane-clipper/</link>
         <guid isPermaLink="true">http://localhost:4000/pinterest/mary-jane-clipper/</guid>
-        
-        
-        <category>pinterest</category>
-        
-      </item>
-    
-      <item>
-        <title>Airborne Zippo</title>
-        <description>
-</description>
-        <pubDate>Sat, 12 Oct 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/pinterest/airborne-zippo/</link>
-        <guid isPermaLink="true">http://localhost:4000/pinterest/airborne-zippo/</guid>
         
         
         <category>pinterest</category>

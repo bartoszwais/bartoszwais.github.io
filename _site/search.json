@@ -2,6 +2,18 @@
   
     {
     
+      "title"    : "Santa Cruz",
+      "url"      : "/example/santa-cruz/",
+      "maker"    : "example",
+      "color"    : "snow",
+      "category" : "example",
+      "tags"     : "",
+      "date"     : "2020-04-27 00:00:00 +0200"
+      
+    } ,
+  
+    {
+    
       "title"    : "Bats GBP",
       "url"      : "/shorttorch/bats-GBP/",
       "maker"    : "short torch",
