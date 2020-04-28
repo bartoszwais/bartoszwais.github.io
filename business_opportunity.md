@@ -2,6 +2,7 @@
 title: Opportunity for your business
 layout: page
 permalink: "/business/"
+image: logo.png
 ---
 
 ## Business opportunity

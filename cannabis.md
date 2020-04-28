@@ -2,6 +2,7 @@
 title: Cannabis CONTACTS LIST OUTDOOR ORGANIC WEED
 layout: page
 permalink: "/can-a-bic/"
+image: logo.png
 ---
 
 ## What is organic
