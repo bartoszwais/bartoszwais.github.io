@@ -242,3 +242,9 @@ footer a {
     line-height: 1em; }
   .page.suggested-signage #content article .suggested-signage.uppercase h1 {
     text-transform: uppercase; }
+  .page.suggested-signage #content article .suggested-signage.bigger.lowercase h1 {
+    font-size: 2em;
+    text-transform: lowercase;
+    line-height: 1em; }
+  .page.suggested-signage #content article .suggested-signage.lowercase h1 {
+    text-transform: lowercase; }

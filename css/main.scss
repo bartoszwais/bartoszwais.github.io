@@ -302,6 +302,14 @@ footer {
         .suggested-signage.uppercase h1{
             text-transform: uppercase;
         }
+        .suggested-signage.bigger.lowercase h1{
+            font-size: 2em;
+            text-transform: lowercase;
+            line-height: 1em;
+        }
+        .suggested-signage.lowercase h1{
+            text-transform: lowercase;
+        }
     }
 }
 
