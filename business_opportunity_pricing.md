@@ -2,6 +2,7 @@
 title: Pricing strategy
 layout: page
 permalink: "/business/pricing"
+image: logo.png
 ---
 
 ## Pricing strategy [draft]
