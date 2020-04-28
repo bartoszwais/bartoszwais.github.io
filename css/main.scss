@@ -275,4 +275,24 @@ footer {
      }
 
 }
+.page.suggested-signage {
+    #content article {
+        text-align: center;
+        width: 100%;
+        .suggested-signage {
+            border-top: 2px solid black;
+            border-bottom: 2px solid black;
+            padding: 0;
+            margin: 0 0 1em 0;
+
+        }
+        .suggested-signage h1 {
+                        font-size: 1em;
+            line-height: 2em;
+        }
+        .suggested-signage.bigger h1{
+            font-size: 2em;
+        }
+    }
+}
 
