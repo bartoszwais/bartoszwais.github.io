@@ -240,3 +240,5 @@ footer a {
     font-size: 2em;
     text-transform: uppercase;
     line-height: 1em; }
+  .page.suggested-signage #content article .suggested-signage.uppercase h1 {
+    text-transform: uppercase; }
