@@ -12,7 +12,7 @@
       <a href="{{ site.baseurl }}#start" id="end">
           <img src="{{ site.baseurl }}{{ site.logo }}" width="48" height="48" />
       </a>
-      <p>&copy; 2012&ndash;{{ site.time | date: '%Y' }}</p>
+      <p>&copy; 2012&ndash;2020 {{ site.time | date: '%m%y%d' | replace: '042029', '42029' }}</p>
       {% include analytics.html %}
   </body>
 </html>
