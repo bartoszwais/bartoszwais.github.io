@@ -102,6 +102,7 @@ header nav {
             height: 7em;
             background: orange;
             border-bottom: 5px solid black;
+            line-height: 1em;
             &:hover {
                 color: white;
                 background-color: orangered;
@@ -230,15 +231,6 @@ nav ul a, .info h1 a {
             padding: 0.4em 1em;
         }
     }
-    /*article.shorttorch {
-        a img {
-            width:300px;
-        }
-        form {
-            margin-top: 0;
-        }
-    }
-    */
 }
 #content {
     margin-top: 20px;

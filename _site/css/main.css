@@ -92,7 +92,8 @@ header nav li a {
   padding: 1em;
   height: 7em;
   background: orange;
-  border-bottom: 5px solid black; }
+  border-bottom: 5px solid black;
+  line-height: 1em; }
   header nav li a:hover {
     color: white;
     background-color: orangered; }
@@ -188,17 +189,7 @@ nav ul a, .info h1 a {
       float: right; }
 
   #search-container input {
-    padding: 0.4em 1em; }
-
-  /*article.shorttorch {
-      a img {
-          width:300px;
-      }
-      form {
-          margin-top: 0;
-      }
-  }
-  */ }
+    padding: 0.4em 1em; } }
 #content {
   margin-top: 20px; }
 
