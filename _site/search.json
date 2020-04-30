@@ -2,6 +2,18 @@
   
     {
     
+      "title"    : "RL",
+      "url"      : "/example/rl/",
+      "maker"    : "example",
+      "color"    : "orange",
+      "category" : "example",
+      "tags"     : "",
+      "date"     : "2020-04-30 00:00:00 +0200"
+      
+    } ,
+  
+    {
+    
       "title"    : "Santa Cruz",
       "url"      : "/example/santa-cruz/",
       "maker"    : "example",

@@ -4,13 +4,22 @@
 	<title>Regular Lighter</title>
 	<link href="https://regularlighter.com/atom.xml" rel="self"/>
 	<link href="https://regularlighter.com"/>
-	<updated>2020-04-30T21:35:18+02:00</updated>
+	<updated>2020-04-30T21:47:45+02:00</updated>
 	<id>https://regularlighter.com</id>
 	<author>
 		<name>Bartosz Wais</name>
 		<email>bartoszwais@googlemail.com</email>
 	</author>
 
+	
+		<entry>
+			<title>RL</title>
+			<link href="https://regularlighter.com/example/rl/"/>
+			<updated>2020-04-30T00:00:00+02:00</updated>
+			<id>http://regularlighter.com/example/rl</id>
+			<content type="html">
+</content>
+		</entry>
 	
 		<entry>
 			<title>Santa Cruz</title>
