@@ -88,6 +88,20 @@ body {
         margin-top:1em;
     }
 }
+header nav {
+    margin-top: 2em;
+    li {
+        a {
+            width: 7em;
+            float: left;
+            word-break: break-word;
+            margin: 1em 1em;
+            padding: 1em;
+            height: 7em;
+            border: 1px solid;
+        }
+    }
+}
 header section, nav.pagination, footer {
     clear: both;
     padding: 1em 0;
@@ -149,7 +163,6 @@ nav.pagination {
 
 nav ul a, .info h1 a {
     color: #330000;
-    line-height: 2.3em;
     border-bottom: 2px solid;
     text-decoration: none;
     font-weight: bold;
@@ -354,5 +367,8 @@ form#help-me-out {
             font-family:sans-serif;
         }
     }
+}
+#PayPalDonate {
+    margin-bottom: 2em;
 }
 
