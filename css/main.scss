@@ -375,4 +375,17 @@ form#help-me-out {
 #PayPalDonate {
     margin-bottom: 2em;
 }
+.back_to_top {
+    float: right;
+    border: none;
+    border-radius: 1em;
+    color: white;
+    background-color: #300;
+    padding: 0 1em;
+    font-weight: bold;
+    &:hover {
+        background-color: #300;
+        color: white;
+    }
+}
 
