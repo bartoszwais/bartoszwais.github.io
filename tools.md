@@ -6,7 +6,7 @@ image: logo.png
 ---
 
 ## Ruby 
-- All code used to generate this website is available at [bartoszwais.github.io](https://github.com/bartoszwais/bartoszwais.github.io). For business logic scripts check its Tools section.
+- All code used to generate this website is available at [bartoszwais.github.io](https://github.com/bartoszwais/bartoszwais.github.io). For business logic scripts check its tools section.
 - Static part of website is built using Jekyll, [jekyllrb.com](https://jekyllrb.com/).
 
 ## JavaScript
