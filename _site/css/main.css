@@ -81,16 +81,18 @@ body {
   body.post #content {
     margin-top: 1em; }
 
-header nav {
-  margin-top: 2em; }
-  header nav li a {
-    width: 7em;
-    float: left;
-    word-break: break-word;
-    margin: 1em 1em;
-    padding: 1em;
-    height: 7em;
-    border: 1px solid; }
+header nav li a {
+  width: 7em;
+  float: left;
+  word-break: break-word;
+  margin: 1em 1em;
+  padding: 1em;
+  height: 7em;
+  background: orange;
+  border-bottom: 5px solid black; }
+  header nav li a:hover {
+    color: white;
+    background-color: orangered; }
 
 header section, nav.pagination, footer {
   clear: both;

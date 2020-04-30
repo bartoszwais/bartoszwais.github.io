@@ -89,7 +89,6 @@ body {
     }
 }
 header nav {
-    margin-top: 2em;
     li {
         a {
             width: 7em;
@@ -98,7 +97,12 @@ header nav {
             margin: 1em 1em;
             padding: 1em;
             height: 7em;
-            border: 1px solid;
+            background: orange;
+            border-bottom: 5px solid black;
+            &:hover {
+                color: white;
+                background-color: orangered;
+            }
         }
     }
 }
