@@ -248,3 +248,40 @@ footer a {
     line-height: 1.1em; }
   .page.suggested-signage #content article .suggested-signage.lowercase h1 {
     text-transform: lowercase; }
+
+form#help-me-out {
+  background-color: #efefefe6;
+  padding: 1em 1em;
+  border-radius: 7px;
+  border: 1px solid #ccc; }
+  form#help-me-out label {
+    float: left;
+    margin-right: 10px;
+    line-height: 34px;
+    width: 100%;
+    text-align: left;
+    font-weight: bold;
+    font-family: sans-serif; }
+  form#help-me-out input, form#help-me-out textarea {
+    display: block;
+    width: 100%;
+    line-height: 28px;
+    margin-bottom: 12px;
+    font-size: 22px;
+    padding: 4px;
+    box-sizing: border-box;
+    border: 1px solid #ccc; }
+  form#help-me-out textarea {
+    margin-top: 12px;
+    height: 120px; }
+  form#help-me-out input[type="submit"] {
+    border: 3px solid crimson;
+    color: crimson;
+    font-weight: bold; }
+  form#help-me-out .uploadcare--widget {
+    text-align: center;
+    display: block;
+    margin: 0 auto; }
+    form#help-me-out .uploadcare--widget button {
+      background-color: crimson;
+      font-family: sans-serif; }
