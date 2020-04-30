@@ -48,6 +48,9 @@ body {
 #end, #start {
   outline: none; }
 
+#start img {
+  padding-top: 1em; }
+
 a {
   color: #330000; }
   a:hover {
