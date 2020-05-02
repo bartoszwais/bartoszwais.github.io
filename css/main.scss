@@ -370,7 +370,7 @@ form#help-me-out {
 #PayPalDonate {
     margin-bottom: 2em;
 }
-.back_to_top {
+.back_to_top, article .info h1 a.back_to_top {
     float: right;
     border: none;
     border-radius: 1em;
@@ -378,6 +378,9 @@ form#help-me-out {
     background-color: #300;
     padding: 0 1em;
     font-weight: bold;
+    border-bottom: 2px solid;
+    text-decoration: none;
+    font-family: sans-serif;
     &:hover {
         background-color: #300;
         color: white;

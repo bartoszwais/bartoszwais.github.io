@@ -11,7 +11,7 @@ image: logo.png
             <img src="/assets/images/{{ post.maker | replace: " ", "_" }}/{{ post.image }}" alt="{{site.title}} {{post.title}}" />
         </a>
     <section class='info'>
-        <h1><a href="{{ site.baseurl }}{{ post.url | append: "#content" }}">{{ post.title }}</a></h1>
+        <h1><a href="{{ site.baseurl }}{{ post.url | append: "#content" }}">{{ post.title }}</a><a href="#start" class='back_to_top'>&uarr;</a></h1>
         <ul>
             <li><strong>maker:</strong> {{ post.maker }}</li>
             <li><strong>color:</strong> {{ post.color }}</li>
