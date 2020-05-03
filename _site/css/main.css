@@ -309,3 +309,7 @@ form#help-me-out {
   .back_to_top:hover, article .info h1 a.back_to_top:hover {
     background-color: #300;
     color: white; }
+
+body.page2020 {
+  width: 100%;
+  padding: 10em; }
