@@ -28,14 +28,14 @@ Each Regular Lighter&reg; has to meet certain criteria to be displayed on regula
 
 ## About our service
 - We do not accept any money.
-- We set [pricing strategy](pricing), minimum official selling price is 20 USD/EURO/British Pound, your 1st Regular Lighter&reg; produced price should be set to total price of your equipment and time spent, 2nd should be half of 1st lighter price, 3rd should be 1/3rd, and so on.
+- We set [pricing strategy](pricing#content), minimum official selling price is 20 USD/EURO/British Pound, your 1st Regular Lighter&reg; produced price should be set to total price of your equipment and time spent, 2nd should be half of 1st lighter price, 3rd should be 1/3rd, and so on.
 - Lighter will be presented online on regularlighter.com website and other social media sites.
 - We will help you in finding distribution points, cafes, hotels, night clubs, events, contests, etc, and official stores.
 - All orders will be processed by PayPal.
 
 
 ## Your responsibilities
-- You are responsible for [storing your lighters](order).
+- You are responsible for [storing your lighters](order#content).
 - During first year: engraved/marked lighter with No. CDXX has to be sent to us in pack with 19 other marked lighters with same/similar artwork and unique numbers. 
 - During every other year we expect to receive from you 20 continued~continuous made lighters with same/similar artwork. If we experience full stock issue, we may ask for 20x20 USD/EURO/GBP yearly fee instead. What is same vs similar difference? each laser engraving is not very same.
 - Please send us lighters in pack of 20, we do not accept less or more.
