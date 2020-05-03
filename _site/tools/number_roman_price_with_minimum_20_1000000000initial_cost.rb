@@ -4,5 +4,5 @@ require 'roman-numerals'
 	if price < 20.00
 		price = 20.00
 	end
-	puts "#{x} #{RomanNumerals.to_roman(x)} : #{price}"
+	puts "#{x} #{RomanNumerals.to_roman(x)} : #{price}\n"
 }
