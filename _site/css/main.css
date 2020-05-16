@@ -293,7 +293,8 @@ form#help-me-out {
       font-family: sans-serif; }
 
 #PayPalDonate {
-  margin-bottom: 2em; }
+  margin-bottom: 2em;
+  margin-top: 2em; }
 
 .back_to_top, article .info h1 a.back_to_top {
   float: right;
@@ -313,3 +314,15 @@ form#help-me-out {
 body.page2020 {
   width: 100%;
   padding: 10em; }
+
+.applepaycom {
+  text-decoration: none;
+  margin-bottom: 2em;
+  font-size: 1.8em;
+  font-family: sans-serif;
+  font-weight: bold; }
+
+.applepaycom strong {
+  font-weight: normal;
+  display: block;
+  font-size: 0.5em; }

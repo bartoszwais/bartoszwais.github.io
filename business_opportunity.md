@@ -31,7 +31,7 @@ Each Regular Lighter&reg; has to meet certain criteria to be displayed on regula
 - We set [pricing strategy](pricing#content), minimum official selling price is 20 USD/EURO/British Pound, your 1st Regular Lighter&reg; produced price should be set to total price of your equipment and time spent, 2nd should be half of 1st lighter price, 3rd should be 1/3rd, and so on.
 - Lighter will be presented online on regularlighter.com website and other social media sites.
 - We will help you in finding distribution points, cafes, hotels, night clubs, events, contests, etc, and official stores.
-- All orders will be processed by PayPal or [Apple Pay](https://www.apple.com/apple-pay/)
+- All orders will be processed by PayPal or [Apple Pay](https://www.apple.com/apple-pay/)
 
 
 ## Your responsibilities
