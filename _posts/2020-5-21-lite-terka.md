@@ -9,7 +9,12 @@ image: terkaisland.jpg
 price: 3 
 currency: USD
 ---
-## TERKA ISLAND REGULAR LIGHTER LITE 50pack
+## [TERKA ISLAND](http://terkaisland.com/) 
+- 49.3021° N 22.4327° E
+- Place from where water goes to +3 seas, Adriatic, Baltic, and Black sea.
+- Biggest island in Poland.
+
+## TERKA ISLAND REGULAR LIGHTER LITE 50pack 21-5-20
 TERKAISLAND493021N224327EREGULARLIGHTERLITE100MI®
 
 TERKAISLAND493021N224327EREGULARLIGHTERLITE100MII®

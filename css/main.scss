@@ -90,6 +90,14 @@ body {
     &.post #content {
         margin-top:1em;
     }
+    &.post #content article {
+        padding-bottom:2em;
+    }
+    &.post #content h2 {
+        padding-top:2em;
+        padding-bottom:1em;
+    }
+
 }
 header nav {
     li {

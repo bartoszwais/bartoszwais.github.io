@@ -83,6 +83,11 @@ body {
     border: 1px solid #ccc; }
   body.post #content {
     margin-top: 1em; }
+  body.post #content article {
+    padding-bottom: 2em; }
+  body.post #content h2 {
+    padding-top: 2em;
+    padding-bottom: 1em; }
 
 header nav li a {
   width: 7em;
