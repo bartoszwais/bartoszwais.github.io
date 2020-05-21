@@ -8,7 +8,7 @@ image: logo.png
 {% for post in paginator.posts %}
 <article class='{{ post.maker | replace: " ","" }} {{ post.title | replace: " ","" }}'>
         <a href="{{ site.baseurl }}{{ post.url | append: "#content" }}">
-            <img src="/assets/images/{{ post.maker | replace: " ", "_" }}/{{ post.image }}" alt="{{site.title}} {{post.title}}" />
+            <img src="/assets/images/{{ post.maker | downcase | replace: " ", "_" }}/{{ post.image }}" alt="{{site.title}} {{post.title}}" />
         </a>
     <section class='info'>
         <h1><a href="{{ site.baseurl }}{{ post.url | append: "#content" }}">{{ post.title }}</a><a href="#start" class='back_to_top'>&uarr;</a></h1>

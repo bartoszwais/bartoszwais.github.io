@@ -3,7 +3,7 @@ layout: default
 ---
 <article class='{{ page.maker | replace: " ","" }} {{ page.title | replace: " ","" }}'>
         <a href="{{ site.baseurl }}{{ page.url | append: "#content" }}">
-            <img src="/assets/images/{{ page.maker | replace: " ", "_" }}/{{ page.image }}" width='300' alt="{{ site.title }} {{ page.title }}" />
+            <img src="/assets/images/{{ page.maker | downcase | replace: " ", "_" }}/{{ page.image }}" width='300' alt="{{ site.title }} {{ page.title }}" />
         </a>
     <section class='info'>
         <h1><a href="{{ site.baseurl }}{{ page.url | append: "#content" }}">{{ page.title }}</a><a href="#start" class='back_to_top'>&uarr;</a></h1>
