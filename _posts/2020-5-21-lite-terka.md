@@ -8,6 +8,7 @@ permalink: /lite/terka
 image: terkaisland.jpg
 price: 3 
 currency: USD
+shop: on
 ---
 ## [TERKA ISLAND](http://terkaisland.com/) 
 - 49.3021° N 22.4327° E
