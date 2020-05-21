@@ -2,6 +2,18 @@
   
     {
     
+      "title"    : "LITE TERKA ISLAND",
+      "url"      : "/lite/terka",
+      "maker"    : "LITE",
+      "color"    : "SEMI TRANSPARENT WHITE",
+      "category" : "LITE",
+      "tags"     : "",
+      "date"     : "2020-05-21 00:00:00 +0200"
+      
+    } ,
+  
+    {
+    
       "title"    : "RL",
       "url"      : "/example/rl/",
       "maker"    : "example",

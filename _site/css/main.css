@@ -123,7 +123,7 @@ article {
     article .info p {
       clear: both;
       display: block; }
-  article.pinterest img, article.etsy img, article.ebay img, article.shorttorch img, article.random img, article.example img {
+  article.pinterest img, article.etsy img, article.ebay img, article.shorttorch img, article.random img, article.example img, article.LITE img {
     width: 300px; }
 
 nav.pagination h3 {
