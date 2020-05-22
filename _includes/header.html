@@ -7,7 +7,11 @@
     {% include paypal_donate.html %}
     <a href="{{ site.url }}#end" id="start">
         <img src="{{ site.baseurl }}{{ site.logo }}" width="48" height="48"  alt="{{ site.title }}" />
-    </a>
+      </a>
+      <p>recently added:
+        {% for post in site.posts limit:1 %}
+          <a href="{{ post.url }}/#content">{{ post.title }}</a>
+        {% endfor %}</p>
   <nav>
       <ul>
           {% for my_page in site.pages %}
