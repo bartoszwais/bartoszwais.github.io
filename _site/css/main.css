@@ -41,6 +41,20 @@ dt {
 dd {
   padding-bottom: 1em; }
 
+#info.lime {
+  border: 2px solid lime;
+  color: lime;
+  margin: 2em;
+  padding: 0.5em;
+  font-family: Arial; }
+
+#info {
+  border: 2px solid red;
+  color: red;
+  margin: 2em;
+  padding: 0.5em;
+  font-family: Arial; }
+
 /* end of reset css */
 body {
   padding: 0 2em; }
