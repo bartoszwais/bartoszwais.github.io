@@ -106,6 +106,9 @@ body {
   body.post #content h2 {
     padding-top: 2em;
     padding-bottom: 1em; }
+  body.post #content h3 {
+    font-weight: bold;
+    margin-top: 1em; }
 
 header nav li a {
   width: 7em;

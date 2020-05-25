@@ -115,6 +115,10 @@ body {
         padding-top:2em;
         padding-bottom:1em;
     }
+    &.post #content h3 {
+        font-weight: bold;
+        margin-top: 1em;
+    }
 
 }
 header nav {
