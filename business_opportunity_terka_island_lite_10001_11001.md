@@ -1,7 +1,7 @@
 ---
 title: TERKA ISLAND LITE 100001 to 110001 
 layout: page
-permalink: "/business/lite/100001-110001"
+permalink: "/lite/terka/100001-110001"
 image: logo.png
 exclude: true
 ---
