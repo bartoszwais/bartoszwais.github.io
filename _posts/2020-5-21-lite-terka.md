@@ -16,8 +16,19 @@ shop: on
 - Place from where water goes to +3 seas, Adriatic, Baltic, and Black sea.
 - Biggest island in Poland.
 
+## RE G U L AR L I G H T ER® TERKA ISLAND LITE 100 001 to 200 000 
+TERKAISLAND493021N224327EREGULARLIGHTERLITE100MI®
+
+TERKAISLAND493021N224327EREGULARLIGHTERLITE190MCMXCVIII®
+
+TERKAISLAND493021N224327EREGULARLIGHTERLITE190MCMXCIX®
+
+TERKAISLAND493021N224327EREGULARLIGHTERLITE191M®
+
+[For more details please check our separate page](/lite/terka/100001-200000#content).
+
 ## RE G U L AR L I G H T ER® TERKA ISLAND LITE 100001 to 110001 
-### Specifictions
+### Specifications
 - unique IDs,
 - each under 1 USD/EURO/GBP production value.
 
