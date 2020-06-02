@@ -355,10 +355,21 @@ body.page2020 {
   font-size: 0.5em; }
 
 .bic_classic {
-  width: 6.2cm;
+  width: 5.2cm;
   height: 2.2cm;
   margin-bottom: 2em;
   overflow: hidden; }
+
+.bic_classic.black {
+  width: 9.2cm;
+  height: 4.2cm;
+  background-image: url(/assets/images/bic_black.png);
+  background-repeat: no-repeat;
+  color: white;
+  padding: 0.5em 0 0.5em 3em; }
+
+.bic_classic.black img {
+  height: 78%; }
 
 .bic_classic img {
   height: 100%;
@@ -368,25 +379,33 @@ body.page2020 {
 #content .bic_classic h1 {
   float: left;
   font-weight: bolder;
-  font-size: 0.42vw;
-  padding-top: 0.8em;
+  font-size: 0.39vw;
+  padding-top: 0.86em;
   margin-bottom: 0; }
 
+#content .bic_classic.black h1 {
+  font-size: 0.74vw;
+  text-align: left; }
+
 .bic_classic h1 strong {
-  display: block; }
+  display: block;
+  font-size: 1.1em; }
 
 .bic_classic h1 strong + strong {
-  font-size: 1.146em; }
+  font-size: 1.1em; }
 
 #content .bic_classic h2 {
   font-weight: bold;
   float: left;
-  font-size: 0.42vw;
+  font-size: 0.38vw;
   padding-top: 0;
   margin-bottom: 0; }
 
 .bic_classic h2 span {
   display: block; }
+
+.bic_classic.black h2 span {
+  display: inline; }
 
 .bic_classic h2 span + span {
   font-size: 1.146em; }
@@ -394,13 +413,36 @@ body.page2020 {
 .bic_classic h3 {
   font-weight: lighter;
   float: left;
-  font-size: 0.42vw; }
+  font-size: 0.39vw; }
 
 .bic_classic h3 span {
   display: block; }
+
+.bic_classic.black h3 span {
+  display: inline; }
 
 .bic_classic h3 span + span {
   font-size: 1.188em; }
 
 .bic_classic h4 {
-  font-size: 1.4vw; }
+  font-size: 1.0vw; }
+
+.bic_classic.black h4 {
+  width: 20vw; }
+
+.bic_classic.co2 {
+  position: relative;
+  display: none; }
+
+.bic_classic.co2 img {
+  transform: rotate(-90deg);
+  margin-left: 0; }
+
+#content .bic_classic.co2 h1, #content .bic_classic.co2 h2, #content .bic_classic.co2 h3 {
+  display: none; }
+
+.bic_classic.co2 h4 {
+  height: 100%;
+  position: absolute;
+  top: 29px;
+  left: 75px; }
