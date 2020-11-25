@@ -11,33 +11,21 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
   <link rel="stylesheet" type="text/css" href="/css/main.css">
-  <script
-  src="https://code.jquery.com/jquery-3.2.1.js"
-  integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE="
-  crossorigin="anonymous"></script>
-  <script src="/js/init.js" type="text/javascript"></script>
-  
   <meta property="og:url" content="https://regularlighter.com{{ page.url }}" />
   <meta property="og:type" content="website" />
   <meta property="og:title" content="Regular Lighter&reg; {{ page.title }}" />
   <meta property="og:description" content="{{ site.description | replace:'regularlighter.com ','' | capitalize }} " />
   <meta property="og:image" content="https://regularlighter.com/assets/images/{% if page.maker %}{{ page.maker | replace: " ", "_" }}/{% endif %}{{ page.image }}" />
+  <style>
+    html {background-image:none;}
+    span.no {padding: 0 2px;}
+  </style>
 </head>
   <body class="{{ page.layout }} {{ page.title | replace: " ","-" | downcase }}">
-    <div id="fb-root"></div>
-    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0"></script>
     <section id="content">
      {{ content }}
     </section>
     <p>&copy; 2012&ndash;2020 {{ site.time | date: '%m%y%d' | replace: '042029', '42029' | replace: '042030', '42030' }}</p>
-    <script type="application/ld+json">
-      {
-        "@context": "http://schema.org",
-        "@type": "WebSite",
-        "name": "Regular Lighter",
-        "url": "https://regularlighter.com"
-      }
-    </script>
     <script src="/js/suggested_order.js" type="text/javascript"></script>
     {% include analytics.html %}
   </body>

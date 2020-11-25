@@ -1,5 +1,4 @@
-if($('.no').length > 0) {
-	$('.no').each(function(index, value) {
-  		this.innerHTML = index+1;
-	});
-}
+document.querySelectorAll('.no').forEach(function(index, value) {
+  var start_value=1;
+  index.innerHTML=start_value+value;
+});
