@@ -91,6 +91,7 @@ strong {
 html {
   background-image:url(/assets/images/html_bgr_img.jpg);
   background-repeat: no-repeat;
+  background-color:black;
 }
 body {
     text-align:center;
@@ -265,6 +266,10 @@ nav ul a, .info h1 a {
 }
 #content {
     margin-top: 20px;
+    color:white;
+}
+h1, article .info h1 a {
+  color:green;
 }
 .fb-like {    
     margin-top: 20px;
