@@ -2,6 +2,18 @@
   
     {
     
+      "title"    : "TERKA ISLAND",
+      "url"      : "/terkaisland",
+      "maker"    : "REGULARLIGHTER",
+      "color"    : "SEMI TRANSPARENT WHITE",
+      "category" : "REGULARLIGHTER",
+      "tags"     : "",
+      "date"     : "2020-11-25 00:00:00 +0100"
+      
+    } ,
+  
+    {
+    
       "title"    : "LITE TERKA ISLAND",
       "url"      : "/lite/terka",
       "maker"    : "LITE",

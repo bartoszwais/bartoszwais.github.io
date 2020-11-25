@@ -4,13 +4,22 @@
 	<title>Regular Lighter</title>
 	<link href="https://regularlighter.com/atom.xml" rel="self"/>
 	<link href="https://regularlighter.com"/>
-	<updated>2020-11-25T15:16:53+01:00</updated>
+	<updated>2020-11-25T16:04:12+01:00</updated>
 	<id>https://regularlighter.com</id>
 	<author>
 		<name>Bartosz Wais</name>
 		<email>bartoszwais@googlemail.com</email>
 	</author>
 
+	
+		<entry>
+			<title>TERKA ISLAND</title>
+			<link href="https://regularlighter.com/terkaisland"/>
+			<updated>2020-11-25T00:00:00+01:00</updated>
+			<id>http://regularlighter.com/terka-island</id>
+			<content type="html">
+</content>
+		</entry>
 	
 		<entry>
 			<title>LITE TERKA ISLAND</title>
