@@ -323,11 +323,11 @@ footer {
      }
 
 }
-.page.suggested-signage {
+.page.suggested-signage-and-packaging {
     #content article {
         text-align: center;
         width: 100%;
-        .suggested-signage {
+        .suggested-packaging, .suggested-signage {
             border-top: 2px solid black;
             border-bottom: 2px solid black;
             padding: 0;
@@ -337,6 +337,7 @@ footer {
         .suggested-signage h1 {
             font-size: 1em;
             line-height: 2em;
+            color:white;
         }
         .suggested-signage.bigger h1{
             font-size: 2em;

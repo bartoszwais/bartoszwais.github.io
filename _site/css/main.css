@@ -260,31 +260,32 @@ footer a {
     padding: 0 1em;
     font-size: 0.5em; }
 
-.page.suggested-signage #content article {
+.page.suggested-signage-and-packaging #content article {
   text-align: center;
   width: 100%; }
-  .page.suggested-signage #content article .suggested-signage {
+  .page.suggested-signage-and-packaging #content article .suggested-packaging, .page.suggested-signage-and-packaging #content article .suggested-signage {
     border-top: 2px solid black;
     border-bottom: 2px solid black;
     padding: 0;
     margin: 0 0 1em 0; }
-  .page.suggested-signage #content article .suggested-signage h1 {
+  .page.suggested-signage-and-packaging #content article .suggested-signage h1 {
     font-size: 1em;
-    line-height: 2em; }
-  .page.suggested-signage #content article .suggested-signage.bigger h1 {
+    line-height: 2em;
+    color: white; }
+  .page.suggested-signage-and-packaging #content article .suggested-signage.bigger h1 {
     font-size: 2em;
     line-height: 1.2em; }
-  .page.suggested-signage #content article .suggested-signage.bigger.uppercase h1 {
+  .page.suggested-signage-and-packaging #content article .suggested-signage.bigger.uppercase h1 {
     font-size: 2em;
     text-transform: uppercase;
     line-height: 1em; }
-  .page.suggested-signage #content article .suggested-signage.uppercase h1 {
+  .page.suggested-signage-and-packaging #content article .suggested-signage.uppercase h1 {
     text-transform: uppercase; }
-  .page.suggested-signage #content article .suggested-signage.bigger.lowercase h1 {
+  .page.suggested-signage-and-packaging #content article .suggested-signage.bigger.lowercase h1 {
     font-size: 2em;
     text-transform: lowercase;
     line-height: 1.1em; }
-  .page.suggested-signage #content article .suggested-signage.lowercase h1 {
+  .page.suggested-signage-and-packaging #content article .suggested-signage.lowercase h1 {
     text-transform: lowercase; }
 
 form#help-me-out {
