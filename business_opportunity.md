@@ -6,7 +6,8 @@ image: logo.png
 ---
 
 ## Franchise
-A general concept used for creating a series of products.
+- An authorization granted by a government or company to an individual or group enabling them to carry out specified commercial activities,
+- a general concept used for creating a series of products.
 
 ## Business opportunity
 If you are business owner or individual interested in earning money please read this page.
