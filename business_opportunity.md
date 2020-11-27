@@ -5,6 +5,9 @@ permalink: "/business/"
 image: logo.png
 ---
 
+## Franchise
+A general concept used for creating a series of products.
+
 ## Business opportunity
 If you are business owner or individual interested in earning money please read this page.
 Please note this document is just an early draft version.
