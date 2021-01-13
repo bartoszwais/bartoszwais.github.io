@@ -9,6 +9,11 @@ image: logo.png
 - An authorization granted by a government or company to an individual or group enabling them to carry out specified commercial activities,
 - a general concept used for creating a series of products.
 
+## Employee scenario
+For internships, short term, or regular employees, lighters can be used
+as additional grattitude for service, e.g. after 3 months at store,
+restaurant employee recives 100 custom lighters. 
+
 ## Business opportunity
 If you are business owner or individual interested in earning money please read this page.
 Please note this document is just an early draft version.
