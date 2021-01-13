@@ -23,7 +23,7 @@ If interested in promoting your business on our organic weed page, please send u
 This page is dedicated to Regular Lighter&reg; product only.
 
 ## Our product description
-Each Regular Lighter&reg; has to meet certain criteria to be displayed on regularlighter.com website.
+Each Regular Lighter&reg; has to meet certain criteria:
 - Has to have artwork engraved by hand or laser, CO2, or fibre, or any other tool, we care about final effect not your toolset.
 - It is your responsibility to provide us artwork name.
 - Paint, colours can be used.
