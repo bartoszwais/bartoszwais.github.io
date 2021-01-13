@@ -11,7 +11,7 @@ image: logo.png
 
 ## Employee scenario
 For internships, short term, or regular employees, lighters can be used
-as additional grattitude for service, e.g. after 3 months at store,
+as additional gratitude for service, e.g. after 3 months at store,
 restaurant, employee receives 100 custom lighters. 
 
 ## Business opportunity
