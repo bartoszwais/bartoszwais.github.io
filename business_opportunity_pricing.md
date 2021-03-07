@@ -5,11 +5,13 @@ permalink: "/business/pricing"
 image: logo.png
 ---
 
-## Pricing strategy [draft]
-We set pricing strategy, minimum official selling price is 20 USD/EURO/British Pound, your 1st Regular Lighter&reg; produced price should be set to total price of your equipment and time spent, 2nd should be half of 1st lighter price, 3rd should be 1/3rd, and so on.
+## Pricing strategy
+We set pricing strategy, minimum official selling price is 20 USD/EURO/GBP, your 1st Regular Lighter&reg; produced price should be set to total price of your equipment and time spent, 2nd should be half of 1st lighter price, 3rd should be 1/3rd, and so on.
 
 Below is calculation excerpt for 10001 pieces, with initial cost 100 000 USD/EURO/GBP.
 For excerpt of our calculations for [1BN initial cost](/business/pricing/1bn#content) please check dedicated page.
+
+Calculated standard income for first 91 pieces is: 509355.96138375264 USD/EURO/GBP with initial cost 100 000 USD/EURO/GBP.
 
 Due to ROMAN numbers limitation, we suggest custom coding, e.g for 9999 case it should be 9MCMXCI.
 For uncertain situations, number should be vertically aligned, not horizontally.
