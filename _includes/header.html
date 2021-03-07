@@ -1,16 +1,13 @@
 <div id="info" class="lime"><strong> Pay</strong> SOON on this website</div>
 <header>
   <h1>RE G U L AR L I G H T ER&reg; EST. APRIL 8TH 2012, FRANCHISE</h1>
-  <a class="applepaycom" href="https://www.apple.com/apple-pay/"> Pay
-   <strong>SOON on this website</strong></a>
+  <p>recently added:
+    {% for post in site.posts limit:1 %}
+      <a href="{{ post.url }}#content">{{ post.title }}</a>
+    {% endfor %}</p>
+  <a href="{{ site.url }}#end" id="start"><img src="{{ site.baseurl }}{{ site.logo }}" width="48" height="48"  alt="{{ site.title }}" /></a>
     {% include paypal_donate.html %}
-    <a href="{{ site.url }}#end" id="start">
-        <img src="{{ site.baseurl }}{{ site.logo }}" width="48" height="48"  alt="{{ site.title }}" />
-      </a>
-      <p>recently added:
-        {% for post in site.posts limit:1 %}
-          <a href="{{ post.url }}#content">{{ post.title }}</a>
-        {% endfor %}</p>
+    <a class="applepaycom" href="https://www.apple.com/apple-pay/"> Pay <strong>SOON on this website</strong></a>
   <nav>
       <ul>
           {% for my_page in site.pages %}

@@ -65,6 +65,7 @@ body {
 }
   #end, #start {
       outline: none;
+      display: block;
   }
   #start img {
     padding-top:1em;
@@ -123,6 +124,7 @@ body {
 
 }
 header nav {
+  clear: both;
     li {
         a {
             width: 7em;
@@ -405,8 +407,8 @@ form#help-me-out {
     }
 }
 #PayPalDonate {
-    margin-bottom: 2em;
-    margin-top: 2em;
+    float: left;
+    margin: 3em 0 0em 109px;
 }
 .back_to_top, article .info h1 a.back_to_top {
     float: right;
@@ -431,10 +433,12 @@ body.page2020 {
 
 .applepaycom {
     text-decoration: none;
-    margin-bottom: 2em;
-    font-size: 1.8em;
+    font-size: 1.74em;
     font-family: sans-serif;
     font-weight: bold;
+    margin-top: 1.56em;
+    float: right;
+    margin-right: 120px;
 }
 .applepaycom strong {
     font-weight: normal;
