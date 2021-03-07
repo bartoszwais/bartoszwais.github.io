@@ -6,13 +6,21 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/atom.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 07 Mar 2021 16:23:27 +0100</pubDate>
-    <lastBuildDate>Sun, 07 Mar 2021 16:23:27 +0100</lastBuildDate>
+    <pubDate>Sun, 07 Mar 2021 18:33:24 +0100</pubDate>
+    <lastBuildDate>Sun, 07 Mar 2021 18:33:24 +0100</lastBuildDate>
     <generator>Regular Lighter 0.0.1</generator>
     
       <item>
         <title>TERKA ISLAND</title>
-        <description>
+        <description>&lt;h1 id=&quot;website-terkaislandcom&quot;&gt;&lt;a href=&quot;http://terkaisland.com&quot; class=&quot;website&quot;&gt;website: terkaisland.com&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;Place from where water goes to +3 seas, Adriatic, Baltic, and Black sea.
+Biggest island in Poland.
+49.3021° N 22.4327° E&lt;/p&gt;
+
+&lt;h2 id=&quot;keywords&quot;&gt;KEYWORDS&lt;/h2&gt;
+&lt;p&gt;Atlantis, Tourism, European Union, Rzeszów, Solina, Bieszczady, National Parks, Podkarpackie, Poland, Slovakia,
+Ukraine, Water Source.&lt;/p&gt;
+
 </description>
         <pubDate>Wed, 25 Nov 2020 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/terkaisland</link>

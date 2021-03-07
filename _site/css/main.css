@@ -112,6 +112,15 @@ body {
     font-weight: bold;
     margin-top: 1em; }
 
+.post.terka-island h1#website-terkaislandcom {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-family: monospace;
+  font-size: 3.09em; }
+.post.terka-island a.website {
+  color: crimson;
+  text-decoration: none; }
+
 header nav {
   clear: both; }
   header nav li a {
