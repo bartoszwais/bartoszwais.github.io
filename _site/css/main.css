@@ -272,6 +272,10 @@ footer a {
     padding: 0 1em;
     font-size: 0.5em; }
 
+.page.wallpapers .samsung-j4-plus img {
+  width: 90%;
+  height: 90%; }
+
 .page.suggested-signage-and-packaging #content article {
   text-align: center;
   width: 100%; }
