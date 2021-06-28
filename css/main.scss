@@ -347,11 +347,10 @@ footer {
 }
 .page.suggested-signage-and-packaging {
     #content article {
-        text-align: center;
         width: 100%;
-        .suggested-packaging, .suggested-signage {
-            border-top: 2px solid black;
-            border-bottom: 2px solid black;
+        .suggested-signage {
+            border-top: 2px solid #1c1c1c;
+            border-bottom: 2px solid #1c1c1c;
             padding: 0;
             margin: 0 0 1em 0;
 
@@ -381,7 +380,15 @@ footer {
         .suggested-signage.lowercase h1{
             text-transform: lowercase;
         }
-    }
+        ul ul {
+            padding-top: 1em;
+            list-style-type:upper-latin;
+            list-style-position: inside;
+        }
+        ul+h2 {
+          padding-top:2em;
+        }
+  }
 }
 form#help-me-out {
     background-color: #efefefe6;
