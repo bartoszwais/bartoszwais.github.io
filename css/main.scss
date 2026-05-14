@@ -318,6 +318,9 @@ h1, article .info h1 a {
 
 }
 footer {
+   ul {
+      list-style-type: none;
+   }
     a {
         padding: 0.7em;
         text-transform: uppercase;
