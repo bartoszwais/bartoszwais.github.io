@@ -55,6 +55,10 @@ dd {
     color: floralwhite;
     border-bottom: 1px solid floralwhite;
     padding-bottom: 2px;
+    &:hover {
+       color:red;
+       border-bottom: 1px solid red;
+    }
 }
 #info {
     border: 2px solid red;
