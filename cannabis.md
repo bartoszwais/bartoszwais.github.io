@@ -4,6 +4,11 @@ layout: page
 permalink: "/can-a-bic/"
 image: logo.png
 ---
+## Medical cannabis EU
+The most popular cannabis strains in Germany include classic Dutch and US powerhouses like Gorilla Glue (GG4), Super Skunk, Wappa, White Widow, and Amnesia Haze.
+
+# Rzeszów
+Wedding Pie, Pink Kush, Purps, Lilac Diesel
 
 ## What is organic
 - Organic means natural, main ingredients are sunny weather, humidity, water and soil.
