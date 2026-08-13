@@ -9,7 +9,7 @@ The most popular cannabis strains in Germany include classic Dutch and US powerh
 
 # Poland
 [Medical cannabis search](https://www.gdziepolek.pl/produkty/121591/cannabis-flos-s-lab-thc-22-cbd-1-marihuana-lecznicza-medyczna/apteki)
-# Rzeszów
+# Rzeszów [TWITTER X](https://x.com/rzeszow)
 Wedding Pie, Pink Kush, Purps, Lilac Diesel
 
 # Organic weed
