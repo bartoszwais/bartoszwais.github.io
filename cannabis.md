@@ -1,5 +1,5 @@
 ---
-title: Cannabis CONTACTS LIST OUTDOOR ORGANIC WEED
+title: Cannabis CONTACTS LIST
 layout: page
 permalink: "/can-a-bic/"
 image: logo.png
