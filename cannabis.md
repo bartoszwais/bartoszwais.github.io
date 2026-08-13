@@ -8,10 +8,11 @@ image: logo.png
 The most popular cannabis strains in Germany include classic Dutch and US powerhouses like Gorilla Glue (GG4), Super Skunk, Wappa, White Widow, and Amnesia Haze.
 
 # Poland
-[Medical cannabis search]([https://duckduckgo.com](https://www.gdziepolek.pl/produkty/121591/cannabis-flos-s-lab-thc-22-cbd-1-marihuana-lecznicza-medyczna/apteki))
+[Medical cannabis search](https://www.gdziepolek.pl/produkty/121591/cannabis-flos-s-lab-thc-22-cbd-1-marihuana-lecznicza-medyczna/apteki)
 # Rzeszów
 Wedding Pie, Pink Kush, Purps, Lilac Diesel
 
+# Organic weed
 ## What is organic
 - Organic means natural, main ingredients are sunny weather, humidity, water and soil.
 - Organic weed can be used for pain relief.
