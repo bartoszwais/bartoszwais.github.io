@@ -15,9 +15,16 @@
         alert("Please enter your email address.");
         return;
       }
+      // Get the first paragraph inside #content
+      const firstParagraph = document.querySelector("#content p");
+
+      // Get its text
+      const excerpt = firstParagraph
+        ? firstParagraph.textContent.trim()
+        : "";
       const subject = encodeURIComponent(document.title);
       const body = encodeURIComponent(
-          `RE G U L AR L I G H T ER® EST. APRIL 8TH 2012, FRANCHISE\n\nHere is the page you requested:\n\n${document.title}\n${window.location.href}`
+          `RE G U L AR L I G H T ER® EST. APRIL 8TH 2012, FRANCHISE\n\n${excerpt}\n\nHere is the page you requested:\n\n${document.title}\n${window.location.href}`
       );
       window.location.href =
       `mailto:${encodeURIComponent(email)}?subject=${subject}&body=${body}`;
