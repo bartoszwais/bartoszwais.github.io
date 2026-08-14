@@ -42,7 +42,7 @@ table {
   border-spacing: 0; }
 dt { font-weight: bold; }
 dd {
-    padding-bottom: 1em;
+  padding-bottom: 1em;
 }
 #info.available {
     border: 2px solid lime;
@@ -53,6 +53,9 @@ dd {
 }
 label[for="email"] {
   display: none;
+}
+input#email {
+   width:30%;
 }
 #page_to_email {
     background-color:red;
