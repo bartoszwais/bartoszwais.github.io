@@ -51,7 +51,11 @@ dd {
     padding:0.5em;
     font-family: Arial;
 }
+label[for="email"] {
+  display: none;
+}
 #page_to_email {
+    background-color:red;
     color: floralwhite;
     border-bottom: 1px solid floralwhite;
     padding-bottom: 2px;
@@ -60,6 +64,7 @@ dd {
     &:hover {
        color:red;
        border-bottom: 1px solid red;
+       background-color:floralwhite;
     }
 }
 #info {
