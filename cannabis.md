@@ -16,6 +16,9 @@ Purps, Pink Kush, Beach Crasher, Lilac Diesel
 ## Rzeszów [TWITTER X](https://x.com/rzeszow)
 Wedding Pie, Pink Kush, Purps, Lilac Diesel
 
+### Tarnobrzeg
+Purps, Pink Kush, Master Kush, Lilac Diesel
+
 # Organic weed
 ## What is organic
 - Organic means natural, main ingredients are sunny weather, humidity, water and soil.
