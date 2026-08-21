@@ -5,7 +5,12 @@ permalink: "/can-a-bic/"
 image: logo.png
 ---
 ## Medical cannabis EU
+
+### Germany
 The most popular cannabis strains in Germany include classic Dutch and US powerhouses like Gorilla Glue (GG4), Super Skunk, Wappa, White Widow, and Amnesia Haze.
+
+### Spain
+The most popular cannabis strains in Spain include classic favorites like Amnesia Haze and Critical +, alongside modern California imports such as Lemon Cherry Gelato, Wedding Cake, and Gorilla Glue #4. These varieties dominate menus in private social clubs across cities like Barcelona, Madrid, and Seville.
 
 # Poland
 [medical cannabis search](https://www.gdziepolek.pl/produkty/121591/cannabis-flos-s-lab-thc-22-cbd-1-marihuana-lecznicza-medyczna/apteki)
