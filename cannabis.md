@@ -16,7 +16,7 @@ The most popular cannabis strains in Spain include classic favorites like Amnesi
 [medical cannabis search](https://www.gdziepolek.pl/produkty/121591/cannabis-flos-s-lab-thc-22-cbd-1-marihuana-lecznicza-medyczna/apteki)
 
 ## Warszawa [TWITTER X](https://x.com/warszawa)
-Purps, Pink Kush, Beach Crasher, Lilac Diesel
+Purps, Pink Kush, Beach Crasher, Lilac Diesel,Blueberry, Ghost Gelato
 
 ## Rzeszów [TWITTER X](https://x.com/rzeszow)
 Wedding Pie, Pink Kush, Purps, Lilac Diesel
