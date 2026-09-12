@@ -19,10 +19,10 @@ The most popular cannabis strains in Spain include classic favorites like Amnesi
 Purps, Pink Kush, Beach Crasher, Lilac Diesel, Blueberry, Ghost Gelato
 
 ## Rzeszów [TWITTER X](https://x.com/rzeszow)
-Wedding Pie, Pink Kush, Purps, Lilac Diesel
+Wedding Pie, Pink Kush, Purps, Lilac Diesel, Blueberry, Ghost Gelato
 
 ### Tarnobrzeg
-Purps, Pink Kush, Master Kush, Lilac Diesel
+Purps, Pink Kush, Master Kush, Lilac Diesel, Blueberry, Ghost Gelato
 
 # Organic weed
 ## What is organic
